@@ -17,6 +17,7 @@ CREATE TABLE Estados (
 
 	Estado_ID INT Primary Key NOT NULL,
 	Estado_Nome VARCHAR (22),
+	Estado_Sigla VARCHAR (2),
 	Regiao_ID INT,
 	FOREIGN KEY (Regiao_ID) REFERENCES Regiao (Regiao_ID)
 
