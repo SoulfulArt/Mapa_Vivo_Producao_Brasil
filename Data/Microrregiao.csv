@@ -1,38 +1,38 @@
 Microrregiao_ID,Nome_Microrregião,Mesorregiao_ID
 1,Cacoal,72
 2,Ariquemes,72
-3,Alvorada D'Oeste,72
-4,Porto Velho,73
-5,Colorado do Oeste,72
+3,"Alvorada D'Oeste",72
+4,"Porto Velho",73
+5,"Colorado do Oeste",72
 6,Vilhena,72
 7,Guajará-Mirim,73
 8,Ji-Paraná,72
-9,Rio Branco,58
+9,"Rio Branco",58
 10,Brasiléia,58
-11,Cruzeiro do Sul,59
+11,"Cruzeiro do Sul",59
 12,Tarauacá,59
-13,Sena Madureira,58
+13,"Sena Madureira",58
 14,Tefé,60
-15,Alto Solimões,62
+15,"Alto Solimões",62
 16,Coari,60
 17,Madeira,63
 18,Manaus,60
-19,Rio Negro,61
+19,"Rio Negro",61
 20,Parintins,60
-21,Boca do Acre,63
+21,"Boca do Acre",63
 22,Purus,63
 23,Juruá,62
 24,Itacoatiara,60
 25,Japurá,61
-26,Rio Preto da Eva,60
-27,Boa Vista,74
-28,Nordeste de Roraima,74
+26,"Rio Preto da Eva",60
+27,"Boa Vista",74
+28,"Nordeste de Roraima",74
 29,Caracaraí,75
-30,Sudeste de Roraima,75
+30,"Sudeste de Roraima",75
 31,Cametá,69
 32,Paragominas,70
 33,Tomé-Açu,69
-34,Furos de Breves,67
+34,"Furos de Breves",67
 35,Parauapebas,70
 36,Santarém,66
 37,Almeirim,66
@@ -42,320 +42,320 @@ Microrregiao_ID,Nome_Microrregião,Mesorregiao_ID
 41,Guamá,69
 42,Itaituba,71
 43,Portel,67
-44,São Félix do Xingu,70
+44,"São Félix do Xingu",70
 45,Marabá,70
 46,Tucuruí,70
 47,Castanhal,68
 48,Arari,67
 49,Salgado,69
-50,Conceição do Araguaia,70
+50,"Conceição do Araguaia",70
 51,Óbidos,66
 52,Redenção,70
 53,Amapá,64
 54,Oiapoque,64
 55,Macapá,65
 56,Mazagão,65
-57,Miracema do Tocantins,76
-58,Bico do Papagaio,76
+57,"Miracema do Tocantins",76
+58,"Bico do Papagaio",76
 59,Gurupi,76
 60,Dianópolis,77
-61,Porto Nacional,77
+61,"Porto Nacional",77
 62,Araguaína,76
-63,Rio Formoso,76
+63,"Rio Formoso",76
 64,Jalapão,77
 65,Imperatriz,36
-66,Coelho Neto,34
-67,Baixo Parnaíba Maranhense,34
-68,Litoral Ocidental Maranhense,35
+66,"Coelho Neto",34
+67,"Baixo Parnaíba Maranhense",34
+68,"Litoral Ocidental Maranhense",35
 69,Pindaré,36
 70,Codó,34
-71,Gerais de Balsas,37
-72,Baixada Maranhense,35
+71,"Gerais de Balsas",37
+72,"Baixada Maranhense",35
 73,Chapadinha,34
-74,Alto Mearim e Grajaú,33
+74,"Alto Mearim e Grajaú",33
 75,Rosário,35
-76,Médio Mearim,33
-77,Chapadas do Alto Itapecuru,34
-78,Lençóis Maranhenses,35
-79,Chapadas das Mangabeiras,37
+76,"Médio Mearim",33
+77,"Chapadas do Alto Itapecuru",34
+78,"Lençóis Maranhenses",35
+79,"Chapadas das Mangabeiras",37
 80,Caxias,34
-81,Porto Franco,37
-82,Itapecuru Mirim,35
-83,Presidente Dutra,33
-84,Aglomeração Urbana de São Luís,35
-85,Alto Médio Canindé,49
-86,Médio Parnaíba Piauiense,47
-87,Pio IX,49
-88,Campo Maior,47
+81,"Porto Franco",37
+82,"Itapecuru Mirim",35
+83,"Presidente Dutra",33
+84,"Aglomeração Urbana de São Luís",35
+85,"Alto Médio Canindé",49
+86,"Médio Parnaíba Piauiense",47
+87,"Pio IX",49
+88,"Campo Maior",47
 89,Teresina,47
-90,Alto Médio Gurguéia,50
-91,São Raimundo Nonato,50
+90,"Alto Médio Gurguéia",50
+91,"São Raimundo Nonato",50
 92,Bertolínia,50
-93,Valença do Piauí,47
+93,"Valença do Piauí",47
 94,Picos,49
-95,Chapadas do Extremo Sul Piauiense,50
-96,Alto Parnaíba Piauiense,50
-97,Baixo Parnaíba Piauiense,48
-98,Litoral Piauiense,48
+95,"Chapadas do Extremo Sul Piauiense",50
+96,"Alto Parnaíba Piauiense",50
+97,"Baixo Parnaíba Piauiense",48
+98,"Litoral Piauiense",48
 99,Floriano,50
-100,Brejo Santo,32
+100,"Brejo Santo",32
 101,Baturité,30
-102,Litoral de Camocim e Acaraú,29
-103,Sertão de Senador Pompeu,31
-104,Sertão de Inhamuns,31
+102,"Litoral de Camocim e Acaraú",29
+103,"Sertão de Senador Pompeu",31
+104,"Sertão de Inhamuns",31
 105,Meruoca,29
 106,Caririaçu,32
-107,Baixo Jaguaribe,27
+107,"Baixo Jaguaribe",27
 108,Itapipoca,30
-109,Várzea Alegre,26
-110,Médio Curu,30
+109,"Várzea Alegre",26
+110,"Médio Curu",30
 111,Fortaleza,28
-112,Litoral de Aracati,27
-113,Sertão de Cratéus,31
-114,Chapada do Araripe,32
+112,"Litoral de Aracati",27
+113,"Sertão de Cratéus",31
+114,"Chapada do Araripe",32
 115,Barro,32
-116,Lavras da Mangabeira,26
-117,Sertão de Quixeramobim,31
+116,"Lavras da Mangabeira",26
+117,"Sertão de Quixeramobim",31
 118,Cariri,32
 119,Chorozinho,30
 120,Cascavel,30
 121,Canindé,30
 122,Sobral,29
 123,Ibiapaba,29
-124,Santa Quitéria,29
+124,"Santa Quitéria",29
 125,Iguatu,26
 126,Coreaú,29
-127,Serra do Pereiro,27
+127,"Serra do Pereiro",27
 128,Pacajus,28
 129,Ipu,29
 130,Uruburetama,30
-131,Médio Jaguaribe,27
-132,Baixo Curu,30
-133,Seridó Oriental,52
-134,Vale do Açu,51
+131,"Médio Jaguaribe",27
+132,"Baixo Curu",30
+133,"Seridó Oriental",52
+134,"Vale do Açu",51
 135,Angicos,52
-136,Serra de São Miguel,51
-137,Pau dos Ferros,51
+136,"Serra de São Miguel",51
+137,"Pau dos Ferros",51
 138,Umarizal,51
-139,Chapada do Apodi,51
+139,"Chapada do Apodi",51
 140,Mossoró,51
-141,Litoral Sul,54
-142,Borborema Potiguar,53
-143,Baixa Verde,53
-144,Serra de Santana,52
-145,Agreste Potiguar,53
+141,"Litoral Sul",54
+142,"Borborema Potiguar",53
+143,"Baixa Verde",53
+144,"Serra de Santana",52
+145,"Agreste Potiguar",53
 146,Macau,52
-147,Seridó Ocidental,52
-148,Médio Oeste,51
+147,"Seridó Ocidental",52
+148,"Médio Oeste",51
 149,Macaíba,54
 150,Natal,54
-151,Litoral Nordeste,54
-152,Serra do Teixeira,38
+151,"Litoral Nordeste",54
+152,"Serra do Teixeira",38
 153,Piancó,38
-154,Brejo Paraibano,40
+154,"Brejo Paraibano",40
 155,Guarabira,40
-156,Cariri Oriental,39
-157,Curimataú Ocidental,40
-158,Cariri Ocidental,39
+156,"Cariri Oriental",39
+157,"Curimataú Ocidental",40
+158,"Cariri Ocidental",39
 159,Sousa,38
-160,Curimataú Oriental,40
+160,"Curimataú Oriental",40
 161,Patos,38
 162,Esperança,40
 163,Umbuzeiro,40
-164,Litoral Norte,41
-165,Seridó Oriental Paraibano,39
-166,João Pessoa,41
-167,Catolé do Rocha,38
+164,"Litoral Norte",41
+165,"Seridó Oriental Paraibano",39
+166,"João Pessoa",41
+167,"Catolé do Rocha",38
 168,Cajazeiras,38
 169,Itaporanga,38
-170,Campina Grande,40
+170,"Campina Grande",40
 171,Itabaiana,40
 172,Sapé,41
-173,Seridó Ocidental Paraibano,39
+173,"Seridó Ocidental Paraibano",39
 174,Recife,46
 175,Pajeú,43
 176,Petrolina,42
-177,Brejo Pernambucano,44
-178,Mata Meridional Pernambucana,45
-179,Vale do Ipanema,44
-180,Vale do Ipojuca,44
-181,Mata Setentrional Pernambucana,45
+177,"Brejo Pernambucano",44
+178,"Mata Meridional Pernambucana",45
+179,"Vale do Ipanema",44
+180,"Vale do Ipojuca",44
+181,"Mata Setentrional Pernambucana",45
 182,Garanhuns,44
 183,Itamaracá,46
 184,Araripina,43
-185,Sertão do Moxotó,43
+185,"Sertão do Moxotó",43
 186,Itaparica,42
-187,Médio Capibaribe,44
+187,"Médio Capibaribe",44
 188,Suape,46
-189,Alto Capibaribe,44
+189,"Alto Capibaribe",44
 190,Salgueiro,43
-191,Vitória de Santo Antão,45
-192,Fernando de Noronha,46
-193,Serrana do Sertão Alagoano,18
-194,São Miguel dos Campos,17
+191,"Vitória de Santo Antão",45
+192,"Fernando de Noronha",46
+193,"Serrana do Sertão Alagoano",18
+194,"São Miguel dos Campos",17
 195,Arapiraca,16
-196,Mata Alagoana,17
+196,"Mata Alagoana",17
 197,Maceió,17
 198,Batalha,18
-199,Palmeira dos Índios,16
-200,Santana do Ipanema,18
-201,Serrana dos Quilombos,17
-202,Alagoana do Sertão do São Francisco,18
+199,"Palmeira dos Índios",16
+200,"Santana do Ipanema",18
+201,"Serrana dos Quilombos",17
+202,"Alagoana do Sertão do São Francisco",18
 203,Penedo,17
-204,Litoral Norte Alagoano,17
+204,"Litoral Norte Alagoano",17
 205,Traipu,16
 206,Propriá,56
-207,Nossa Senhora das Dores,55
+207,"Nossa Senhora das Dores",55
 208,Aracaju,56
 209,Boquim,56
-210,Agreste de Itabaiana,55
-211,Sergipana do Sertão do São Francisco,57
+210,"Agreste de Itabaiana",55
+211,"Sergipana do Sertão do São Francisco",57
 212,Cotinguiba,56
 213,Carira,57
-214,Baixo Cotinguiba,56
+214,"Baixo Cotinguiba",56
 215,Estância,56
 216,Japaratuba,56
-217,Agreste de Lagarto,55
-218,Tobias Barreto,55
+217,"Agreste de Lagarto",55
+218,"Tobias Barreto",55
 219,Seabra,21
-220,Paulo Afonso,20
+220,"Paulo Afonso",20
 221,Alagoinhas,24
-222,Ribeira do Pombal,24
-223,Feira de Santana,23
+222,"Ribeira do Pombal",24
+223,"Feira de Santana",23
 224,Jequié,21
-225,Porto Seguro,22
+225,"Porto Seguro",22
 226,Ilhéus-Itabuna,22
 227,Catu,25
 228,Irecê,23
-229,Vitória da Conquista,21
-230,Senhor do Bonfim,23
+229,"Vitória da Conquista",21
+230,"Senhor do Bonfim",23
 231,Cotegipe,19
 232,Brumado,21
 233,Serrinha,24
-234,Santo Antônio de Jesus,25
+234,"Santo Antônio de Jesus",25
 235,Barreiras,19
 236,Itaberaba,23
 237,Barra,20
-238,Bom Jesus da Lapa,20
+238,"Bom Jesus da Lapa",20
 239,Boquira,21
 240,Guanambi,21
 241,Jacobina,23
 242,Valença,22
 243,Salvador,25
 244,Juazeiro,20
-245,Santa Maria da Vitória,19
-246,Euclides da Cunha,24
-247,Entre Rios,24
+245,"Santa Maria da Vitória",19
+246,"Euclides da Cunha",24
+247,"Entre Rios",24
 248,Jeremoabo,24
-249,Livramento do Brumado,21
+249,"Livramento do Brumado",21
 250,Itapetinga,21
 251,Patrocínio,90
-252,Três Marias,83
+252,"Três Marias",83
 253,Manhuaçu,93
-254,Ponte Nova,93
+254,"Ponte Nova",93
 255,Ipatinga,92
 256,Peçanha,92
 257,Uberaba,90
-258,Campo Belo,88
+258,"Campo Belo",88
 259,Nanuque,91
 260,Salinas,87
 261,Aimorés,92
 262,Andrelândia,89
-263,São Lourenço,89
-264,Poços de Caldas,89
+263,"São Lourenço",89
+264,"Poços de Caldas",89
 265,Cataguases,93
 266,Alfenas,89
 267,Barbacena,82
 268,Almenara,84
-269,Governador Valadares,92
+269,"Governador Valadares",92
 270,Passos,89
 271,Viçosa,93
 272,Itabira,85
-273,Conceição do Mato Dentro,85
+273,"Conceição do Mato Dentro",85
 274,Capelinha,84
 275,Muriaé,93
-276,Sete Lagoas,85
-277,Juiz de Fora,93
+276,"Sete Lagoas",85
+277,"Juiz de Fora",93
 278,Araçuaí,84
 279,Uberlândia,90
-280,Patos de Minas,90
-281,Bom Despacho,83
+280,"Patos de Minas",90
+281,"Bom Despacho",83
 282,Araxá,90
-283,São Sebastião do Paraíso,89
+283,"São Sebastião do Paraíso",89
 284,Formiga,88
 285,Unaí,86
 286,Ubá,93
-287,Teófilo Otoni,91
+287,"Teófilo Otoni",91
 288,Curvelo,83
 289,Piuí,88
-290,Belo Horizonte,85
+290,"Belo Horizonte",85
 291,Itaguara,85
 292,Varginha,89
 293,Bocaiúva,87
 294,Caratinga,92
-295,Pouso Alegre,89
+295,"Pouso Alegre",89
 296,Oliveira,88
 297,Januária,87
-298,Grão Mogol,87
+298,"Grão Mogol",87
 299,Paracatu,86
-300,Montes Claros,87
+300,"Montes Claros",87
 301,Guanhães,92
 302,Itajubá,89
 303,Pirapora,87
-304,Santa Rita do Sapucaí,89
-305,Pedra Azul,84
+304,"Santa Rita do Sapucaí",89
+305,"Pedra Azul",84
 306,Ituiutaba,90
 307,Frutal,90
 308,Divinópolis,88
 309,Lavras,82
-310,Conselheiro Lafaiete,85
+310,"Conselheiro Lafaiete",85
 311,Janaúba,87
 312,Mantena,92
-313,São João Del Rei,82
+313,"São João Del Rei",82
 314,Diamantina,84
-315,Ouro Preto,85
-316,Pará de Minas,85
-317,Afonso Cláudio,78
-318,Barra de São Francisco,80
-319,Nova Venécia,80
+315,"Ouro Preto",85
+316,"Pará de Minas",85
+317,"Afonso Cláudio",78
+318,"Barra de São Francisco",80
+319,"Nova Venécia",80
 320,Alegre,81
 321,Guarapari,78
 322,Colatina,80
-323,Cachoeiro de Itapemirim,81
+323,"Cachoeiro de Itapemirim",81
 324,Linhares,79
 325,Vitória,78
-326,São Mateus,79
-327,Santa Teresa,78
+326,"São Mateus",79
+327,"Santa Teresa",78
 328,Itapemirim,81
 329,Montanha,79
-330,Baía da Ilha Grande,99
-331,Santo Antônio de Pádua,97
+330,"Baía da Ilha Grande",99
+331,"Santo Antônio de Pádua",97
 332,Lagos,94
-333,Três Rios,95
-334,Barra do Piraí,99
-335,Vale do Paraíba Fluminense,99
-336,Rio de Janeiro,96
-337,Nova Friburgo,95
+333,"Três Rios",95
+334,"Barra do Piraí",99
+335,"Vale do Paraíba Fluminense",99
+336,"Rio de Janeiro",96
+337,"Nova Friburgo",95
 338,Itaperuna,97
 339,Macacu-Caceribu,96
-340,Campos dos Goytacazes,98
+340,"Campos dos Goytacazes",98
 341,Cantagalo-Cordeiro,95
 342,Macaé,98
-343,Bacia de São João,94
+343,"Bacia de São João",94
 344,Vassouras,96
 345,Itaguaí,96
 346,Serrana,96
-347,Santa Maria Madalena,95
+347,"Santa Maria Madalena",95
 348,Adamantina,107
-349,São José do Rio Preto,100
+349,"São José do Rio Preto",100
 350,Pirassununga,106
-351,São João da Boa Vista,106
+351,"São João da Boa Vista",106
 352,Amparo,106
 353,Avaré,103
 354,Piracicaba,105
 355,Bauru,103
 356,Itapetininga,110
-357,Presidente Prudente,107
+357,"Presidente Prudente",107
 358,Batatais,101
 359,Birigui,102
 360,Sorocaba,111
@@ -363,54 +363,54 @@ Microrregiao_ID,Nome_Microrregião,Mesorregiao_ID
 362,Marília,108
 363,Campinas,106
 364,Araraquara,104
-365,São Carlos,104
+365,"São Carlos",104
 366,Andradina,102
 367,Botucatu,103
 368,Guaratinguetá,112
 369,Jales,100
-370,Capão Bonito,110
+370,"Capão Bonito",110
 371,Araçatuba,102
 372,Ituverava,101
 373,Bananal,112
 374,Limeira,105
 375,Tupã,108
 376,Catanduva,100
-377,Mogi Mirim,106
+377,"Mogi Mirim",106
 378,Guarulhos,114
 379,Assis,109
-380,Bragança Paulista,111
+380,"Bragança Paulista",111
 381,Auriflama,100
 382,Itapeva,110
 383,Jaú,103
 384,Registro,113
 385,Barretos,101
-386,Ribeirão Preto,101
+386,"Ribeirão Preto",101
 387,Osasco,114
 388,Jaboticabal,101
 389,Ourinhos,109
 390,Santos,114
-391,Mogi das Cruzes,114
+391,"Mogi das Cruzes",114
 392,Tatuí,110
-393,Rio Claro,105
-394,São José dos Campos,112
+393,"Rio Claro",105
+394,"São José dos Campos",112
 395,Lins,103
-396,Franco da Rocha,114
+396,"Franco da Rocha",114
 397,Jundiaí,111
-398,Campos do Jordão,112
+398,"Campos do Jordão",112
 399,Caraguatatuba,112
-400,Itapecerica da Serra,114
+400,"Itapecerica da Serra",114
 401,Franca,101
 402,Paraibuna/Paraitinga,112
-403,São Paulo,114
+403,"São Paulo",114
 404,Dracena,107
 405,Fernandópolis,100
-406,São Joaquim da Barra,101
+406,"São Joaquim da Barra",101
 407,Piedade,111
-408,Novo Horizonte,100
+408,"Novo Horizonte",100
 409,Itanhaém,113
 410,Nhandeara,100
-411,Cornélio Procópio,121
-412,Cerro Azul,118
+411,"Cornélio Procópio",121
+412,"Cerro Azul",118
 413,Curitiba,118
 414,Goioerê,115
 415,Umuarama,119
@@ -419,44 +419,44 @@ Microrregiao_ID,Nome_Microrregião,Mesorregiao_ID
 418,Capanema,124
 419,Astorga,120
 420,Paranaguá,118
-421,São Mateus do Sul,123
+421,"São Mateus do Sul",123
 422,Apucarana,120
 423,Jaguariaíva,116
 424,Ivaiporã,120
-425,Campo Mourão,115
+425,"Campo Mourão",115
 426,Assaí,121
 427,Toledo,122
 428,Jacarezinho,121
-429,Francisco Beltrão,124
-430,União da Vitória,123
+429,"Francisco Beltrão",124
+430,"União da Vitória",123
 431,Pitanga,117
 432,Faxinal,120
-433,Pato Branco,124
+433,"Pato Branco",124
 434,Londrina,120
 435,Guarapuava,117
-436,Ponta Grossa,116
-437,Wenceslau Braz,121
-438,Foz do Iguaçu,122
+436,"Ponta Grossa",116
+437,"Wenceslau Braz",121
+438,"Foz do Iguaçu",122
 439,Cianorte,119
 440,Palmas,117
 441,Ibaiti,121
 442,Floraí,120
 443,Prudentópolis,123
-444,Telêmaco Borba,116
+444,"Telêmaco Borba",116
 445,Irati,123
 446,Lapa,118
 447,Maringá,120
 448,Curitibanos,135
 449,Xanxerê,134
 450,Ituporanga,137
-451,Rio do Sul,137
+451,"Rio do Sul",137
 452,Joaçaba,134
 453,Chapecó,134
 454,Tabuleiro,132
 455,Concórdia,134
-456,São Miguel do Oeste,134
+456,"São Miguel do Oeste",134
 457,Tijucas,132
-458,Campos de Lages,135
+458,"Campos de Lages",135
 459,Florianópolis,132
 460,Blumenau,137
 461,Joinville,133
@@ -465,91 +465,92 @@ Microrregiao_ID,Nome_Microrregião,Mesorregiao_ID
 464,Itajaí,137
 465,Criciúma,136
 466,Canoinhas,133
-467,São Bento do Sul,133
-468,Campanha Meridional,131
-469,Passo Fundo,129
-470,Restinga Seca,125
+467,"São Bento do Sul",133
+468,"Campanha Meridional",131
+469,"Passo Fundo",129
+470,"Restinga Seca",125
 471,Ijuí,129
-472,Santa Rosa,129
-473,Campanha Ocidental,131
+472,"Santa Rosa",129
+473,"Campanha Ocidental",131
 474,Carazinho,129
-475,Frederico Westphalen,129
-476,Cruz Alta,129
+475,"Frederico Westphalen",129
+476,"Cruz Alta",129
 477,Montenegro,127
-478,Porto Alegre,127
-479,Serras de Sudeste,130
+478,"Porto Alegre",127
+479,"Serras de Sudeste",130
 480,Guaporé,128
-481,Caxias do Sul,128
+481,"Caxias do Sul",128
 482,Camaquã,127
 483,Erechim,129
 484,Lajeado-Estrela,126
 485,Pelotas,130
 486,Osório,127
-487,Santa Cruz do Sul,126
-488,São Jerônimo,127
+487,"Santa Cruz do Sul",126
+488,"São Jerônimo",127
 489,Jaguarão,130
-490,Três Passos,129
+490,"Três Passos",129
 491,Sananduva,129
 492,Soledade,129
 493,Vacaria,128
-494,Santo Ângelo,129
-495,Santa Maria,125
-496,Cachoeira do Sul,126
-497,Cerro Largo,129
+494,"Santo Ângelo",129
+495,"Santa Maria",125
+496,"Cachoeira do Sul",126
+497,"Cerro Largo",129
 498,Gramado-Canela,127
 499,Santiago,125
-500,Litoral Lagunar,130
+500,"Litoral Lagunar",130
 501,Não-Me-Toque,129
-502,Campanha Central,131
-503,Três Lagoas,8
-504,Alto Taquari,7
+502,"Campanha Central",131
+503,"Três Lagoas",8
+504,"Alto Taquari",7
 505,Dourados,9
 506,Aquidauana,10
-507,Nova Andradina,8
+507,"Nova Andradina",8
 508,Iguatemi,9
 509,Paranaíba,8
-510,Campo Grande,7
+510,"Campo Grande",7
 511,Bodoquena,9
 512,Cassilândia,8
-513,Baixo Pantanal,10
-514,Rosário Oeste,11
+513,"Baixo Pantanal",10
+514,"Rosário Oeste",11
 515,Canarana,12
-516,Alta Floresta,13
-517,Alto Araguaia,14
-518,Norte Araguaia,12
-519,Alto Paraguai,11
-520,Médio Araguaia,12
+516,"Alta Floresta",13
+517,"Alto Araguaia",14
+518,"Norte Araguaia",12
+519,"Alto Paraguai",11
+520,"Médio Araguaia",12
 521,Tesouro,14
 522,Jauru,15
 523,Aripuanã,13
-524,Alto Pantanal,11
-525,Tangará da Serra,15
+524,"Alto Pantanal",11
+525,"Tangará da Serra",15
 526,Parecis,13
-527,Primavera do Leste,14
+527,"Primavera do Leste",14
 528,Cuiabá,11
 529,Sinop,13
 530,Colíder,13
-531,Alto Guaporé,15
+531,"Alto Guaporé",15
 532,Rondonópolis,14
 533,Paranatinga,13
-534,Alto Teles Pires,13
+534,"Alto Teles Pires",13
 535,Arinos,13
 536,Goiânia,5
-537,Entorno de Brasília,4
-538,Vale do Rio dos Bois,6
+537,"Entorno de Brasília",4
+538,"Vale do Rio dos Bois",6
 539,Anicuns,5
-540,Meia Ponte,6
+540,"Meia Ponte",6
 541,Porangatu,2
-542,Chapada dos Veadeiros,2
-543,Vão do Paranã,4
+542,"Chapada dos Veadeiros",2
+543,"Vão do Paranã",4
 544,Iporá,5
 545,Anápolis,5
 546,Catalão,6
-547,Sudoeste de Goiás,6
+547,"Sudoeste de Goiás",6
 548,Aragarças,3
-549,Rio Vermelho,3
+549,"Rio Vermelho",3
 550,Ceres,5
 551,Quirinópolis,6
-552,Pires do Rio,6
-553,São Miguel do Araguaia,3
+552,"Pires do Rio",6
+553,"São Miguel do Araguaia",3
 554,Brasília,1
+555,Cascavel,122

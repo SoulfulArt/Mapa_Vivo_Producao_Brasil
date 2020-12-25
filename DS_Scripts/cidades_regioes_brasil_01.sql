@@ -1,6 +1,5 @@
 /*
-This script generate data for the group of tables called Nome de Cidades e 
-Regiões 
+This script load data for the tables of this project
 To work properly csv files should be on the same directory where the script is 
 being executed. These files shall be named Estados, Mesorregiao, Microrregiao,
 Municipios and must be csv files.
@@ -26,4 +25,7 @@ LOAD DATA LOCAL INFILE  'Microrregiao.csv' INTO TABLE Microrregiao
 FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n' IGNORE 1 ROWS;
 
 LOAD DATA LOCAL INFILE  'Municipios.csv' INTO TABLE Municipios
+FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n' IGNORE 1 ROWS;
+
+LOAD DATA LOCAL INFILE  'Pib_Municipal.csv' INTO TABLE Pib_Municipal
 FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n' IGNORE 1 ROWS;

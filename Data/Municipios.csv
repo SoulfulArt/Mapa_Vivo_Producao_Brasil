@@ -1,76 +1,76 @@
 Municipio_ID,Municipios_Nome,Microrregiao_ID
-1,Alta Floresta D'Oeste,1
-2,Alto Alegre dos Parecis,1
-3,Alto Paraíso,2
-4,Alvorada D'Oeste,3
+1,"Alta Floresta D'Oeste",1
+2,"Alto Alegre dos Parecis",1
+3,"Alto Paraíso",2
+4,"Alvorada D'Oeste",3
 5,Ariquemes,2
 6,Buritis,4
 7,Cabixi,5
 8,Cacaulândia,2
 9,Cacoal,1
-10,Campo Novo de Rondônia,4
-11,Candeias do Jamari,4
+10,"Campo Novo de Rondônia",4
+11,"Candeias do Jamari",4
 12,Castanheiras,1
 13,Cerejeiras,5
 14,Chupinguaia,6
-15,Colorado do Oeste,5
+15,"Colorado do Oeste",5
 16,Corumbiara,5
-17,Costa Marques,7
+17,"Costa Marques",7
 18,Cujubim,4
-19,Espigão D'Oeste,1
-20,Governador Jorge Teixeira,8
+19,"Espigão D'Oeste",1
+20,"Governador Jorge Teixeira",8
 21,Guajará-Mirim,7
-22,Itapuã do Oeste,4
+22,"Itapuã do Oeste",4
 23,Jaru,8
 24,Ji-Paraná,8
-25,Machadinho D'Oeste,2
-26,Ministro Andreazza,1
-27,Mirante da Serra,8
-28,Monte Negro,2
-29,Nova Brasilândia D'Oeste,3
-30,Nova Mamoré,4
-31,Nova União,8
-32,Novo Horizonte do Oeste,1
-33,Ouro Preto do Oeste,8
+25,"Machadinho D'Oeste",2
+26,"Ministro Andreazza",1
+27,"Mirante da Serra",8
+28,"Monte Negro",2
+29,"Nova Brasilândia D'Oeste",3
+30,"Nova Mamoré",4
+31,"Nova União",8
+32,"Novo Horizonte do Oeste",1
+33,"Ouro Preto do Oeste",8
 34,Parecis,6
-35,Pimenta Bueno,6
-36,Pimenteiras do Oeste,5
-37,Porto Velho,4
-38,Presidente Médici,8
-39,Primavera de Rondônia,6
-40,Rio Crespo,2
-41,Rolim de Moura,1
-42,Santa Luzia D'Oeste,1
-43,São Felipe D'Oeste,6
-44,São Francisco do Guaporé,7
-45,São Miguel do Guaporé,3
+35,"Pimenta Bueno",6
+36,"Pimenteiras do Oeste",5
+37,"Porto Velho",4
+38,"Presidente Médici",8
+39,"Primavera de Rondônia",6
+40,"Rio Crespo",2
+41,"Rolim de Moura",1
+42,"Santa Luzia D'Oeste",1
+43,"São Felipe D'Oeste",6
+44,"São Francisco do Guaporé",7
+45,"São Miguel do Guaporé",3
 46,Seringueiras,3
 47,Teixeirópolis,8
 48,Theobroma,8
 49,Urupá,8
-50,Vale do Anari,2
-51,Vale do Paraíso,8
+50,"Vale do Anari",2
+51,"Vale do Paraíso",8
 52,Vilhena,6
 53,Acrelândia,9
-54,Assis Brasil,10
+54,"Assis Brasil",10
 55,Brasiléia,10
 56,Bujari,9
 57,Capixaba,9
-58,Cruzeiro do Sul,11
+58,"Cruzeiro do Sul",11
 59,Epitaciolândia,10
 60,Feijó,12
 61,Jordão,12
-62,Mâncio Lima,11
-63,Manoel Urbano,13
-64,Marechal Thaumaturgo,11
-65,Plácido de Castro,9
-66,Porto Acre,9
-67,Porto Walter,11
-68,Rio Branco,9
-69,Rodrigues Alves,11
-70,Santa Rosa do Purus,13
-71,Sena Madureira,13
-72,Senador Guiomard,9
+62,"Mâncio Lima",11
+63,"Manoel Urbano",13
+64,"Marechal Thaumaturgo",11
+65,"Plácido de Castro",9
+66,"Porto Acre",9
+67,"Porto Walter",11
+68,"Rio Branco",9
+69,"Rodrigues Alves",11
+70,"Santa Rosa do Purus",13
+71,"Sena Madureira",13
+72,"Senador Guiomard",9
 73,Tarauacá,12
 74,Xapuri,10
 75,Alvarães,14
@@ -78,25 +78,25 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 77,Anamã,16
 78,Anori,16
 79,Apuí,17
-80,Atalaia do Norte,15
+80,"Atalaia do Norte",15
 81,Autazes,18
 82,Barcelos,19
 83,Barreirinha,20
-84,Benjamin Constant,15
+84,"Benjamin Constant",15
 85,Beruri,16
-86,Boa Vista do Ramos,20
-87,Boca do Acre,21
+86,"Boa Vista do Ramos",20
+87,"Boca do Acre",21
 88,Borba,17
 89,Caapiranga,16
 90,Canutama,22
 91,Carauari,23
 92,Careiro,18
-93,Careiro da Várzea,18
+93,"Careiro da Várzea",18
 94,Coari,16
 95,Codajás,16
 96,Eirunepé,23
 97,Envira,23
-98,Fonte Boa,15
+98,"Fonte Boa",15
 99,Guajará,23
 100,Humaitá,17
 101,Ipixuna,23
@@ -115,18 +115,18 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 114,Maraã,25
 115,Maués,20
 116,Nhamundá,20
-117,Nova Olinda do Norte,24
-118,Novo Airão,19
-119,Novo Aripuanã,17
+117,"Nova Olinda do Norte",24
+118,"Novo Airão",19
+119,"Novo Aripuanã",17
 120,Parintins,20
 121,Pauini,21
-122,Presidente Figueiredo,26
-123,Rio Preto da Eva,26
-124,Santa Isabel do Rio Negro,19
-125,Santo Antônio do Içá,15
-126,São Gabriel da Cachoeira,19
-127,São Paulo de Olivença,15
-128,São Sebastião do Uatumã,20
+122,"Presidente Figueiredo",26
+123,"Rio Preto da Eva",26
+124,"Santa Isabel do Rio Negro",19
+125,"Santo Antônio do Içá",15
+126,"São Gabriel da Cachoeira",19
+127,"São Paulo de Olivença",15
+128,"São Sebastião do Uatumã",20
 129,Silves,24
 130,Tabatinga,15
 131,Tapauá,22
@@ -135,9 +135,9 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 134,Uarini,14
 135,Urucará,20
 136,Urucurituba,24
-137,Alto Alegre,27
+137,"Alto Alegre",27
 138,Amajari,27
-139,Boa Vista,27
+139,"Boa Vista",27
 140,Bonfim,28
 141,Cantá,28
 142,Caracaraí,29
@@ -147,22 +147,22 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 146,Normandia,28
 147,Pacaraima,27
 148,Rorainópolis,30
-149,São João da Baliza,30
-150,São Luiz,30
+149,"São João da Baliza",30
+150,"São Luiz",30
 151,Uiramutã,28
 152,Abaetetuba,31
-153,Abel Figueiredo,32
+153,"Abel Figueiredo",32
 154,Acará,33
 155,Afuá,34
-156,Água Azul do Norte,35
+156,"Água Azul do Norte",35
 157,Alenquer,36
 158,Almeirim,37
 159,Altamira,38
 160,Anajás,34
 161,Ananindeua,39
 162,Anapu,38
-163,Augusto Corrêa,40
-164,Aurora do Pará,41
+163,"Augusto Corrêa",40
+164,"Aurora do Pará",41
 165,Aveiro,42
 166,Bagre,43
 167,Baião,31
@@ -171,50 +171,50 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 170,Belém,39
 171,Belterra,36
 172,Benevides,39
-173,Bom Jesus do Tocantins,32
+173,"Bom Jesus do Tocantins",32
 174,Bonito,40
 175,Bragança,40
-176,Brasil Novo,38
-177,Brejo Grande do Araguaia,45
-178,Breu Branco,46
+176,"Brasil Novo",38
+177,"Brejo Grande do Araguaia",45
+178,"Breu Branco",46
 179,Breves,34
 180,Bujaru,47
-181,Cachoeira do Arari,48
-182,Cachoeira do Piriá,41
+181,"Cachoeira do Arari",48
+182,"Cachoeira do Piriá",41
 183,Cametá,31
-184,Canaã dos Carajás,35
+184,"Canaã dos Carajás",35
 185,Capanema,40
-186,Capitão Poço,41
+186,"Capitão Poço",41
 187,Castanhal,47
 188,Chaves,48
 189,Colares,49
-190,Conceição do Araguaia,50
-191,Concórdia do Pará,33
-192,Cumaru do Norte,44
+190,"Conceição do Araguaia",50
+191,"Concórdia do Pará",33
+192,"Cumaru do Norte",44
 193,Curionópolis,35
 194,Curralinho,34
 195,Curuá,36
 196,Curuçá,49
-197,Dom Eliseu,32
-198,Eldorado do Carajás,35
+197,"Dom Eliseu",32
+198,"Eldorado do Carajás",35
 199,Faro,51
-200,Floresta do Araguaia,50
-201,Garrafão do Norte,41
-202,Goianésia do Pará,32
+200,"Floresta do Araguaia",50
+201,"Garrafão do Norte",41
+202,"Goianésia do Pará",32
 203,Gurupá,43
 204,Igarapé-Açu,40
 205,Igarapé-Miri,31
 206,Inhangapi,47
-207,Ipixuna do Pará,41
+207,"Ipixuna do Pará",41
 208,Irituia,41
 209,Itaituba,42
 210,Itupiranga,46
 211,Jacareacanga,42
 212,Jacundá,46
 213,Juruti,51
-214,Limoeiro do Ajuru,31
-215,Mãe do Rio,41
-216,Magalhães Barata,49
+214,"Limoeiro do Ajuru",31
+215,"Mãe do Rio",41
+216,"Magalhães Barata",49
 217,Marabá,45
 218,Maracanã,49
 219,Marapanim,49
@@ -223,66 +223,66 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 222,Melgaço,43
 223,Mocajuba,31
 224,Moju,33
-225,Mojuí dos Campos,36
-226,Monte Alegre,36
+225,"Mojuí dos Campos",36
+226,"Monte Alegre",36
 227,Muaná,48
-228,Nova Esperança do Piriá,41
-229,Nova Ipixuna,46
-230,Nova Timboteua,40
-231,Novo Progresso,42
-232,Novo Repartimento,46
+228,"Nova Esperança do Piriá",41
+229,"Nova Ipixuna",46
+230,"Nova Timboteua",40
+231,"Novo Progresso",42
+232,"Novo Repartimento",46
 233,Óbidos,51
-234,Oeiras do Pará,31
+234,"Oeiras do Pará",31
 235,Oriximiná,51
 236,Ourém,41
-237,Ourilândia do Norte,44
+237,"Ourilândia do Norte",44
 238,Pacajá,38
-239,Palestina do Pará,45
+239,"Palestina do Pará",45
 240,Paragominas,32
 241,Parauapebas,35
-242,Pau D'Arco,52
+242,"Pau D'Arco",52
 243,Peixe-Boi,40
 244,Piçarra,52
 245,Placas,36
-246,Ponta de Pedras,48
+246,"Ponta de Pedras",48
 247,Portel,43
-248,Porto de Moz,37
+248,"Porto de Moz",37
 249,Prainha,36
 250,Primavera,40
 251,Quatipuru,40
 252,Redenção,52
-253,Rio Maria,52
-254,Rondon do Pará,32
+253,"Rio Maria",52
+254,"Rondon do Pará",32
 255,Rurópolis,42
 256,Salinópolis,49
 257,Salvaterra,48
-258,Santa Bárbara do Pará,39
-259,Santa Cruz do Arari,48
-260,Santa Izabel do Pará,47
-261,Santa Luzia do Pará,41
-262,Santa Maria das Barreiras,50
-263,Santa Maria do Pará,40
-264,Santana do Araguaia,50
+258,"Santa Bárbara do Pará",39
+259,"Santa Cruz do Arari",48
+260,"Santa Izabel do Pará",47
+261,"Santa Luzia do Pará",41
+262,"Santa Maria das Barreiras",50
+263,"Santa Maria do Pará",40
+264,"Santana do Araguaia",50
 265,Santarém,36
-266,Santarém Novo,40
-267,Santo Antônio do Tauá,47
-268,São Caetano de Odivelas,49
-269,São Domingos do Araguaia,45
-270,São Domingos do Capim,41
-271,São Félix do Xingu,44
-272,São Francisco do Pará,40
-273,São Geraldo do Araguaia,52
-274,São João da Ponta,49
-275,São João de Pirabas,49
-276,São João do Araguaia,45
-277,São Miguel do Guamá,41
-278,São Sebastião da Boa Vista,34
+266,"Santarém Novo",40
+267,"Santo Antônio do Tauá",47
+268,"São Caetano de Odivelas",49
+269,"São Domingos do Araguaia",45
+270,"São Domingos do Capim",41
+271,"São Félix do Xingu",44
+272,"São Francisco do Pará",40
+273,"São Geraldo do Araguaia",52
+274,"São João da Ponta",49
+275,"São João de Pirabas",49
+276,"São João do Araguaia",45
+277,"São Miguel do Guamá",41
+278,"São Sebastião da Boa Vista",34
 279,Sapucaia,52
-280,Senador José Porfírio,38
+280,"Senador José Porfírio",38
 281,Soure,48
 282,Tailândia,33
-283,Terra Alta,49
-284,Terra Santa,51
+283,"Terra Alta",49
+284,"Terra Santa",51
 285,Tomé-Açu,33
 286,Tracuateua,40
 287,Trairão,42
@@ -292,32 +292,32 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 291,Uruará,38
 292,Vigia,49
 293,Viseu,41
-294,Vitória do Xingu,38
+294,"Vitória do Xingu",38
 295,Xinguara,52
 296,Amapá,53
 297,Calçoene,54
 298,Cutias,55
-299,Ferreira Gomes,55
+299,"Ferreira Gomes",55
 300,Itaubal,55
-301,Laranjal do Jari,56
+301,"Laranjal do Jari",56
 302,Macapá,55
 303,Mazagão,56
 304,Oiapoque,54
-305,Pedra Branca do Amapari,55
-306,Porto Grande,55
+305,"Pedra Branca do Amapari",55
+306,"Porto Grande",55
 307,Pracuúba,53
 308,Santana,55
-309,Serra do Navio,55
+309,"Serra do Navio",55
 310,Tartarugalzinho,53
-311,Vitória do Jari,56
+311,"Vitória do Jari",56
 312,Abreulândia,57
 313,Aguiarnópolis,58
-314,Aliança do Tocantins,59
+314,"Aliança do Tocantins",59
 315,Almas,60
 316,Alvorada,59
 317,Ananás,58
 318,Angico,58
-319,Aparecida do Rio Negro,61
+319,"Aparecida do Rio Negro",61
 320,Aragominas,62
 321,Araguacema,57
 322,Araguaçu,63
@@ -327,43 +327,43 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 326,Arapoema,62
 327,Arraias,60
 328,Augustinópolis,58
-329,Aurora do Tocantins,60
-330,Axixá do Tocantins,58
+329,"Aurora do Tocantins",60
+330,"Axixá do Tocantins",58
 331,Babaçulândia,62
-332,Bandeirantes do Tocantins,62
-333,Barra do Ouro,64
+332,"Bandeirantes do Tocantins",62
+333,"Barra do Ouro",64
 334,Barrolândia,57
-335,Bernardo Sayão,57
-336,Bom Jesus do Tocantins,61
-337,Brasilândia do Tocantins,57
-338,Brejinho de Nazaré,59
-339,Buriti do Tocantins,58
+335,"Bernardo Sayão",57
+336,"Bom Jesus do Tocantins",61
+337,"Brasilândia do Tocantins",57
+338,"Brejinho de Nazaré",59
+339,"Buriti do Tocantins",58
 340,Cachoeirinha,58
-341,Campos Lindos,64
-342,Cariri do Tocantins,59
+341,"Campos Lindos",64
+342,"Cariri do Tocantins",59
 343,Carmolândia,62
-344,Carrasco Bonito,58
+344,"Carrasco Bonito",58
 345,Caseara,57
 346,Centenário,64
-347,Chapada da Natividade,60
-348,Chapada de Areia,63
-349,Colinas do Tocantins,62
+347,"Chapada da Natividade",60
+348,"Chapada de Areia",63
+349,"Colinas do Tocantins",62
 350,Colméia,57
 351,Combinado,60
-352,Conceição do Tocantins,60
-353,Couto Magalhães,57
+352,"Conceição do Tocantins",60
+353,"Couto Magalhães",57
 354,Cristalândia,63
-355,Crixás do Tocantins,59
+355,"Crixás do Tocantins",59
 356,Darcinópolis,58
 357,Dianópolis,60
-358,Divinópolis do Tocantins,57
-359,Dois Irmãos do Tocantins,57
+358,"Divinópolis do Tocantins",57
+359,"Dois Irmãos do Tocantins",57
 360,Dueré,63
 361,Esperantina,58
 362,Fátima,63
 363,Figueirópolis,59
 364,Filadélfia,62
-365,Formoso do Araguaia,63
+365,"Formoso do Araguaia",63
 366,Goianorte,57
 367,Goiatins,64
 368,Guaraí,57
@@ -372,76 +372,76 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 371,Itacajá,64
 372,Itaguatins,58
 373,Itapiratins,64
-374,Itaporã do Tocantins,57
-375,Jaú do Tocantins,59
+374,"Itaporã do Tocantins",57
+375,"Jaú do Tocantins",59
 376,Juarina,57
-377,Lagoa da Confusão,63
-378,Lagoa do Tocantins,64
+377,"Lagoa da Confusão",63
+378,"Lagoa do Tocantins",64
 379,Lajeado,61
 380,Lavandeira,60
 381,Lizarda,64
 382,Luzinópolis,58
-383,Marianópolis do Tocantins,57
+383,"Marianópolis do Tocantins",57
 384,Mateiros,64
-385,Maurilândia do Tocantins,58
-386,Miracema do Tocantins,57
+385,"Maurilândia do Tocantins",58
+386,"Miracema do Tocantins",57
 387,Miranorte,57
-388,Monte do Carmo,61
-389,Monte Santo do Tocantins,57
+388,"Monte do Carmo",61
+389,"Monte Santo do Tocantins",57
 390,Muricilândia,62
 391,Natividade,60
 392,Nazaré,58
-393,Nova Olinda,62
-394,Nova Rosalândia,63
-395,Novo Acordo,64
-396,Novo Alegre,60
-397,Novo Jardim,60
-398,Oliveira de Fátima,63
+393,"Nova Olinda",62
+394,"Nova Rosalândia",63
+395,"Novo Acordo",64
+396,"Novo Alegre",60
+397,"Novo Jardim",60
+398,"Oliveira de Fátima",63
 399,Palmas,61
 400,Palmeirante,62
-401,Palmeiras do Tocantins,58
+401,"Palmeiras do Tocantins",58
 402,Palmeirópolis,59
-403,Paraíso do Tocantins,63
+403,"Paraíso do Tocantins",63
 404,Paranã,60
-405,Pau D'Arco,62
-406,Pedro Afonso,61
+405,"Pau D'Arco",62
+406,"Pedro Afonso",61
 407,Peixe,59
 408,Pequizeiro,57
-409,Pindorama do Tocantins,60
+409,"Pindorama do Tocantins",60
 410,Piraquê,62
 411,Pium,63
-412,Ponte Alta do Bom Jesus,60
-413,Ponte Alta do Tocantins,64
-414,Porto Alegre do Tocantins,60
-415,Porto Nacional,61
-416,Praia Norte,58
-417,Presidente Kennedy,57
+412,"Ponte Alta do Bom Jesus",60
+413,"Ponte Alta do Tocantins",64
+414,"Porto Alegre do Tocantins",60
+415,"Porto Nacional",61
+416,"Praia Norte",58
+417,"Presidente Kennedy",57
 418,Pugmil,63
 419,Recursolândia,64
 420,Riachinho,58
-421,Rio da Conceição,60
-422,Rio dos Bois,57
-423,Rio Sono,64
+421,"Rio da Conceição",60
+422,"Rio dos Bois",57
+423,"Rio Sono",64
 424,Sampaio,58
 425,Sandolândia,63
-426,Santa Fé do Araguaia,62
-427,Santa Maria do Tocantins,61
-428,Santa Rita do Tocantins,59
-429,Santa Rosa do Tocantins,60
-430,Santa Tereza do Tocantins,64
-431,Santa Terezinha do Tocantins,58
-432,São Bento do Tocantins,58
-433,São Félix do Tocantins,64
-434,São Miguel do Tocantins,58
-435,São Salvador do Tocantins,59
-436,São Sebastião do Tocantins,58
-437,São Valério,60
+426,"Santa Fé do Araguaia",62
+427,"Santa Maria do Tocantins",61
+428,"Santa Rita do Tocantins",59
+429,"Santa Rosa do Tocantins",60
+430,"Santa Tereza do Tocantins",64
+431,"Santa Terezinha do Tocantins",58
+432,"São Bento do Tocantins",58
+433,"São Félix do Tocantins",64
+434,"São Miguel do Tocantins",58
+435,"São Salvador do Tocantins",59
+436,"São Sebastião do Tocantins",58
+437,"São Valério",60
 438,Silvanópolis,61
-439,Sítio Novo do Tocantins,58
+439,"Sítio Novo do Tocantins",58
 440,Sucupira,59
 441,Tabocão,57
 442,Taguatinga,60
-443,Taipas do Tocantins,60
+443,"Taipas do Tocantins",60
 444,Talismã,59
 445,Tocantínia,61
 446,Tocantinópolis,58
@@ -450,16 +450,16 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 449,Wanderlândia,62
 450,Xambioá,62
 451,Açailândia,65
-452,Afonso Cunha,66
-453,Água Doce do Maranhão,67
+452,"Afonso Cunha",66
+453,"Água Doce do Maranhão",67
 454,Alcântara,68
-455,Aldeias Altas,66
-456,Altamira do Maranhão,69
-457,Alto Alegre do Maranhão,70
-458,Alto Alegre do Pindaré,69
-459,Alto Parnaíba,71
-460,Amapá do Maranhão,59
-461,Amarante do Maranhão,65
+455,"Aldeias Altas",66
+456,"Altamira do Maranhão",69
+457,"Alto Alegre do Maranhão",70
+458,"Alto Alegre do Pindaré",69
+459,"Alto Parnaíba",71
+460,"Amapá do Maranhão",59
+461,"Amarante do Maranhão",65
 462,Anajatuba,72
 463,Anapurus,73
 464,Apicum-Açu,68
@@ -473,423 +473,423 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 472,Bacuri,68
 473,Bacurituba,68
 474,Balsas,71
-475,Barão de Grajaú,77
-476,Barra do Corda,74
+475,"Barão de Grajaú",77
+476,"Barra do Corda",74
 477,Barreirinhas,78
-478,Bela Vista do Maranhão,72
+478,"Bela Vista do Maranhão",72
 479,Belágua,73
-480,Benedito Leite,79
+480,"Benedito Leite",79
 481,Bequimão,68
-482,Bernardo do Mearim,76
-483,Boa Vista do Gurupi,59
-484,Bom Jardim,69
-485,Bom Jesus das Selvas,69
-486,Bom Lugar,76
+482,"Bernardo do Mearim",76
+483,"Boa Vista do Gurupi",59
+484,"Bom Jardim",69
+485,"Bom Jesus das Selvas",69
+486,"Bom Lugar",76
 487,Brejo,73
-488,Brejo de Areia,69
+488,"Brejo de Areia",69
 489,Buriti,73
-490,Buriti Bravo,80
+490,"Buriti Bravo",80
 491,Buriticupu,69
 492,Buritirana,65
-493,Cachoeira Grande,75
+493,"Cachoeira Grande",75
 494,Cajapió,68
 495,Cajari,72
-496,Campestre do Maranhão,81
-497,Cândido Mendes,59
+496,"Campestre do Maranhão",81
+497,"Cândido Mendes",59
 498,Cantanhede,82
-499,Capinzal do Norte,70
+499,"Capinzal do Norte",70
 500,Carolina,81
 501,Carutapera,59
 502,Caxias,80
 503,Cedral,68
-504,Central do Maranhão,68
-505,Centro do Guilherme,59
-506,Centro Novo do Maranhão,59
+504,"Central do Maranhão",68
+505,"Centro do Guilherme",59
+506,"Centro Novo do Maranhão",59
 507,Chapadinha,73
 508,Cidelândia,65
 509,Codó,70
-510,Coelho Neto,66
+510,"Coelho Neto",66
 511,Colinas,77
-512,Conceição do Lago-Açu,72
+512,"Conceição do Lago-Açu",72
 513,Coroatá,70
 514,Cururupu,68
 515,Davinópolis,65
-516,Dom Pedro,83
-517,Duque Bacelar,66
+516,"Dom Pedro",83
+517,"Duque Bacelar",66
 518,Esperantinópolis,76
 519,Estreito,81
-520,Feira Nova do Maranhão,71
-521,Fernando Falcão,74
-522,Formosa da Serra Negra,74
-523,Fortaleza dos Nogueiras,79
+520,"Feira Nova do Maranhão",71
+521,"Fernando Falcão",74
+522,"Formosa da Serra Negra",74
+523,"Fortaleza dos Nogueiras",79
 524,Fortuna,83
-525,Godofredo Viana,59
-526,Gonçalves Dias,83
-527,Governador Archer,83
-528,Governador Edison Lobão,65
-529,Governador Eugênio Barros,83
-530,Governador Luiz Rocha,83
-531,Governador Newton Bello,69
-532,Governador Nunes Freire,59
-533,Graça Aranha,83
+525,"Godofredo Viana",59
+526,"Gonçalves Dias",83
+527,"Governador Archer",83
+528,"Governador Edison Lobão",65
+529,"Governador Eugênio Barros",83
+530,"Governador Luiz Rocha",83
+531,"Governador Newton Bello",69
+532,"Governador Nunes Freire",59
+533,"Graça Aranha",83
 534,Grajaú,74
 535,Guimarães,68
-536,Humberto de Campos,78
+536,"Humberto de Campos",78
 537,Icatu,75
-538,Igarapé do Meio,72
-539,Igarapé Grande,76
+538,"Igarapé do Meio",72
+539,"Igarapé Grande",76
 540,Imperatriz,65
-541,Itaipava do Grajaú,74
-542,Itapecuru Mirim,82
-543,Itinga do Maranhão,65
+541,"Itaipava do Grajaú",74
+542,"Itapecuru Mirim",82
+543,"Itinga do Maranhão",65
 544,Jatobá,77
-545,Jenipapo dos Vieiras,74
-546,João Lisboa,65
+545,"Jenipapo dos Vieiras",74
+546,"João Lisboa",65
 547,Joselândia,74
-548,Junco do Maranhão,59
-549,Lago da Pedra,69
-550,Lago do Junco,76
-551,Lago dos Rodrigues,76
-552,Lago Verde,76
-553,Lagoa do Mato,77
-554,Lagoa Grande do Maranhão,69
-555,Lajeado Novo,65
-556,Lima Campos,76
+548,"Junco do Maranhão",59
+549,"Lago da Pedra",69
+550,"Lago do Junco",76
+551,"Lago dos Rodrigues",76
+552,"Lago Verde",76
+553,"Lagoa do Mato",77
+554,"Lagoa Grande do Maranhão",69
+555,"Lajeado Novo",65
+556,"Lima Campos",76
 557,Loreto,79
-558,Luís Domingues,59
-559,Magalhães de Almeida,67
+558,"Luís Domingues",59
+559,"Magalhães de Almeida",67
 560,Maracaçumé,59
-561,Marajá do Sena,69
+561,"Marajá do Sena",69
 562,Maranhãozinho,59
-563,Mata Roma,73
+563,"Mata Roma",73
 564,Matinha,72
 565,Matões,80
-566,Matões do Norte,82
-567,Milagres do Maranhão,73
+566,"Matões do Norte",82
+567,"Milagres do Maranhão",73
 568,Mirador,77
-569,Miranda do Norte,82
+569,"Miranda do Norte",82
 570,Mirinzal,68
 571,Monção,72
-572,Montes Altos,65
+572,"Montes Altos",65
 573,Morros,75
-574,Nina Rodrigues,82
-575,Nova Colinas,79
-576,Nova Iorque,77
-577,Nova Olinda do Maranhão,69
-578,Olho d'Água das Cunhãs,76
-579,Olinda Nova do Maranhão,72
-580,Paço do Lumiar,84
+574,"Nina Rodrigues",82
+575,"Nova Colinas",79
+576,"Nova Iorque",77
+577,"Nova Olinda do Maranhão",69
+578,"Olho d'Água das Cunhãs",76
+579,"Olinda Nova do Maranhão",72
+580,"Paço do Lumiar",84
 581,Palmeirândia,72
 582,Paraibano,77
 583,Parnarama,80
-584,Passagem Franca,77
-585,Pastos Bons,77
-586,Paulino Neves,78
-587,Paulo Ramos,69
+584,"Passagem Franca",77
+585,"Pastos Bons",77
+586,"Paulino Neves",78
+587,"Paulo Ramos",69
 588,Pedreiras,76
-589,Pedro do Rosário,72
+589,"Pedro do Rosário",72
 590,Penalva,72
-591,Peri Mirim,72
+591,"Peri Mirim",72
 592,Peritoró,70
 593,Pindaré-Mirim,69
 594,Pinheiro,72
-595,Pio XII,76
+595,"Pio XII",76
 596,Pirapemas,82
-597,Poção de Pedras,76
-598,Porto Franco,81
-599,Porto Rico do Maranhão,68
-600,Presidente Dutra,83
-601,Presidente Juscelino,75
-602,Presidente Médici,69
-603,Presidente Sarney,72
-604,Presidente Vargas,82
-605,Primeira Cruz,78
+597,"Poção de Pedras",76
+598,"Porto Franco",81
+599,"Porto Rico do Maranhão",68
+600,"Presidente Dutra",83
+601,"Presidente Juscelino",75
+602,"Presidente Médici",69
+603,"Presidente Sarney",72
+604,"Presidente Vargas",82
+605,"Primeira Cruz",78
 606,Raposa,84
 607,Riachão,71
-608,Ribamar Fiquene,65
+608,"Ribamar Fiquene",65
 609,Rosário,75
 610,Sambaíba,79
-611,Santa Filomena do Maranhão,74
-612,Santa Helena,72
-613,Santa Inês,69
-614,Santa Luzia,69
-615,Santa Luzia do Paruá,69
-616,Santa Quitéria do Maranhão,67
-617,Santa Rita,75
-618,Santana do Maranhão,67
-619,Santo Amaro do Maranhão,78
-620,Santo Antônio dos Lopes,76
-621,São Benedito do Rio Preto,73
-622,São Bento,72
-623,São Bernardo,67
-624,São Domingos do Azeitão,79
-625,São Domingos do Maranhão,83
-626,São Félix de Balsas,79
-627,São Francisco do Brejão,65
-628,São Francisco do Maranhão,77
-629,São João Batista,72
-630,São João do Carú,69
-631,São João do Paraíso,81
-632,São João do Soter,80
-633,São João dos Patos,77
-634,São José de Ribamar,84
-635,São José dos Basílios,83
-636,São Luís,84
-637,São Luís Gonzaga do Maranhão,76
-638,São Mateus do Maranhão,76
-639,São Pedro da Água Branca,65
-640,São Pedro dos Crentes,81
-641,São Raimundo das Mangabeiras,79
-642,São Raimundo do Doca Bezerra,76
-643,São Roberto,76
-644,São Vicente Ferrer,72
+611,"Santa Filomena do Maranhão",74
+612,"Santa Helena",72
+613,"Santa Inês",69
+614,"Santa Luzia",69
+615,"Santa Luzia do Paruá",69
+616,"Santa Quitéria do Maranhão",67
+617,"Santa Rita",75
+618,"Santana do Maranhão",67
+619,"Santo Amaro do Maranhão",78
+620,"Santo Antônio dos Lopes",76
+621,"São Benedito do Rio Preto",73
+622,"São Bento",72
+623,"São Bernardo",67
+624,"São Domingos do Azeitão",79
+625,"São Domingos do Maranhão",83
+626,"São Félix de Balsas",79
+627,"São Francisco do Brejão",65
+628,"São Francisco do Maranhão",77
+629,"São João Batista",72
+630,"São João do Carú",69
+631,"São João do Paraíso",81
+632,"São João do Soter",80
+633,"São João dos Patos",77
+634,"São José de Ribamar",84
+635,"São José dos Basílios",83
+636,"São Luís",84
+637,"São Luís Gonzaga do Maranhão",76
+638,"São Mateus do Maranhão",76
+639,"São Pedro da Água Branca",65
+640,"São Pedro dos Crentes",81
+641,"São Raimundo das Mangabeiras",79
+642,"São Raimundo do Doca Bezerra",76
+643,"São Roberto",76
+644,"São Vicente Ferrer",72
 645,Satubinha,76
-646,Senador Alexandre Costa,83
-647,Senador La Rocque,65
-648,Serrano do Maranhão,68
-649,Sítio Novo,74
-650,Sucupira do Norte,77
-651,Sucupira do Riachão,77
-652,Tasso Fragoso,71
+646,"Senador Alexandre Costa",83
+647,"Senador La Rocque",65
+648,"Serrano do Maranhão",68
+649,"Sítio Novo",74
+650,"Sucupira do Norte",77
+651,"Sucupira do Riachão",77
+652,"Tasso Fragoso",71
 653,Timbiras,70
 654,Timon,80
-655,Trizidela do Vale,76
+655,"Trizidela do Vale",76
 656,Tufilândia,69
 657,Tuntum,74
 658,Turiaçu,59
 659,Turilândia,59
 660,Tutóia,78
-661,Urbano Santos,73
-662,Vargem Grande,82
+661,"Urbano Santos",73
+662,"Vargem Grande",82
 663,Viana,72
-664,Vila Nova dos Martírios,65
-665,Vitória do Mearim,72
-666,Vitorino Freire,69
-667,Zé Doca,69
+664,"Vila Nova dos Martírios",65
+665,"Vitória do Mearim",72
+666,"Vitorino Freire",69
+667,"Zé Doca",69
 668,Acauã,85
 669,Agricolândia,86
-670,Água Branca,86
-671,Alagoinha do Piauí,87
-672,Alegrete do Piauí,87
-673,Alto Longá,88
+670,"Água Branca",86
+671,"Alagoinha do Piauí",87
+672,"Alegrete do Piauí",87
+673,"Alto Longá",88
 674,Altos,89
-675,Alvorada do Gurguéia,90
+675,"Alvorada do Gurguéia",90
 676,Amarante,86
-677,Angical do Piauí,86
-678,Anísio de Abreu,91
-679,Antônio Almeida,92
+677,"Angical do Piauí",86
+678,"Anísio de Abreu",91
+679,"Antônio Almeida",92
 680,Aroazes,93
-681,Aroeiras do Itaim,94
+681,"Aroeiras do Itaim",94
 682,Arraial,86
-683,Assunção do Piauí,88
-684,Avelino Lopes,95
-685,Baixa Grande do Ribeiro,96
-686,Barra D'Alcântara,93
+683,"Assunção do Piauí",88
+684,"Avelino Lopes",95
+685,"Baixa Grande do Ribeiro",96
+686,"Barra D'Alcântara",93
 687,Barras,97
-688,Barreiras do Piauí,90
-689,Barro Duro,86
+688,"Barreiras do Piauí",90
+689,"Barro Duro",86
 690,Batalha,97
-691,Bela Vista do Piauí,85
-692,Belém do Piauí,85
+691,"Bela Vista do Piauí",85
+692,"Belém do Piauí",85
 693,Beneditinos,89
 694,Bertolínia,92
-695,Betânia do Piauí,85
-696,Boa Hora,97
+695,"Betânia do Piauí",85
+696,"Boa Hora",97
 697,Bocaina,94
-698,Bom Jesus,90
-699,Bom Princípio do Piauí,98
-700,Bonfim do Piauí,91
-701,Boqueirão do Piauí,88
+698,"Bom Jesus",90
+699,"Bom Princípio do Piauí",98
+700,"Bonfim do Piauí",91
+701,"Boqueirão do Piauí",88
 702,Brasileira,97
-703,Brejo do Piauí,91
-704,Buriti dos Lopes,98
-705,Buriti dos Montes,88
-706,Cabeceiras do Piauí,97
-707,Cajazeiras do Piauí,94
-708,Cajueiro da Praia,98
-709,Caldeirão Grande do Piauí,85
-710,Campinas do Piauí,85
-711,Campo Alegre do Fidalgo,85
-712,Campo Grande do Piauí,85
-713,Campo Largo do Piauí,97
-714,Campo Maior,88
+703,"Brejo do Piauí",91
+704,"Buriti dos Lopes",98
+705,"Buriti dos Montes",88
+706,"Cabeceiras do Piauí",97
+707,"Cajazeiras do Piauí",94
+708,"Cajueiro da Praia",98
+709,"Caldeirão Grande do Piauí",85
+710,"Campinas do Piauí",85
+711,"Campo Alegre do Fidalgo",85
+712,"Campo Grande do Piauí",85
+713,"Campo Largo do Piauí",97
+714,"Campo Maior",88
 715,Canavieira,99
-716,Canto do Buriti,91
-717,Capitão de Campos,88
-718,Capitão Gervásio Oliveira,85
+716,"Canto do Buriti",91
+717,"Capitão de Campos",88
+718,"Capitão Gervásio Oliveira",85
 719,Caracol,91
-720,Caraúbas do Piauí,98
-721,Caridade do Piauí,85
-722,Castelo do Piauí,88
+720,"Caraúbas do Piauí",98
+721,"Caridade do Piauí",85
+722,"Castelo do Piauí",88
 723,Caxingó,98
 724,Cocal,98
-725,Cocal de Telha,88
-726,Cocal dos Alves,98
+725,"Cocal de Telha",88
+726,"Cocal dos Alves",98
 727,Coivaras,89
-728,Colônia do Gurguéia,92
-729,Colônia do Piauí,94
-730,Conceição do Canindé,85
-731,Coronel José Dias,91
+728,"Colônia do Gurguéia",92
+729,"Colônia do Piauí",94
+730,"Conceição do Canindé",85
+731,"Coronel José Dias",91
 732,Corrente,95
-733,Cristalândia do Piauí,95
-734,Cristino Castro,90
+733,"Cristalândia do Piauí",95
+734,"Cristino Castro",90
 735,Curimatá,95
 736,Currais,90
-737,Curral Novo do Piauí,85
+737,"Curral Novo do Piauí",85
 738,Curralinhos,89
-739,Demerval Lobão,89
-740,Dirceu Arcoverde,91
-741,Dom Expedito Lopes,94
-742,Dom Inocêncio,91
-743,Domingos Mourão,88
-744,Elesbão Veloso,93
-745,Eliseu Martins,92
+739,"Demerval Lobão",89
+740,"Dirceu Arcoverde",91
+741,"Dom Expedito Lopes",94
+742,"Dom Inocêncio",91
+743,"Domingos Mourão",88
+744,"Elesbão Veloso",93
+745,"Eliseu Martins",92
 746,Esperantina,97
-747,Fartura do Piauí,91
-748,Flores do Piauí,99
-749,Floresta do Piauí,85
+747,"Fartura do Piauí",91
+748,"Flores do Piauí",99
+749,"Floresta do Piauí",85
 750,Floriano,99
 751,Francinópolis,93
-752,Francisco Ayres,86
-753,Francisco Macedo,85
-754,Francisco Santos,87
+752,"Francisco Ayres",86
+753,"Francisco Macedo",85
+754,"Francisco Santos",87
 755,Fronteiras,85
 756,Geminiano,94
 757,Gilbués,90
 758,Guadalupe,99
 759,Guaribas,91
-760,Hugo Napoleão,86
-761,Ilha Grande,98
+760,"Hugo Napoleão",86
+761,"Ilha Grande",98
 762,Inhuma,93
-763,Ipiranga do Piauí,94
-764,Isaías Coelho,85
+763,"Ipiranga do Piauí",94
+764,"Isaías Coelho",85
 765,Itainópolis,85
 766,Itaueira,99
-767,Jacobina do Piauí,85
+767,"Jacobina do Piauí",85
 768,Jaicós,85
-769,Jardim do Mulato,86
-770,Jatobá do Piauí,88
+769,"Jardim do Mulato",86
+770,"Jatobá do Piauí",88
 771,Jerumenha,99
-772,João Costa,85
-773,Joaquim Pires,97
-774,Joca Marques,97
-775,José de Freitas,89
-776,Juazeiro do Piauí,88
-777,Júlio Borges,95
+772,"João Costa",85
+773,"Joaquim Pires",97
+774,"Joca Marques",97
+775,"José de Freitas",89
+776,"Juazeiro do Piauí",88
+777,"Júlio Borges",95
 778,Jurema,91
-779,Lagoa Alegre,89
-780,Lagoa de São Francisco,88
-781,Lagoa do Barro do Piauí,85
-782,Lagoa do Piauí,89
-783,Lagoa do Sítio,93
-784,Lagoinha do Piauí,86
-785,Landri Sales,92
-786,Luís Correia,98
+779,"Lagoa Alegre",89
+780,"Lagoa de São Francisco",88
+781,"Lagoa do Barro do Piauí",85
+782,"Lagoa do Piauí",89
+783,"Lagoa do Sítio",93
+784,"Lagoinha do Piauí",86
+785,"Landri Sales",92
+786,"Luís Correia",98
 787,Luzilândia,97
 788,Madeiro,97
-789,Manoel Emídio,92
+789,"Manoel Emídio",92
 790,Marcolândia,85
-791,Marcos Parente,92
-792,Massapê do Piauí,85
-793,Matias Olímpio,97
-794,Miguel Alves,97
-795,Miguel Leão,89
-796,Milton Brandão,88
-797,Monsenhor Gil,89
-798,Monsenhor Hipólito,87
-799,Monte Alegre do Piauí,90
-800,Morro Cabeça no Tempo,95
-801,Morro do Chapéu do Piauí,97
-802,Murici dos Portelas,98
-803,Nazaré do Piauí,99
+791,"Marcos Parente",92
+792,"Massapê do Piauí",85
+793,"Matias Olímpio",97
+794,"Miguel Alves",97
+795,"Miguel Leão",89
+796,"Milton Brandão",88
+797,"Monsenhor Gil",89
+798,"Monsenhor Hipólito",87
+799,"Monte Alegre do Piauí",90
+800,"Morro Cabeça no Tempo",95
+801,"Morro do Chapéu do Piauí",97
+802,"Murici dos Portelas",98
+803,"Nazaré do Piauí",99
 804,Nazária,89
-805,Nossa Senhora de Nazaré,88
-806,Nossa Senhora dos Remédios,97
-807,Nova Santa Rita,85
-808,Novo Oriente do Piauí,93
-809,Novo Santo Antônio,88
+805,"Nossa Senhora de Nazaré",88
+806,"Nossa Senhora dos Remédios",97
+807,"Nova Santa Rita",85
+808,"Novo Oriente do Piauí",93
+809,"Novo Santo Antônio",88
 810,Oeiras,94
-811,Olho D'Água do Piauí,86
-812,Padre Marcos,85
-813,Paes Landim,85
-814,Pajeú do Piauí,91
-815,Palmeira do Piauí,90
+811,"Olho D'Água do Piauí",86
+812,"Padre Marcos",85
+813,"Paes Landim",85
+814,"Pajeú do Piauí",91
+815,"Palmeira do Piauí",90
 816,Palmeirais,86
 817,Paquetá,94
 818,Parnaguá,95
 819,Parnaíba,98
-820,Passagem Franca do Piauí,86
-821,Patos do Piauí,85
-822,Pau D'Arco do Piauí,89
+820,"Passagem Franca do Piauí",86
+821,"Patos do Piauí",85
+822,"Pau D'Arco do Piauí",89
 823,Paulistana,85
 824,Pavussu,99
-825,Pedro II,88
-826,Pedro Laurentino,85
+825,"Pedro II",88
+826,"Pedro Laurentino",85
 827,Picos,94
 828,Pimenteiras,93
-829,Pio IX,87
+829,"Pio IX",87
 830,Piracuruca,98
 831,Piripiri,97
 832,Porto,97
-833,Porto Alegre do Piauí,92
-834,Prata do Piauí,93
-835,Queimada Nova,85
-836,Redenção do Gurguéia,90
+833,"Porto Alegre do Piauí",92
+834,"Prata do Piauí",93
+835,"Queimada Nova",85
+836,"Redenção do Gurguéia",90
 837,Regeneração,86
-838,Riacho Frio,95
-839,Ribeira do Piauí,85
-840,Ribeiro Gonçalves,96
-841,Rio Grande do Piauí,99
-842,Santa Cruz do Piauí,94
-843,Santa Cruz dos Milagres,93
-844,Santa Filomena,96
-845,Santa Luz,90
-846,Santa Rosa do Piauí,94
-847,Santana do Piauí,94
-848,Santo Antônio de Lisboa,87
-849,Santo Antônio dos Milagres,86
-850,Santo Inácio do Piauí,85
-851,São Braz do Piauí,91
-852,São Félix do Piauí,93
-853,São Francisco de Assis do Piauí,85
-854,São Francisco do Piauí,99
-855,São Gonçalo do Gurguéia,90
-856,São Gonçalo do Piauí,86
-857,São João da Canabrava,94
-858,São João da Fronteira,98
-859,São João da Serra,88
-860,São João da Varjota,94
-861,São João do Arraial,97
-862,São João do Piauí,85
-863,São José do Divino,98
-864,São José do Peixe,99
-865,São José do Piauí,94
-866,São Julião,87
-867,São Lourenço do Piauí,91
-868,São Luis do Piauí,94
-869,São Miguel da Baixa Grande,93
-870,São Miguel do Fidalgo,99
-871,São Miguel do Tapuio,88
-872,São Pedro do Piauí,86
-873,São Raimundo Nonato,91
-874,Sebastião Barros,95
-875,Sebastião Leal,92
-876,Sigefredo Pacheco,88
+838,"Riacho Frio",95
+839,"Ribeira do Piauí",85
+840,"Ribeiro Gonçalves",96
+841,"Rio Grande do Piauí",99
+842,"Santa Cruz do Piauí",94
+843,"Santa Cruz dos Milagres",93
+844,"Santa Filomena",96
+845,"Santa Luz",90
+846,"Santa Rosa do Piauí",94
+847,"Santana do Piauí",94
+848,"Santo Antônio de Lisboa",87
+849,"Santo Antônio dos Milagres",86
+850,"Santo Inácio do Piauí",85
+851,"São Braz do Piauí",91
+852,"São Félix do Piauí",93
+853,"São Francisco de Assis do Piauí",85
+854,"São Francisco do Piauí",99
+855,"São Gonçalo do Gurguéia",90
+856,"São Gonçalo do Piauí",86
+857,"São João da Canabrava",94
+858,"São João da Fronteira",98
+859,"São João da Serra",88
+860,"São João da Varjota",94
+861,"São João do Arraial",97
+862,"São João do Piauí",85
+863,"São José do Divino",98
+864,"São José do Peixe",99
+865,"São José do Piauí",94
+866,"São Julião",87
+867,"São Lourenço do Piauí",91
+868,"São Luis do Piauí",94
+869,"São Miguel da Baixa Grande",93
+870,"São Miguel do Fidalgo",99
+871,"São Miguel do Tapuio",88
+872,"São Pedro do Piauí",86
+873,"São Raimundo Nonato",91
+874,"Sebastião Barros",95
+875,"Sebastião Leal",92
+876,"Sigefredo Pacheco",88
 877,Simões,85
-878,Simplício Mendes,85
-879,Socorro do Piauí,85
+878,"Simplício Mendes",85
+879,"Socorro do Piauí",85
 880,Sussuapara,94
-881,Tamboril do Piauí,91
-882,Tanque do Piauí,94
+881,"Tamboril do Piauí",91
+882,"Tanque do Piauí",94
 883,Teresina,89
 884,União,89
 885,Uruçuí,96
-886,Valença do Piauí,93
-887,Várzea Branca,91
-888,Várzea Grande,93
-889,Vera Mendes,85
-890,Vila Nova do Piauí,85
-891,Wall Ferraz,94
+886,"Valença do Piauí",93
+887,"Várzea Branca",91
+888,"Várzea Grande",93
+889,"Vera Mendes",85
+890,"Vila Nova do Piauí",85
+891,"Wall Ferraz",94
 892,Abaiara,100
 893,Acarape,101
 894,Acaraú,102
@@ -897,9 +897,9 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 896,Aiuaba,104
 897,Alcântaras,105
 898,Altaneira,106
-899,Alto Santo,107
+899,"Alto Santo",107
 900,Amontada,108
-901,Antonina do Norte,109
+901,"Antonina do Norte",109
 902,Apuiarés,110
 903,Aquiraz,111
 904,Aracati,112
@@ -918,11 +918,11 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 917,Barroquinha,102
 918,Baturité,101
 919,Beberibe,120
-920,Bela Cruz,102
-921,Boa Viagem,117
-922,Brejo Santo,100
+920,"Bela Cruz",102
+921,"Boa Viagem",117
+922,"Brejo Santo",100
 923,Camocim,102
-924,Campos Sales,114
+924,"Campos Sales",114
 925,Canindé,121
 926,Capistrano,101
 927,Caridade,121
@@ -943,21 +943,21 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 942,Crato,118
 943,Croatá,123
 944,Cruz,102
-945,Deputado Irapuan Pinheiro,103
+945,"Deputado Irapuan Pinheiro",103
 946,Ereré,127
 947,Eusébio,111
-948,Farias Brito,106
+948,"Farias Brito",106
 949,Forquilha,122
 950,Fortaleza,111
 951,Fortim,112
 952,Frecheirinha,126
-953,General Sampaio,110
+953,"General Sampaio",110
 954,Graça,122
 955,Granja,102
 956,Granjeiro,106
 957,Groaíras,122
 958,Guaiúba,111
-959,Guaraciaba do Norte,123
+959,"Guaraciaba do Norte",123
 960,Guaramiranga,101
 961,Hidrolândia,124
 962,Horizonte,128
@@ -987,11 +987,11 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 986,Jaguaruana,107
 987,Jardim,118
 988,Jati,100
-989,Jijoca de Jericoacoara,102
-990,Juazeiro do Norte,118
+989,"Jijoca de Jericoacoara",102
+990,"Juazeiro do Norte",118
 991,Jucás,109
-992,Lavras da Mangabeira,116
-993,Limoeiro do Norte,107
+992,"Lavras da Mangabeira",116
+993,"Limoeiro do Norte",107
 994,Madalena,117
 995,Maracanaú,111
 996,Maranguape,111
@@ -1003,17 +1003,17 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 1002,Milagres,100
 1003,Milhã,103
 1004,Miraíma,122
-1005,Missão Velha,118
+1005,"Missão Velha",118
 1006,Mombaça,103
-1007,Monsenhor Tabosa,113
-1008,Morada Nova,107
+1007,"Monsenhor Tabosa",113
+1008,"Morada Nova",107
 1009,Moraújo,126
 1010,Morrinhos,102
 1011,Mucambo,122
 1012,Mulungu,101
-1013,Nova Olinda,118
-1014,Nova Russas,113
-1015,Novo Oriente,113
+1013,"Nova Olinda",118
+1014,"Nova Russas",113
+1015,"Novo Oriente",113
 1016,Ocara,119
 1017,Orós,125
 1018,Pacajus,128
@@ -1026,13 +1026,13 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 1025,Paraipaba,132
 1026,Parambu,104
 1027,Paramoti,121
-1028,Pedra Branca,103
+1028,"Pedra Branca",103
 1029,Penaforte,100
 1030,Pentecoste,110
 1031,Pereiro,127
 1032,Pindoretama,120
-1033,Piquet Carneiro,103
-1034,Pires Ferreira,129
+1033,"Piquet Carneiro",103
+1034,"Pires Ferreira",129
 1035,Poranga,129
 1036,Porteiras,118
 1037,Potengi,114
@@ -1047,18 +1047,18 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 1046,Russas,107
 1047,Saboeiro,104
 1048,Salitre,114
-1049,Santa Quitéria,124
-1050,Santana do Acaraú,122
-1051,Santana do Cariri,118
-1052,São Benedito,123
-1053,São Gonçalo do Amarante,132
-1054,São João do Jaguaribe,107
-1055,São Luís do Curu,110
-1056,Senador Pompeu,103
-1057,Senador Sá,122
+1049,"Santa Quitéria",124
+1050,"Santana do Acaraú",122
+1051,"Santana do Cariri",118
+1052,"São Benedito",123
+1053,"São Gonçalo do Amarante",132
+1054,"São João do Jaguaribe",107
+1055,"São Luís do Curu",110
+1056,"Senador Pompeu",103
+1057,"Senador Sá",122
 1058,Sobral,122
 1059,Solonópole,103
-1060,Tabuleiro do Norte,107
+1060,"Tabuleiro do Norte",107
 1061,Tamboril,113
 1062,Tarrafas,109
 1063,Tauá,104
@@ -1072,58 +1072,58 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 1071,Uruburetama,130
 1072,Uruoca,126
 1073,Varjota,129
-1074,Várzea Alegre,109
-1075,Viçosa do Ceará,123
+1074,"Várzea Alegre",109
+1075,"Viçosa do Ceará",123
 1076,Acari,133
 1077,Açu,134
-1078,Afonso Bezerra,135
-1079,Água Nova,136
+1078,"Afonso Bezerra",135
+1079,"Água Nova",136
 1080,Alexandria,137
-1081,Almino Afonso,138
-1082,Alto do Rodrigues,134
+1081,"Almino Afonso",138
+1082,"Alto do Rodrigues",134
 1083,Angicos,135
-1084,Antônio Martins,138
+1084,"Antônio Martins",138
 1085,Apodi,139
-1086,Areia Branca,140
+1086,"Areia Branca",140
 1087,Arês,141
-1088,Baía Formosa,141
+1088,"Baía Formosa",141
 1089,Baraúna,140
 1090,Barcelona,142
-1091,Bento Fernandes,143
+1091,"Bento Fernandes",143
 1092,Bodó,144
-1093,Bom Jesus,145
+1093,"Bom Jesus",145
 1094,Brejinho,145
-1095,Caiçara do Norte,146
-1096,Caiçara do Rio do Vento,135
+1095,"Caiçara do Norte",146
+1096,"Caiçara do Rio do Vento",135
 1097,Caicó,147
-1098,Campo Grande,148
-1099,Campo Redondo,142
+1098,"Campo Grande",148
+1099,"Campo Redondo",142
 1100,Canguaretama,141
 1101,Caraúbas,139
-1102,Carnaúba dos Dantas,133
+1102,"Carnaúba dos Dantas",133
 1103,Carnaubais,134
 1104,Ceará-Mirim,149
-1105,Cerro Corá,144
-1106,Coronel Ezequiel,142
-1107,Coronel João Pessoa,136
+1105,"Cerro Corá",144
+1106,"Coronel Ezequiel",142
+1107,"Coronel João Pessoa",136
 1108,Cruzeta,133
-1109,Currais Novos,133
-1110,Doutor Severiano,136
+1109,"Currais Novos",133
+1110,"Doutor Severiano",136
 1111,Encanto,136
 1112,Equador,133
-1113,Espírito Santo,141
+1113,"Espírito Santo",141
 1114,Extremoz,150
-1115,Felipe Guerra,139
-1116,Fernando Pedroza,135
+1115,"Felipe Guerra",139
+1116,"Fernando Pedroza",135
 1117,Florânia,144
-1118,Francisco Dantas,137
-1119,Frutuoso Gomes,138
+1118,"Francisco Dantas",137
+1119,"Frutuoso Gomes",138
 1120,Galinhos,146
 1121,Goianinha,141
-1122,Governador Dix-Sept Rosado,139
+1122,"Governador Dix-Sept Rosado",139
 1123,Grossos,140
 1124,Guamaré,146
-1125,Ielmo Marinho,145
+1125,"Ielmo Marinho",145
 1126,Ipanguaçu,134
 1127,Ipueira,147
 1128,Itajá,134
@@ -1131,123 +1131,123 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 1130,Jaçanã,142
 1131,Jandaíra,143
 1132,Janduís,148
-1133,Januário Cicco,145
+1133,"Januário Cicco",145
 1134,Japi,142
-1135,Jardim de Angicos,135
-1136,Jardim de Piranhas,147
-1137,Jardim do Seridó,133
-1138,João Câmara,143
-1139,João Dias,138
-1140,José da Penha,137
+1135,"Jardim de Angicos",135
+1136,"Jardim de Piranhas",147
+1137,"Jardim do Seridó",133
+1138,"João Câmara",143
+1139,"João Dias",138
+1140,"José da Penha",137
 1141,Jucurutu,134
 1142,Jundiá,145
-1143,Lagoa d'Anta,145
-1144,Lagoa de Pedras,145
-1145,Lagoa de Velhos,142
-1146,Lagoa Nova,144
-1147,Lagoa Salgada,145
+1143,"Lagoa d'Anta",145
+1144,"Lagoa de Pedras",145
+1145,"Lagoa de Velhos",142
+1146,"Lagoa Nova",144
+1147,"Lagoa Salgada",145
 1148,Lajes,135
-1149,Lajes Pintadas,142
+1149,"Lajes Pintadas",142
 1150,Lucrécia,138
-1151,Luís Gomes,136
+1151,"Luís Gomes",136
 1152,Macaíba,149
 1153,Macau,146
-1154,Major Sales,136
-1155,Marcelino Vieira,137
+1154,"Major Sales",136
+1155,"Marcelino Vieira",137
 1156,Martins,138
 1157,Maxaranguape,151
-1158,Messias Targino,148
+1158,"Messias Targino",148
 1159,Montanhas,141
-1160,Monte Alegre,145
-1161,Monte das Gameleiras,142
+1160,"Monte Alegre",145
+1161,"Monte das Gameleiras",142
 1162,Mossoró,140
 1163,Natal,150
-1164,Nísia Floresta,149
-1165,Nova Cruz,145
-1166,Olho d'Água do Borges,138
-1167,Ouro Branco,133
+1164,"Nísia Floresta",149
+1165,"Nova Cruz",145
+1166,"Olho d'Água do Borges",138
+1167,"Ouro Branco",133
 1168,Paraná,137
 1169,Paraú,148
 1170,Parazinho,143
 1171,Parelhas,133
 1172,Parnamirim,150
-1173,Passa e Fica,145
+1173,"Passa e Fica",145
 1174,Passagem,145
 1175,Patu,138
-1176,Pau dos Ferros,137
-1177,Pedra Grande,151
-1178,Pedra Preta,135
-1179,Pedro Avelino,135
-1180,Pedro Velho,141
+1176,"Pau dos Ferros",137
+1177,"Pedra Grande",151
+1178,"Pedra Preta",135
+1179,"Pedro Avelino",135
+1180,"Pedro Velho",141
 1181,Pendências,134
 1182,Pilões,137
-1183,Poço Branco,143
+1183,"Poço Branco",143
 1184,Portalegre,137
-1185,Porto do Mangue,134
+1185,"Porto do Mangue",134
 1186,Pureza,151
-1187,Rafael Fernandes,137
-1188,Rafael Godeiro,138
-1189,Riacho da Cruz,137
-1190,Riacho de Santana,136
+1187,"Rafael Fernandes",137
+1188,"Rafael Godeiro",138
+1189,"Riacho da Cruz",137
+1190,"Riacho de Santana",136
 1191,Riachuelo,145
-1192,Rio do Fogo,151
-1193,Rodolfo Fernandes,137
-1194,Ruy Barbosa,142
-1195,Santa Cruz,142
-1196,Santa Maria,145
-1197,Santana do Matos,144
-1198,Santana do Seridó,133
-1199,Santo Antônio,145
-1200,São Bento do Norte,146
-1201,São Bento do Trairí,142
-1202,São Fernando,147
-1203,São Francisco do Oeste,137
-1204,São Gonçalo do Amarante,149
-1205,São João do Sabugi,147
-1206,São José de Mipibu,149
-1207,São José do Campestre,142
-1208,São José do Seridó,133
-1209,São Miguel,136
-1210,São Miguel do Gostoso,151
-1211,São Paulo do Potengi,145
-1212,São Pedro,145
-1213,São Rafael,134
-1214,São Tomé,142
-1215,São Vicente,144
-1216,Senador Elói de Souza,145
-1217,Senador Georgino Avelino,141
-1218,Serra Caiada,145
-1219,Serra de São Bento,142
-1220,Serra do Mel,140
-1221,Serra Negra do Norte,147
+1192,"Rio do Fogo",151
+1193,"Rodolfo Fernandes",137
+1194,"Ruy Barbosa",142
+1195,"Santa Cruz",142
+1196,"Santa Maria",145
+1197,"Santana do Matos",144
+1198,"Santana do Seridó",133
+1199,"Santo Antônio",145
+1200,"São Bento do Norte",146
+1201,"São Bento do Trairí",142
+1202,"São Fernando",147
+1203,"São Francisco do Oeste",137
+1204,"São Gonçalo do Amarante",149
+1205,"São João do Sabugi",147
+1206,"São José de Mipibu",149
+1207,"São José do Campestre",142
+1208,"São José do Seridó",133
+1209,"São Miguel",136
+1210,"São Miguel do Gostoso",151
+1211,"São Paulo do Potengi",145
+1212,"São Pedro",145
+1213,"São Rafael",134
+1214,"São Tomé",142
+1215,"São Vicente",144
+1216,"Senador Elói de Souza",145
+1217,"Senador Georgino Avelino",141
+1218,"Serra Caiada",145
+1219,"Serra de São Bento",142
+1220,"Serra do Mel",140
+1221,"Serra Negra do Norte",147
 1222,Serrinha,145
-1223,Serrinha dos Pintos,138
-1224,Severiano Melo,137
-1225,Sítio Novo,142
-1226,Taboleiro Grande,137
+1223,"Serrinha dos Pintos",138
+1224,"Severiano Melo",137
+1225,"Sítio Novo",142
+1226,"Taboleiro Grande",137
 1227,Taipu,151
 1228,Tangará,142
-1229,Tenente Ananias,137
-1230,Tenente Laurentino Cruz,144
+1229,"Tenente Ananias",137
+1230,"Tenente Laurentino Cruz",144
 1231,Tibau,140
-1232,Tibau do Sul,141
-1233,Timbaúba dos Batistas,147
+1232,"Tibau do Sul",141
+1233,"Timbaúba dos Batistas",147
 1234,Touros,151
-1235,Triunfo Potiguar,148
+1235,"Triunfo Potiguar",148
 1236,Umarizal,138
 1237,Upanema,148
 1238,Várzea,145
 1239,Venha-Ver,136
-1240,Vera Cruz,145
+1240,"Vera Cruz",145
 1241,Viçosa,137
-1242,Vila Flor,141
-1243,Água Branca,152
+1242,"Vila Flor",141
+1243,"Água Branca",152
 1244,Aguiar,153
-1245,Alagoa Grande,154
-1246,Alagoa Nova,154
+1245,"Alagoa Grande",154
+1246,"Alagoa Nova",154
 1247,Alagoinha,155
 1248,Alcantil,156
-1249,Algodão de Jandaíra,157
+1249,"Algodão de Jandaíra",157
 1250,Alhandra,141
 1251,Amparo,158
 1252,Aparecida,159
@@ -1255,48 +1255,48 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 1254,Arara,157
 1255,Araruna,160
 1256,Areia,154
-1257,Areia de Baraúnas,161
+1257,"Areia de Baraúnas",161
 1258,Areial,162
 1259,Aroeiras,163
 1260,Assunção,158
-1261,Baía da Traição,164
+1261,"Baía da Traição",164
 1262,Bananeiras,154
 1263,Baraúna,165
-1264,Barra de Santa Rosa,157
-1265,Barra de Santana,156
-1266,Barra de São Miguel,156
+1264,"Barra de Santa Rosa",157
+1265,"Barra de Santana",156
+1266,"Barra de São Miguel",156
 1267,Bayeux,166
 1268,Belém,155
-1269,Belém do Brejo do Cruz,167
-1270,Bernardino Batista,168
-1271,Boa Ventura,169
-1272,Boa Vista,170
-1273,Bom Jesus,168
-1274,Bom Sucesso,167
-1275,Bonito de Santa Fé,168
+1269,"Belém do Brejo do Cruz",167
+1270,"Bernardino Batista",168
+1271,"Boa Ventura",169
+1272,"Boa Vista",170
+1273,"Bom Jesus",168
+1274,"Bom Sucesso",167
+1275,"Bonito de Santa Fé",168
 1276,Boqueirão,156
 1277,Borborema,154
-1278,Brejo do Cruz,167
-1279,Brejo dos Santos,167
+1278,"Brejo do Cruz",167
+1279,"Brejo dos Santos",167
 1280,Caaporã,141
 1281,Cabaceiras,156
 1282,Cabedelo,166
-1283,Cachoeira dos Índios,168
-1284,Cacimba de Areia,161
-1285,Cacimba de Dentro,160
+1283,"Cachoeira dos Índios",168
+1284,"Cacimba de Areia",161
+1285,"Cacimba de Dentro",160
 1286,Cacimbas,152
 1287,Caiçara,155
 1288,Cajazeiras,168
 1289,Cajazeirinhas,159
-1290,Caldas Brandão,171
+1290,"Caldas Brandão",171
 1291,Camalaú,158
-1292,Campina Grande,170
+1292,"Campina Grande",170
 1293,Capim,164
 1294,Caraúbas,156
 1295,Carrapateira,168
 1296,Casserengue,160
 1297,Catingueira,153
-1298,Catolé do Rocha,167
+1298,"Catolé do Rocha",167
 1299,Caturité,156
 1300,Conceição,169
 1301,Condado,159
@@ -1304,23 +1304,23 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 1303,Congo,158
 1304,Coremas,153
 1305,Coxixola,158
-1306,Cruz do Espírito Santo,172
+1306,"Cruz do Espírito Santo",172
 1307,Cubati,165
 1308,Cuité,157
-1309,Cuité de Mamanguape,164
+1309,"Cuité de Mamanguape",164
 1310,Cuitegi,155
-1311,Curral de Cima,164
-1312,Curral Velho,169
+1311,"Curral de Cima",164
+1312,"Curral Velho",169
 1313,Damião,157
 1314,Desterro,152
 1315,Diamante,169
-1316,Dona Inês,160
-1317,Duas Estradas,155
+1316,"Dona Inês",160
+1317,"Duas Estradas",155
 1318,Emas,153
 1319,Esperança,162
 1320,Fagundes,170
-1321,Frei Martinho,165
-1322,Gado Bravo,163
+1321,"Frei Martinho",165
+1322,"Gado Bravo",163
 1323,Guarabira,155
 1324,Gurinhém,171
 1325,Gurjão,156
@@ -1334,21 +1334,21 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 1333,Itatuba,171
 1334,Jacaraú,164
 1335,Jericó,167
-1336,João Pessoa,166
-1337,Joca Claudino,168
-1338,Juarez Távora,171
+1336,"João Pessoa",166
+1337,"Joca Claudino",168
+1338,"Juarez Távora",171
 1339,Juazeirinho,165
-1340,Junco do Seridó,173
+1340,"Junco do Seridó",173
 1341,Juripiranga,172
 1342,Juru,152
 1343,Lagoa,167
-1344,Lagoa de Dentro,155
-1345,Lagoa Seca,170
+1344,"Lagoa de Dentro",155
+1345,"Lagoa Seca",170
 1346,Lastro,159
 1347,Livramento,158
 1348,Logradouro,155
 1349,Lucena,166
-1350,Mãe d'Água,161
+1350,"Mãe d'Água",161
 1351,Malta,159
 1352,Mamanguape,164
 1353,Manaíra,152
@@ -1358,29 +1358,29 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 1357,Massaranduba,170
 1358,Mataraca,164
 1359,Matinhas,154
-1360,Mato Grosso,167
+1360,"Mato Grosso",167
 1361,Maturéia,152
 1362,Mogeiro,171
 1363,Montadas,162
-1364,Monte Horebe,168
+1364,"Monte Horebe",168
 1365,Monteiro,158
 1366,Mulungu,155
 1367,Natuba,163
 1368,Nazarezinho,159
-1369,Nova Floresta,157
-1370,Nova Olinda,153
-1371,Nova Palmeira,165
-1372,Olho d'Água,153
+1369,"Nova Floresta",157
+1370,"Nova Olinda",153
+1371,"Nova Palmeira",165
+1372,"Olho d'Água",153
 1373,Olivedos,157
-1374,Ouro Velho,158
+1374,"Ouro Velho",158
 1375,Parari,158
 1376,Passagem,161
 1377,Patos,161
 1378,Paulista,159
-1379,Pedra Branca,169
-1380,Pedra Lavrada,165
-1381,Pedras de Fogo,141
-1382,Pedro Régis,164
+1379,"Pedra Branca",169
+1380,"Pedra Lavrada",165
+1381,"Pedras de Fogo",141
+1382,"Pedro Régis",164
 1383,Piancó,153
 1384,Picuí,165
 1385,Pilar,172
@@ -1389,61 +1389,61 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 1388,Pirpirituba,155
 1389,Pitimbu,141
 1390,Pocinhos,157
-1391,Poço Dantas,168
-1392,Poço de José de Moura,168
+1391,"Poço Dantas",168
+1392,"Poço de José de Moura",168
 1393,Pombal,159
 1394,Prata,158
-1395,Princesa Isabel,152
+1395,"Princesa Isabel",152
 1396,Puxinanã,170
 1397,Queimadas,170
 1398,Quixaba,161
 1399,Remígio,157
 1400,Riachão,160
-1401,Riachão do Bacamarte,171
-1402,Riachão do Poço,172
-1403,Riacho de Santo Antônio,156
-1404,Riacho dos Cavalos,167
-1405,Rio Tinto,164
+1401,"Riachão do Bacamarte",171
+1402,"Riachão do Poço",172
+1403,"Riacho de Santo Antônio",156
+1404,"Riacho dos Cavalos",167
+1405,"Rio Tinto",164
 1406,Salgadinho,173
-1407,Salgado de São Félix,171
-1408,Santa Cecília,163
-1409,Santa Cruz,159
-1410,Santa Helena,168
-1411,Santa Inês,169
-1412,Santa Luzia,173
-1413,Santa Rita,166
-1414,Santa Teresinha,161
-1415,Santana de Mangueira,169
-1416,Santana dos Garrotes,153
-1417,Santo André,156
-1418,São Bentinho,159
-1419,São Bento,167
-1420,São Domingos,159
-1421,São Domingos do Cariri,156
-1422,São Francisco,159
-1423,São João do Cariri,156
-1424,São João do Rio do Peixe,168
-1425,São João do Tigre,158
-1426,São José da Lagoa Tapada,159
-1427,São José de Caiana,169
-1428,São José de Espinharas,161
-1429,São José de Piranhas,168
-1430,São José de Princesa,152
-1431,São José do Bonfim,161
-1432,São José do Brejo do Cruz,167
-1433,São José do Sabugi,173
-1434,São José dos Cordeiros,158
-1435,São José dos Ramos,172
-1436,São Mamede,173
-1437,São Miguel de Taipu,172
-1438,São Sebastião de Lagoa de Roça,162
-1439,São Sebastião do Umbuzeiro,158
-1440,São Vicente do Seridó,165
+1407,"Salgado de São Félix",171
+1408,"Santa Cecília",163
+1409,"Santa Cruz",159
+1410,"Santa Helena",168
+1411,"Santa Inês",169
+1412,"Santa Luzia",173
+1413,"Santa Rita",166
+1414,"Santa Teresinha",161
+1415,"Santana de Mangueira",169
+1416,"Santana dos Garrotes",153
+1417,"Santo André",156
+1418,"São Bentinho",159
+1419,"São Bento",167
+1420,"São Domingos",159
+1421,"São Domingos do Cariri",156
+1422,"São Francisco",159
+1423,"São João do Cariri",156
+1424,"São João do Rio do Peixe",168
+1425,"São João do Tigre",158
+1426,"São José da Lagoa Tapada",159
+1427,"São José de Caiana",169
+1428,"São José de Espinharas",161
+1429,"São José de Piranhas",168
+1430,"São José de Princesa",152
+1431,"São José do Bonfim",161
+1432,"São José do Brejo do Cruz",167
+1433,"São José do Sabugi",173
+1434,"São José dos Cordeiros",158
+1435,"São José dos Ramos",172
+1436,"São Mamede",173
+1437,"São Miguel de Taipu",172
+1438,"São Sebastião de Lagoa de Roça",162
+1439,"São Sebastião do Umbuzeiro",158
+1440,"São Vicente do Seridó",165
 1441,Sapé,172
-1442,Serra Branca,158
-1443,Serra da Raiz,155
-1444,Serra Grande,169
-1445,Serra Redonda,170
+1442,"Serra Branca",158
+1443,"Serra da Raiz",155
+1444,"Serra Grande",169
+1445,"Serra Redonda",170
 1446,Serraria,154
 1447,Sertãozinho,155
 1448,Sobrado,172
@@ -1462,14 +1462,14 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 1461,Umbuzeiro,163
 1462,Várzea,173
 1463,Vieirópolis,159
-1464,Vista Serrana,159
+1464,"Vista Serrana",159
 1465,Zabelê,158
-1466,Abreu e Lima,174
-1467,Afogados da Ingazeira,175
+1466,"Abreu e Lima",174
+1467,"Afogados da Ingazeira",175
 1468,Afrânio,176
 1469,Agrestina,177
-1470,Água Preta,178
-1471,Águas Belas,179
+1470,"Água Preta",178
+1471,"Águas Belas",179
 1472,Alagoinha,180
 1473,Aliança,181
 1474,Altinho,177
@@ -1478,42 +1478,42 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 1477,Araçoiaba,183
 1478,Araripina,184
 1479,Arcoverde,185
-1480,Barra de Guabiraba,177
+1480,"Barra de Guabiraba",177
 1481,Barreiros,178
-1482,Belém de Maria,178
-1483,Belém do São Francisco,186
-1484,Belo Jardim,180
+1482,"Belém de Maria",178
+1483,"Belém do São Francisco",186
+1484,"Belo Jardim",180
 1485,Betânia,185
 1486,Bezerros,180
 1487,Bodocó,184
-1488,Bom Conselho,182
-1489,Bom Jardim,187
+1488,"Bom Conselho",182
+1489,"Bom Jardim",187
 1490,Bonito,177
 1491,Brejão,182
 1492,Brejinho,175
-1493,Brejo da Madre de Deus,180
-1494,Buenos Aires,181
+1493,"Brejo da Madre de Deus",180
+1494,"Buenos Aires",181
 1495,Buíque,179
-1496,Cabo de Santo Agostinho,188
+1496,"Cabo de Santo Agostinho",188
 1497,Cabrobó,176
 1498,Cachoeirinha,180
 1499,Caetés,182
 1500,Calçado,182
 1501,Calumbi,175
 1502,Camaragibe,174
-1503,Camocim de São Félix,177
+1503,"Camocim de São Félix",177
 1504,Camutanga,181
 1505,Canhotinho,182
 1506,Capoeiras,180
 1507,Carnaíba,175
-1508,Carnaubeira da Penha,186
+1508,"Carnaubeira da Penha",186
 1509,Carpina,181
 1510,Caruaru,180
 1511,Casinhas,189
 1512,Catende,178
 1513,Cedro,190
-1514,Chã de Alegria,191
-1515,Chã Grande,191
+1514,"Chã de Alegria",191
+1515,"Chã Grande",191
 1516,Condado,181
 1517,Correntes,182
 1518,Cortês,178
@@ -1523,15 +1523,15 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 1522,Dormentes,176
 1523,Escada,178
 1524,Exu,184
-1525,Feira Nova,187
-1526,Fernando de Noronha,192
+1525,"Feira Nova",187
+1526,"Fernando de Noronha",192
 1527,Ferreiros,181
 1528,Flores,175
 1529,Floresta,186
-1530,Frei Miguelinho,189
+1530,"Frei Miguelinho",189
 1531,Gameleira,178
 1532,Garanhuns,182
-1533,Glória do Goitá,191
+1533,"Glória do Goitá",191
 1534,Goiana,181
 1535,Granito,184
 1536,Gravatá,180
@@ -1540,7 +1540,7 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 1539,Ibirajuba,177
 1540,Igarassu,183
 1541,Iguaracy,175
-1542,Ilha de Itamaracá,183
+1542,"Ilha de Itamaracá",183
 1543,Inajá,185
 1544,Ingazeira,175
 1545,Ipojuca,188
@@ -1551,20 +1551,20 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 1550,Itapetim,175
 1551,Itapissuma,183
 1552,Itaquitinga,181
-1553,Jaboatão dos Guararapes,174
+1553,"Jaboatão dos Guararapes",174
 1554,Jaqueira,178
 1555,Jataúba,180
 1556,Jatobá,186
-1557,João Alfredo,187
-1558,Joaquim Nabuco,178
+1557,"João Alfredo",187
+1558,"Joaquim Nabuco",178
 1559,Jucati,182
 1560,Jupi,182
 1561,Jurema,182
-1562,Lagoa de Itaenga,181
-1563,Lagoa do Carro,181
-1564,Lagoa do Ouro,182
-1565,Lagoa dos Gatos,177
-1566,Lagoa Grande,176
+1562,"Lagoa de Itaenga",181
+1563,"Lagoa do Carro",181
+1564,"Lagoa do Ouro",182
+1565,"Lagoa dos Gatos",177
+1566,"Lagoa Grande",176
 1567,Lajedo,182
 1568,Limoeiro,187
 1569,Macaparana,181
@@ -1574,7 +1574,7 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 1573,Mirandiba,190
 1574,Moreilândia,184
 1575,Moreno,174
-1576,Nazaré da Mata,181
+1576,"Nazaré da Mata",181
 1577,Olinda,174
 1578,Orobó,187
 1579,Orocó,176
@@ -1597,32 +1597,32 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 1596,Quipapá,178
 1597,Quixaba,175
 1598,Recife,174
-1599,Riacho das Almas,180
+1599,"Riacho das Almas",180
 1600,Ribeirão,178
-1601,Rio Formoso,178
+1601,"Rio Formoso",178
 1602,Sairé,177
 1603,Salgadinho,187
 1604,Salgueiro,190
 1605,Saloá,182
 1606,Sanharó,180
-1607,Santa Cruz,184
-1608,Santa Cruz da Baixa Verde,175
-1609,Santa Cruz do Capibaribe,189
-1610,Santa Filomena,184
-1611,Santa Maria da Boa Vista,176
-1612,Santa Maria do Cambucá,189
-1613,Santa Terezinha,175
-1614,São Benedito do Sul,178
-1615,São Bento do Una,180
-1616,São Caitano,180
-1617,São João,182
-1618,São Joaquim do Monte,177
-1619,São José da Coroa Grande,178
-1620,São José do Belmonte,190
-1621,São José do Egito,175
-1622,São Lourenço da Mata,174
-1623,São Vicente Férrer,187
-1624,Serra Talhada,175
+1607,"Santa Cruz",184
+1608,"Santa Cruz da Baixa Verde",175
+1609,"Santa Cruz do Capibaribe",189
+1610,"Santa Filomena",184
+1611,"Santa Maria da Boa Vista",176
+1612,"Santa Maria do Cambucá",189
+1613,"Santa Terezinha",175
+1614,"São Benedito do Sul",178
+1615,"São Bento do Una",180
+1616,"São Caitano",180
+1617,"São João",182
+1618,"São Joaquim do Monte",177
+1619,"São José da Coroa Grande",178
+1620,"São José do Belmonte",190
+1621,"São José do Egito",175
+1622,"São Lourenço da Mata",174
+1623,"São Vicente Férrer",187
+1624,"Serra Talhada",175
 1625,Serrita,190
 1626,Sertânia,185
 1627,Sirinhaém,178
@@ -1632,9 +1632,9 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 1631,Tacaimbó,180
 1632,Tacaratu,186
 1633,Tamandaré,178
-1634,Taquaritinga do Norte,189
+1634,"Taquaritinga do Norte",189
 1635,Terezinha,182
-1636,Terra Nova,176
+1636,"Terra Nova",176
 1637,Timbaúba,181
 1638,Toritama,189
 1639,Tracunhaém,181
@@ -1644,208 +1644,208 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 1643,Tuparetama,175
 1644,Venturosa,179
 1645,Verdejante,190
-1646,Vertente do Lério,189
+1646,"Vertente do Lério",189
 1647,Vertentes,189
 1648,Vicência,181
-1649,Vitória de Santo Antão,191
+1649,"Vitória de Santo Antão",191
 1650,Xexéu,178
-1651,Água Branca,193
+1651,"Água Branca",193
 1652,Anadia,194
 1653,Arapiraca,195
 1654,Atalaia,196
-1655,Barra de Santo Antônio,197
-1656,Barra de São Miguel,197
+1655,"Barra de Santo Antônio",197
+1656,"Barra de São Miguel",197
 1657,Batalha,198
 1658,Belém,199
-1659,Belo Monte,198
-1660,Boca da Mata,194
+1659,"Belo Monte",198
+1660,"Boca da Mata",194
 1661,Branquinha,196
 1662,Cacimbinhas,199
 1663,Cajueiro,196
 1664,Campestre,196
-1665,Campo Alegre,194
-1666,Campo Grande,195
+1665,"Campo Alegre",194
+1666,"Campo Grande",195
 1667,Canapi,193
 1668,Capela,196
 1669,Carneiros,200
-1670,Chã Preta,201
-1671,Coité do Nóia,195
-1672,Colônia Leopoldina,196
-1673,Coqueiro Seco,197
+1670,"Chã Preta",201
+1671,"Coité do Nóia",195
+1672,"Colônia Leopoldina",196
+1673,"Coqueiro Seco",197
 1674,Coruripe,194
 1675,Craíbas,195
-1676,Delmiro Gouveia,202
-1677,Dois Riachos,200
-1678,Estrela de Alagoas,199
-1679,Feira Grande,195
-1680,Feliz Deserto,203
+1676,"Delmiro Gouveia",202
+1677,"Dois Riachos",200
+1678,"Estrela de Alagoas",199
+1679,"Feira Grande",195
+1680,"Feliz Deserto",203
 1681,Flexeiras,196
-1682,Girau do Ponciano,195
+1682,"Girau do Ponciano",195
 1683,Ibateguara,201
 1684,Igaci,199
-1685,Igreja Nova,203
+1685,"Igreja Nova",203
 1686,Inhapi,193
-1687,Jacaré dos Homens,198
+1687,"Jacaré dos Homens",198
 1688,Jacuípe,196
 1689,Japaratinga,204
 1690,Jaramataia,198
-1691,Jequiá da Praia,194
-1692,Joaquim Gomes,196
+1691,"Jequiá da Praia",194
+1692,"Joaquim Gomes",196
 1693,Jundiá,196
 1694,Junqueiro,194
-1695,Lagoa da Canoa,195
-1696,Limoeiro de Anadia,195
+1695,"Lagoa da Canoa",195
+1696,"Limoeiro de Anadia",195
 1697,Maceió,197
-1698,Major Isidoro,198
-1699,Mar Vermelho,199
+1698,"Major Isidoro",198
+1699,"Mar Vermelho",199
 1700,Maragogi,204
 1701,Maravilha,200
-1702,Marechal Deodoro,197
+1702,"Marechal Deodoro",197
 1703,Maribondo,199
-1704,Mata Grande,193
-1705,Matriz de Camaragibe,196
+1704,"Mata Grande",193
+1705,"Matriz de Camaragibe",196
 1706,Messias,196
-1707,Minador do Negrão,199
+1707,"Minador do Negrão",199
 1708,Monteirópolis,198
 1709,Murici,196
-1710,Novo Lino,196
-1711,Olho d'Água das Flores,198
-1712,Olho d'Água do Casado,202
-1713,Olho d'Água Grande,205
+1710,"Novo Lino",196
+1711,"Olho d'Água das Flores",198
+1712,"Olho d'Água do Casado",202
+1713,"Olho d'Água Grande",205
 1714,Olivença,198
-1715,Ouro Branco,200
+1715,"Ouro Branco",200
 1716,Palestina,200
-1717,Palmeira dos Índios,199
-1718,Pão de Açúcar,200
+1717,"Palmeira dos Índios",199
+1718,"Pão de Açúcar",200
 1719,Pariconha,193
 1720,Paripueira,197
-1721,Passo de Camaragibe,204
-1722,Paulo Jacinto,199
+1721,"Passo de Camaragibe",204
+1722,"Paulo Jacinto",199
 1723,Penedo,203
 1724,Piaçabuçu,203
 1725,Pilar,197
 1726,Pindoba,201
 1727,Piranhas,202
-1728,Poço das Trincheiras,200
-1729,Porto Calvo,196
-1730,Porto de Pedras,204
-1731,Porto Real do Colégio,203
+1728,"Poço das Trincheiras",200
+1729,"Porto Calvo",196
+1730,"Porto de Pedras",204
+1731,"Porto Real do Colégio",203
 1732,Quebrangulo,199
-1733,Rio Largo,197
+1733,"Rio Largo",197
 1734,Roteiro,194
-1735,Santa Luzia do Norte,197
-1736,Santana do Ipanema,200
-1737,Santana do Mundaú,201
-1738,São Brás,205
-1739,São José da Laje,201
-1740,São José da Tapera,200
-1741,São Luís do Quitunde,196
-1742,São Miguel dos Campos,194
-1743,São Miguel dos Milagres,204
-1744,São Sebastião,195
+1735,"Santa Luzia do Norte",197
+1736,"Santana do Ipanema",200
+1737,"Santana do Mundaú",201
+1738,"São Brás",205
+1739,"São José da Laje",201
+1740,"São José da Tapera",200
+1741,"São Luís do Quitunde",196
+1742,"São Miguel dos Campos",194
+1743,"São Miguel dos Milagres",204
+1744,"São Sebastião",195
 1745,Satuba,197
-1746,Senador Rui Palmeira,200
-1747,Tanque d'Arca,199
+1746,"Senador Rui Palmeira",200
+1747,"Tanque d'Arca",199
 1748,Taquarana,195
-1749,Teotônio Vilela,194
+1749,"Teotônio Vilela",194
 1750,Traipu,205
-1751,União dos Palmares,201
+1751,"União dos Palmares",201
 1752,Viçosa,201
-1753,Amparo de São Francisco,206
+1753,"Amparo de São Francisco",206
 1754,Aquidabã,207
 1755,Aracaju,208
 1756,Arauá,209
-1757,Areia Branca,210
-1758,Barra dos Coqueiros,208
+1757,"Areia Branca",210
+1758,"Barra dos Coqueiros",208
 1759,Boquim,209
-1760,Brejo Grande,206
-1761,Campo do Brito,210
+1760,"Brejo Grande",206
+1761,"Campo do Brito",210
 1762,Canhoba,206
-1763,Canindé de São Francisco,211
+1763,"Canindé de São Francisco",211
 1764,Capela,212
 1765,Carira,213
 1766,Carmópolis,214
-1767,Cedro de São João,206
+1767,"Cedro de São João",206
 1768,Cristinápolis,209
 1769,Cumbe,207
-1770,Divina Pastora,212
+1770,"Divina Pastora",212
 1771,Estância,215
-1772,Feira Nova,211
-1773,Frei Paulo,213
+1772,"Feira Nova",211
+1773,"Frei Paulo",213
 1774,Gararu,211
-1775,General Maynard,214
-1776,Gracho Cardoso,211
-1777,Ilha das Flores,206
+1775,"General Maynard",214
+1776,"Gracho Cardoso",211
+1777,"Ilha das Flores",206
 1778,Indiaroba,215
 1779,Itabaiana,210
 1780,Itabaianinha,209
 1781,Itabi,211
-1782,Itaporanga d'Ajuda,215
+1782,"Itaporanga d'Ajuda",215
 1783,Japaratuba,216
 1784,Japoatã,216
 1785,Lagarto,217
 1786,Laranjeiras,214
 1787,Macambira,210
-1788,Malhada dos Bois,207
+1788,"Malhada dos Bois",207
 1789,Malhador,210
 1790,Maruim,214
-1791,Moita Bonita,210
-1792,Monte Alegre de Sergipe,211
+1791,"Moita Bonita",210
+1792,"Monte Alegre de Sergipe",211
 1793,Muribeca,207
 1794,Neópolis,206
-1795,Nossa Senhora Aparecida,213
-1796,Nossa Senhora da Glória,211
-1797,Nossa Senhora das Dores,207
-1798,Nossa Senhora de Lourdes,206
-1799,Nossa Senhora do Socorro,208
+1795,"Nossa Senhora Aparecida",213
+1796,"Nossa Senhora da Glória",211
+1797,"Nossa Senhora das Dores",207
+1798,"Nossa Senhora de Lourdes",206
+1799,"Nossa Senhora do Socorro",208
 1800,Pacatuba,216
-1801,Pedra Mole,213
+1801,"Pedra Mole",213
 1802,Pedrinhas,209
 1803,Pinhão,213
 1804,Pirambu,216
-1805,Poço Redondo,211
-1806,Poço Verde,218
-1807,Porto da Folha,211
+1805,"Poço Redondo",211
+1806,"Poço Verde",218
+1807,"Porto da Folha",211
 1808,Propriá,206
-1809,Riachão do Dantas,217
+1809,"Riachão do Dantas",217
 1810,Riachuelo,214
 1811,Ribeirópolis,213
-1812,Rosário do Catete,214
+1812,"Rosário do Catete",214
 1813,Salgado,209
-1814,Santa Luzia do Itanhy,215
-1815,Santa Rosa de Lima,212
-1816,Santana do São Francisco,206
-1817,Santo Amaro das Brotas,214
-1818,São Cristóvão,208
-1819,São Domingos,210
-1820,São Francisco,216
-1821,São Miguel do Aleixo,207
-1822,Simão Dias,218
+1814,"Santa Luzia do Itanhy",215
+1815,"Santa Rosa de Lima",212
+1816,"Santana do São Francisco",206
+1817,"Santo Amaro das Brotas",214
+1818,"São Cristóvão",208
+1819,"São Domingos",210
+1820,"São Francisco",216
+1821,"São Miguel do Aleixo",207
+1822,"Simão Dias",218
 1823,Siriri,212
 1824,Telha,206
-1825,Tobias Barreto,218
-1826,Tomar do Geru,209
+1825,"Tobias Barreto",218
+1826,"Tomar do Geru",209
 1827,Umbaúba,209
 1828,Abaíra,219
 1829,Abaré,220
 1830,Acajutiba,221
 1831,Adustina,222
-1832,Água Fria,223
+1832,"Água Fria",223
 1833,Aiquara,224
 1834,Alagoinhas,221
 1835,Alcobaça,225
 1836,Almadina,226
 1837,Amargosa,224
-1838,Amélia Rodrigues,227
-1839,América Dourada,228
+1838,"Amélia Rodrigues",227
+1839,"América Dourada",228
 1840,Anagé,229
 1841,Andaraí,219
 1842,Andorinha,230
 1843,Angical,231
 1844,Anguera,223
 1845,Antas,222
-1846,Antônio Cardoso,223
-1847,Antônio Gonçalves,230
+1846,"Antônio Cardoso",223
+1847,"Antônio Gonçalves",230
 1848,Aporá,221
 1849,Apuarema,224
 1850,Araçás,221
@@ -1854,38 +1854,38 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 1853,Aramari,221
 1854,Arataca,226
 1855,Aratuípe,234
-1856,Aurelino Leal,226
+1856,"Aurelino Leal",226
 1857,Baianópolis,235
-1858,Baixa Grande,236
+1858,"Baixa Grande",236
 1859,Banzaê,222
 1860,Barra,237
-1861,Barra da Estiva,219
-1862,Barra do Choça,229
-1863,Barra do Mendes,228
-1864,Barra do Rocha,226
+1861,"Barra da Estiva",219
+1862,"Barra do Choça",229
+1863,"Barra do Mendes",228
+1864,"Barra do Rocha",226
 1865,Barreiras,235
-1866,Barro Alto,228
-1867,Barro Preto,226
+1866,"Barro Alto",228
+1867,"Barro Preto",226
 1868,Barrocas,233
 1869,Belmonte,226
-1870,Belo Campo,229
+1870,"Belo Campo",229
 1871,Biritinga,233
-1872,Boa Nova,229
-1873,Boa Vista do Tupim,236
-1874,Bom Jesus da Lapa,238
-1875,Bom Jesus da Serra,229
+1872,"Boa Nova",229
+1873,"Boa Vista do Tupim",236
+1874,"Bom Jesus da Lapa",238
+1875,"Bom Jesus da Serra",229
 1876,Boninal,219
 1877,Bonito,219
 1878,Boquira,239
 1879,Botuporã,239
 1880,Brejões,224
 1881,Brejolândia,231
-1882,Brotas de Macaúbas,239
+1882,"Brotas de Macaúbas",239
 1883,Brumado,232
 1884,Buerarema,226
 1885,Buritirama,237
 1886,Caatiba,229
-1887,Cabaceiras do Paraguaçu,234
+1887,"Cabaceiras do Paraguaçu",234
 1888,Cachoeira,234
 1889,Caculé,240
 1890,Caém,241
@@ -1893,80 +1893,80 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 1892,Caetité,240
 1893,Cafarnaum,228
 1894,Cairu,242
-1895,Caldeirão Grande,241
+1895,"Caldeirão Grande",241
 1896,Camacan,226
 1897,Camaçari,243
 1898,Camamu,242
-1899,Campo Alegre de Lourdes,244
-1900,Campo Formoso,230
+1899,"Campo Alegre de Lourdes",244
+1900,"Campo Formoso",230
 1901,Canápolis,245
 1902,Canarana,228
 1903,Canavieiras,226
 1904,Candeal,233
 1905,Candeias,243
 1906,Candiba,240
-1907,Cândido Sales,229
+1907,"Cândido Sales",229
 1908,Cansanção,246
 1909,Canudos,246
-1910,Capela do Alto Alegre,233
-1911,Capim Grosso,241
+1910,"Capela do Alto Alegre",233
+1911,"Capim Grosso",241
 1912,Caraíbas,232
 1913,Caravelas,225
-1914,Cardeal da Silva,247
+1914,"Cardeal da Silva",247
 1915,Carinhanha,238
-1916,Casa Nova,244
-1917,Castro Alves,234
+1916,"Casa Nova",244
+1917,"Castro Alves",234
 1918,Catolândia,235
 1919,Catu,227
 1920,Caturama,239
 1921,Central,228
 1922,Chorrochó,220
-1923,Cícero Dantas,222
+1923,"Cícero Dantas",222
 1924,Cipó,222
 1925,Coaraci,226
 1926,Cocos,245
-1927,Conceição da Feira,223
-1928,Conceição do Almeida,234
-1929,Conceição do Coité,233
-1930,Conceição do Jacuípe,223
+1927,"Conceição da Feira",223
+1928,"Conceição do Almeida",234
+1929,"Conceição do Coité",233
+1930,"Conceição do Jacuípe",223
 1931,Conde,247
 1932,Condeúba,232
-1933,Contendas do Sincorá,219
-1934,Coração de Maria,223
+1933,"Contendas do Sincorá",219
+1934,"Coração de Maria",223
 1935,Cordeiros,232
 1936,Coribe,245
-1937,Coronel João Sá,248
+1937,"Coronel João Sá",248
 1938,Correntina,245
 1939,Cotegipe,231
 1940,Cravolândia,224
 1941,Crisópolis,221
 1942,Cristópolis,231
-1943,Cruz das Almas,234
+1943,"Cruz das Almas",234
 1944,Curaçá,244
-1945,Dário Meira,229
-1946,Dias d'Ávila,243
-1947,Dom Basílio,249
-1948,Dom Macedo Costa,234
-1949,Elísio Medrado,223
+1945,"Dário Meira",229
+1946,"Dias d'Ávila",243
+1947,"Dom Basílio",249
+1948,"Dom Macedo Costa",234
+1949,"Elísio Medrado",223
 1950,Encruzilhada,250
-1951,Entre Rios,247
-1952,Érico Cardoso,249
+1951,"Entre Rios",247
+1952,"Érico Cardoso",249
 1953,Esplanada,247
-1954,Euclides da Cunha,246
+1954,"Euclides da Cunha",246
 1955,Eunápolis,225
 1956,Fátima,222
-1957,Feira da Mata,238
-1958,Feira de Santana,223
+1957,"Feira da Mata",238
+1958,"Feira de Santana",223
 1959,Filadélfia,230
-1960,Firmino Alves,226
-1961,Floresta Azul,226
-1962,Formosa do Rio Preto,235
+1960,"Firmino Alves",226
+1961,"Floresta Azul",226
+1962,"Formosa do Rio Preto",235
 1963,Gandu,226
 1964,Gavião,233
-1965,Gentio do Ouro,228
+1965,"Gentio do Ouro",228
 1966,Glória,220
 1967,Gongogi,226
-1968,Governador Mangabeira,234
+1968,"Governador Mangabeira",234
 1969,Guajeru,232
 1970,Guanambi,240
 1971,Guaratinga,225
@@ -2008,8 +2008,8 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 2007,Itagi,224
 2008,Itagibá,226
 2009,Itagimirim,225
-2010,Itaguaçu da Bahia,237
-2011,Itaju do Colônia,226
+2010,"Itaguaçu da Bahia",237
+2011,"Itaju do Colônia",226
 2012,Itajuípe,226
 2013,Itamaraju,225
 2014,Itamari,226
@@ -2042,182 +2042,182 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 2041,Jeremoabo,248
 2042,Jiquiriçá,224
 2043,Jitaúna,224
-2044,João Dourado,228
+2044,"João Dourado",228
 2045,Juazeiro,244
 2046,Jucuruçu,225
 2047,Jussara,228
 2048,Jussari,226
 2049,Jussiape,219
-2050,Lafaiete Coutinho,224
-2051,Lagoa Real,240
+2050,"Lafaiete Coutinho",224
+2051,"Lagoa Real",240
 2052,Laje,224
 2053,Lajedão,225
 2054,Lajedinho,236
-2055,Lajedo do Tabocal,224
+2055,"Lajedo do Tabocal",224
 2056,Lamarão,233
 2057,Lapão,228
-2058,Lauro de Freitas,243
+2058,"Lauro de Freitas",243
 2059,Lençóis,219
-2060,Licínio de Almeida,240
-2061,Livramento de Nossa Senhora,249
-2062,Luís Eduardo Magalhães,235
+2060,"Licínio de Almeida",240
+2061,"Livramento de Nossa Senhora",249
+2062,"Luís Eduardo Magalhães",235
 2063,Macajuba,236
 2064,Macarani,250
 2065,Macaúbas,239
 2066,Macururé,220
-2067,Madre de Deus,243
+2067,"Madre de Deus",243
 2068,Maetinga,232
 2069,Maiquinique,250
 2070,Mairi,236
 2071,Malhada,240
-2072,Malhada de Pedras,232
-2073,Manoel Vitorino,229
+2072,"Malhada de Pedras",232
+2073,"Manoel Vitorino",229
 2074,Mansidão,231
 2075,Maracás,224
 2076,Maragogipe,234
 2077,Maraú,242
-2078,Marcionílio Souza,224
+2078,"Marcionílio Souza",224
 2079,Mascote,226
-2080,Mata de São João,227
+2080,"Mata de São João",227
 2081,Matina,240
-2082,Medeiros Neto,225
-2083,Miguel Calmon,241
+2082,"Medeiros Neto",225
+2083,"Miguel Calmon",241
 2084,Milagres,224
 2085,Mirangaba,241
 2086,Mirante,229
-2087,Monte Santo,246
+2087,"Monte Santo",246
 2088,Morpará,237
-2089,Morro do Chapéu,241
+2089,"Morro do Chapéu",241
 2090,Mortugaba,240
 2091,Mucugê,219
 2092,Mucuri,225
-2093,Mulungu do Morro,228
-2094,Mundo Novo,236
-2095,Muniz Ferreira,234
-2096,Muquém do São Francisco,237
+2093,"Mulungu do Morro",228
+2094,"Mundo Novo",236
+2095,"Muniz Ferreira",234
+2096,"Muquém do São Francisco",237
 2097,Muritiba,234
 2098,Mutuípe,224
 2099,Nazaré,234
-2100,Nilo Peçanha,242
+2100,"Nilo Peçanha",242
 2101,Nordestina,246
-2102,Nova Canaã,229
-2103,Nova Fátima,233
-2104,Nova Ibiá,226
-2105,Nova Itarana,224
-2106,Nova Redenção,219
-2107,Nova Soure,222
-2108,Nova Viçosa,225
-2109,Novo Horizonte,239
-2110,Novo Triunfo,222
+2102,"Nova Canaã",229
+2103,"Nova Fátima",233
+2104,"Nova Ibiá",226
+2105,"Nova Itarana",224
+2106,"Nova Redenção",219
+2107,"Nova Soure",222
+2108,"Nova Viçosa",225
+2109,"Novo Horizonte",239
+2110,"Novo Triunfo",222
 2111,Olindina,222
-2112,Oliveira dos Brejinhos,239
+2112,"Oliveira dos Brejinhos",239
 2113,Ouriçangas,223
 2114,Ourolândia,241
-2115,Palmas de Monte Alto,240
+2115,"Palmas de Monte Alto",240
 2116,Palmeiras,219
 2117,Paramirim,249
 2118,Paratinga,238
 2119,Paripiranga,222
-2120,Pau Brasil,226
-2121,Paulo Afonso,220
-2122,Pé de Serra,233
+2120,"Pau Brasil",226
+2121,"Paulo Afonso",220
+2122,"Pé de Serra",233
 2123,Pedrão,223
-2124,Pedro Alexandre,248
+2124,"Pedro Alexandre",248
 2125,Piatã,219
-2126,Pilão Arcado,244
+2126,"Pilão Arcado",244
 2127,Pindaí,240
 2128,Pindobaçu,230
 2129,Pintadas,223
-2130,Piraí do Norte,242
+2130,"Piraí do Norte",242
 2131,Piripá,232
 2132,Piritiba,241
 2133,Planaltino,224
 2134,Planalto,229
 2135,Poções,229
 2136,Pojuca,227
-2137,Ponto Novo,241
-2138,Porto Seguro,225
+2137,"Ponto Novo",241
+2138,"Porto Seguro",225
 2139,Potiraguá,250
 2140,Prado,225
-2141,Presidente Dutra,228
-2142,Presidente Jânio Quadros,232
-2143,Presidente Tancredo Neves,242
+2141,"Presidente Dutra",228
+2142,"Presidente Jânio Quadros",232
+2143,"Presidente Tancredo Neves",242
 2144,Queimadas,246
 2145,Quijingue,246
 2146,Quixabeira,241
-2147,Rafael Jambeiro,223
+2147,"Rafael Jambeiro",223
 2148,Remanso,244
 2149,Retirolândia,233
-2150,Riachão das Neves,235
-2151,Riachão do Jacuípe,233
-2152,Riacho de Santana,240
-2153,Ribeira do Amparo,222
-2154,Ribeira do Pombal,222
-2155,Ribeirão do Largo,250
-2156,Rio de Contas,219
-2157,Rio do Antônio,232
-2158,Rio do Pires,249
-2159,Rio Real,221
+2150,"Riachão das Neves",235
+2151,"Riachão do Jacuípe",233
+2152,"Riacho de Santana",240
+2153,"Ribeira do Amparo",222
+2154,"Ribeira do Pombal",222
+2155,"Ribeirão do Largo",250
+2156,"Rio de Contas",219
+2157,"Rio do Antônio",232
+2158,"Rio do Pires",249
+2159,"Rio Real",221
 2160,Rodelas,220
-2161,Ruy Barbosa,236
-2162,Salinas da Margarida,234
+2161,"Ruy Barbosa",236
+2162,"Salinas da Margarida",234
 2163,Salvador,243
-2164,Santa Bárbara,223
-2165,Santa Brígida,248
-2166,Santa Cruz Cabrália,225
-2167,Santa Cruz da Vitória,226
-2168,Santa Inês,224
-2169,Santa Luzia,226
-2170,Santa Maria da Vitória,245
-2171,Santa Rita de Cássia,231
-2172,Santa Terezinha,223
+2164,"Santa Bárbara",223
+2165,"Santa Brígida",248
+2166,"Santa Cruz Cabrália",225
+2167,"Santa Cruz da Vitória",226
+2168,"Santa Inês",224
+2169,"Santa Luzia",226
+2170,"Santa Maria da Vitória",245
+2171,"Santa Rita de Cássia",231
+2172,"Santa Terezinha",223
 2173,Santaluz,233
 2174,Santana,245
 2175,Santanópolis,223
-2176,Santo Amaro,234
-2177,Santo Antônio de Jesus,234
-2178,Santo Estêvão,223
-2179,São Desidério,235
-2180,São Domingos,233
-2181,São Felipe,234
-2182,São Félix,234
-2183,São Félix do Coribe,245
-2184,São Francisco do Conde,243
-2185,São Gabriel,228
-2186,São Gonçalo dos Campos,223
-2187,São José da Vitória,226
-2188,São José do Jacuípe,241
-2189,São Miguel das Matas,224
-2190,São Sebastião do Passé,227
+2176,"Santo Amaro",234
+2177,"Santo Antônio de Jesus",234
+2178,"Santo Estêvão",223
+2179,"São Desidério",235
+2180,"São Domingos",233
+2181,"São Felipe",234
+2182,"São Félix",234
+2183,"São Félix do Coribe",245
+2184,"São Francisco do Conde",243
+2185,"São Gabriel",228
+2186,"São Gonçalo dos Campos",223
+2187,"São José da Vitória",226
+2188,"São José do Jacuípe",241
+2189,"São Miguel das Matas",224
+2190,"São Sebastião do Passé",227
 2191,Sapeaçu,234
-2192,Sátiro Dias,221
+2192,"Sátiro Dias",221
 2193,Saubara,234
 2194,Saúde,241
 2195,Seabra,219
-2196,Sebastião Laranjeiras,240
-2197,Senhor do Bonfim,230
-2198,Sento Sé,244
-2199,Serra do Ramalho,238
-2200,Serra Dourada,245
-2201,Serra Preta,223
+2196,"Sebastião Laranjeiras",240
+2197,"Senhor do Bonfim",230
+2198,"Sento Sé",244
+2199,"Serra do Ramalho",238
+2200,"Serra Dourada",245
+2201,"Serra Preta",223
 2202,Serrinha,233
 2203,Serrolândia,241
-2204,Simões Filho,243
-2205,Sítio do Mato,238
-2206,Sítio do Quinto,248
+2204,"Simões Filho",243
+2205,"Sítio do Mato",238
+2206,"Sítio do Quinto",248
 2207,Sobradinho,244
-2208,Souto Soares,228
-2209,Tabocas do Brejo Velho,231
+2208,"Souto Soares",228
+2209,"Tabocas do Brejo Velho",231
 2210,Tanhaçu,232
-2211,Tanque Novo,239
+2211,"Tanque Novo",239
 2212,Tanquinho,223
 2213,Taperoá,242
 2214,Tapiramutá,236
-2215,Teixeira de Freitas,225
-2216,Teodoro Sampaio,223
+2215,"Teixeira de Freitas",225
+2216,"Teodoro Sampaio",223
 2217,Teofilândia,233
 2218,Teolândia,226
-2219,Terra Nova,227
+2219,"Terra Nova",227
 2220,Tremedal,232
 2221,Tucano,246
 2222,Uauá,246
@@ -2232,51 +2232,51 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 2231,Utinga,219
 2232,Valença,242
 2233,Valente,233
-2234,Várzea da Roça,236
-2235,Várzea do Poço,241
-2236,Várzea Nova,241
+2234,"Várzea da Roça",236
+2235,"Várzea do Poço",241
+2236,"Várzea Nova",241
 2237,Varzedo,234
-2238,Vera Cruz,243
+2238,"Vera Cruz",243
 2239,Vereda,225
-2240,Vitória da Conquista,229
+2240,"Vitória da Conquista",229
 2241,Wagner,219
 2242,Wanderley,231
-2243,Wenceslau Guimarães,226
+2243,"Wenceslau Guimarães",226
 2244,Xique-Xique,237
-2245,Abadia dos Dourados,251
+2245,"Abadia dos Dourados",251
 2246,Abaeté,252
-2247,Abre Campo,253
+2247,"Abre Campo",253
 2248,Acaiaca,254
 2249,Açucena,255
-2250,Água Boa,256
-2251,Água Comprida,257
+2250,"Água Boa",256
+2251,"Água Comprida",257
 2252,Aguanil,258
-2253,Águas Formosas,259
-2254,Águas Vermelhas,260
+2253,"Águas Formosas",259
+2254,"Águas Vermelhas",260
 2255,Aimorés,261
 2256,Aiuruoca,262
 2257,Alagoa,263
 2258,Albertina,264
-2259,Além Paraíba,265
+2259,"Além Paraíba",265
 2260,Alfenas,266
-2261,Alfredo Vasconcelos,267
+2261,"Alfredo Vasconcelos",267
 2262,Almenara,268
 2263,Alpercata,269
 2264,Alpinópolis,270
 2265,Alterosa,266
-2266,Alto Caparaó,253
-2267,Alto Jequitibá,253
-2268,Alto Rio Doce,271
+2266,"Alto Caparaó",253
+2267,"Alto Jequitibá",253
+2268,"Alto Rio Doce",271
 2269,Alvarenga,261
 2270,Alvinópolis,272
-2271,Alvorada de Minas,273
-2272,Amparo do Serra,271
+2271,"Alvorada de Minas",273
+2272,"Amparo do Serra",271
 2273,Andradas,264
 2274,Andrelândia,262
 2275,Angelândia,274
-2276,Antônio Carlos,267
-2277,Antônio Dias,255
-2278,Antônio Prado de Minas,275
+2276,"Antônio Carlos",267
+2277,"Antônio Dias",255
+2278,"Antônio Prado de Minas",275
 2279,Araçaí,276
 2280,Aracitaba,277
 2281,Araçuaí,278
@@ -2293,64 +2293,64 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 2292,Argirita,265
 2293,Aricanduva,274
 2294,Arinos,285
-2295,Astolfo Dutra,286
+2295,"Astolfo Dutra",286
 2296,Ataléia,287
-2297,Augusto de Lima,288
+2297,"Augusto de Lima",288
 2298,Baependi,263
 2299,Baldim,276
 2300,Bambuí,289
 2301,Bandeira,268
-2302,Bandeira do Sul,264
-2303,Barão de Cocais,272
-2304,Barão de Monte Alto,275
+2302,"Bandeira do Sul",264
+2303,"Barão de Cocais",272
+2304,"Barão de Monte Alto",275
 2305,Barbacena,267
-2306,Barra Longa,254
+2306,"Barra Longa",254
 2307,Barroso,267
-2308,Bela Vista de Minas,272
-2309,Belmiro Braga,277
-2310,Belo Horizonte,290
-2311,Belo Oriente,255
-2312,Belo Vale,291
+2308,"Bela Vista de Minas",272
+2309,"Belmiro Braga",277
+2310,"Belo Horizonte",290
+2311,"Belo Oriente",255
+2312,"Belo Vale",291
 2313,Berilo,274
 2314,Berizal,260
 2315,Bertópolis,259
 2316,Betim,290
-2317,Bias Fortes,277
+2317,"Bias Fortes",277
 2318,Bicas,277
 2319,Biquinhas,252
-2320,Boa Esperança,292
-2321,Bocaina de Minas,262
+2320,"Boa Esperança",292
+2321,"Bocaina de Minas",262
 2322,Bocaiúva,293
-2323,Bom Despacho,281
-2324,Bom Jardim de Minas,262
-2325,Bom Jesus da Penha,270
-2326,Bom Jesus do Amparo,272
-2327,Bom Jesus do Galho,294
-2328,Bom Repouso,295
-2329,Bom Sucesso,296
+2323,"Bom Despacho",281
+2324,"Bom Jardim de Minas",262
+2325,"Bom Jesus da Penha",270
+2326,"Bom Jesus do Amparo",272
+2327,"Bom Jesus do Galho",294
+2328,"Bom Repouso",295
+2329,"Bom Sucesso",296
 2330,Bonfim,291
-2331,Bonfinópolis de Minas,285
-2332,Bonito de Minas,297
-2333,Borda da Mata,295
+2331,"Bonfinópolis de Minas",285
+2332,"Bonito de Minas",297
+2333,"Borda da Mata",295
 2334,Botelhos,264
 2335,Botumirim,298
-2336,Brás Pires,271
-2337,Brasilândia de Minas,299
-2338,Brasília de Minas,300
+2336,"Brás Pires",271
+2337,"Brasilândia de Minas",299
+2338,"Brasília de Minas",300
 2339,Braúnas,301
 2340,Brazópolis,302
 2341,Brumadinho,290
-2342,Bueno Brandão,295
+2342,"Bueno Brandão",295
 2343,Buenópolis,288
 2344,Bugre,294
 2345,Buritis,285
 2346,Buritizeiro,303
-2347,Cabeceira Grande,285
-2348,Cabo Verde,283
-2349,Cachoeira da Prata,276
-2350,Cachoeira de Minas,304
-2351,Cachoeira de Pajeú,305
-2352,Cachoeira Dourada,306
+2347,"Cabeceira Grande",285
+2348,"Cabo Verde",283
+2349,"Cachoeira da Prata",276
+2350,"Cachoeira de Minas",304
+2351,"Cachoeira de Pajeú",305
+2352,"Cachoeira Dourada",306
 2353,Caetanópolis,276
 2354,Caeté,290
 2355,Caiana,275
@@ -2363,26 +2363,26 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 2362,Campanário,269
 2363,Campanha,292
 2364,Campestre,264
-2365,Campina Verde,307
-2366,Campo Azul,300
-2367,Campo Belo,258
-2368,Campo do Meio,292
-2369,Campo Florido,257
-2370,Campos Altos,282
-2371,Campos Gerais,292
-2372,Cana Verde,258
+2365,"Campina Verde",307
+2366,"Campo Azul",300
+2367,"Campo Belo",258
+2368,"Campo do Meio",292
+2369,"Campo Florido",257
+2370,"Campos Altos",282
+2371,"Campos Gerais",292
+2372,"Cana Verde",258
 2373,Canaã,271
 2374,Canápolis,279
 2375,Candeias,258
 2376,Cantagalo,256
 2377,Caparaó,253
-2378,Capela Nova,267
+2378,"Capela Nova",267
 2379,Capelinha,274
 2380,Capetinga,270
-2381,Capim Branco,276
+2381,"Capim Branco",276
 2382,Capinópolis,306
-2383,Capitão Andrade,269
-2384,Capitão Enéas,300
+2383,"Capitão Andrade",269
+2384,"Capitão Enéas",300
 2385,Capitólio,270
 2386,Caputira,253
 2387,Caraí,278
@@ -2392,161 +2392,161 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 2391,Caratinga,294
 2392,Carbonita,274
 2393,Careaçu,304
-2394,Carlos Chagas,259
+2394,"Carlos Chagas",259
 2395,Carmésia,301
-2396,Carmo da Cachoeira,292
-2397,Carmo da Mata,296
-2398,Carmo de Minas,263
-2399,Carmo do Cajuru,308
-2400,Carmo do Paranaíba,280
-2401,Carmo do Rio Claro,266
-2402,Carmópolis de Minas,296
+2396,"Carmo da Cachoeira",292
+2397,"Carmo da Mata",296
+2398,"Carmo de Minas",263
+2399,"Carmo do Cajuru",308
+2400,"Carmo do Paranaíba",280
+2401,"Carmo do Rio Claro",266
+2402,"Carmópolis de Minas",296
 2403,Carneirinho,307
 2404,Carrancas,309
 2405,Carvalhópolis,266
 2406,Carvalhos,262
-2407,Casa Grande,310
-2408,Cascalho Rico,279
+2407,"Casa Grande",310
+2408,"Cascalho Rico",279
 2409,Cássia,270
 2410,Cataguases,265
-2411,Catas Altas,272
-2412,Catas Altas da Noruega,310
+2411,"Catas Altas",272
+2412,"Catas Altas da Noruega",310
 2413,Catuji,287
 2414,Catuti,311
 2415,Caxambu,263
-2416,Cedro do Abaeté,252
-2417,Central de Minas,312
+2416,"Cedro do Abaeté",252
+2417,"Central de Minas",312
 2418,Centralina,279
 2419,Chácara,277
 2420,Chalé,253
-2421,Chapada do Norte,274
-2422,Chapada Gaúcha,297
+2421,"Chapada do Norte",274
+2422,"Chapada Gaúcha",297
 2423,Chiador,277
 2424,Cipotânea,271
 2425,Claraval,270
-2426,Claro dos Poções,300
+2426,"Claro dos Poções",300
 2427,Cláudio,308
 2428,Coimbra,271
 2429,Coluna,301
-2430,Comendador Gomes,307
+2430,"Comendador Gomes",307
 2431,Comercinho,305
-2432,Conceição da Aparecida,266
-2433,Conceição da Barra de Minas,313
-2434,Conceição das Alagoas,257
-2435,Conceição das Pedras,304
-2436,Conceição de Ipanema,261
-2437,Conceição do Mato Dentro,273
-2438,Conceição do Pará,308
-2439,Conceição do Rio Verde,263
-2440,Conceição dos Ouros,304
-2441,Cônego Marinho,297
+2432,"Conceição da Aparecida",266
+2433,"Conceição da Barra de Minas",313
+2434,"Conceição das Alagoas",257
+2435,"Conceição das Pedras",304
+2436,"Conceição de Ipanema",261
+2437,"Conceição do Mato Dentro",273
+2438,"Conceição do Pará",308
+2439,"Conceição do Rio Verde",263
+2440,"Conceição dos Ouros",304
+2441,"Cônego Marinho",297
 2442,Confins,290
 2443,Congonhal,295
 2444,Congonhas,310
-2445,Congonhas do Norte,273
+2445,"Congonhas do Norte",273
 2446,Conquista,257
-2447,Conselheiro Lafaiete,310
-2448,Conselheiro Pena,261
+2447,"Conselheiro Lafaiete",310
+2448,"Conselheiro Pena",261
 2449,Consolação,302
 2450,Contagem,290
 2451,Coqueiral,292
-2452,Coração de Jesus,300
+2452,"Coração de Jesus",300
 2453,Cordisburgo,276
 2454,Cordislândia,304
 2455,Corinto,288
 2456,Coroaci,269
 2457,Coromandel,251
-2458,Coronel Fabriciano,255
-2459,Coronel Murta,278
-2460,Coronel Pacheco,277
-2461,Coronel Xavier Chaves,313
-2462,Córrego Danta,289
-2463,Córrego do Bom Jesus,295
-2464,Córrego Fundo,284
-2465,Córrego Novo,294
-2466,Couto de Magalhães de Minas,314
+2458,"Coronel Fabriciano",255
+2459,"Coronel Murta",278
+2460,"Coronel Pacheco",277
+2461,"Coronel Xavier Chaves",313
+2462,"Córrego Danta",289
+2463,"Córrego do Bom Jesus",295
+2464,"Córrego Fundo",284
+2465,"Córrego Novo",294
+2466,"Couto de Magalhães de Minas",314
 2467,Crisólita,259
 2468,Cristais,258
 2469,Cristália,298
-2470,Cristiano Otoni,310
+2470,"Cristiano Otoni",310
 2471,Cristina,302
 2472,Crucilândia,291
-2473,Cruzeiro da Fortaleza,251
+2473,"Cruzeiro da Fortaleza",251
 2474,Cruzília,262
 2475,Cuparaque,261
-2476,Curral de Dentro,260
+2476,"Curral de Dentro",260
 2477,Curvelo,288
 2478,Datas,314
-2479,Delfim Moreira,302
+2479,"Delfim Moreira",302
 2480,Delfinópolis,270
 2481,Delta,257
 2482,Descoberto,277
-2483,Desterro de Entre Rios,310
-2484,Desterro do Melo,267
+2483,"Desterro de Entre Rios",310
+2484,"Desterro do Melo",267
 2485,Diamantina,314
-2486,Diogo de Vasconcelos,315
+2486,"Diogo de Vasconcelos",315
 2487,Dionísio,272
 2488,Divinésia,286
 2489,Divino,275
-2490,Divino das Laranjeiras,269
-2491,Divinolândia de Minas,301
+2490,"Divino das Laranjeiras",269
+2491,"Divinolândia de Minas",301
 2492,Divinópolis,308
-2493,Divisa Alegre,260
-2494,Divisa Nova,266
+2493,"Divisa Alegre",260
+2494,"Divisa Nova",266
 2495,Divisópolis,268
-2496,Dom Bosco,285
-2497,Dom Cavati,294
-2498,Dom Joaquim,273
-2499,Dom Silvério,254
-2500,Dom Viçoso,302
-2501,Dona Euzébia,265
-2502,Dores de Campos,313
-2503,Dores de Guanhães,301
-2504,Dores do Indaiá,281
-2505,Dores do Turvo,286
+2496,"Dom Bosco",285
+2497,"Dom Cavati",294
+2498,"Dom Joaquim",273
+2499,"Dom Silvério",254
+2500,"Dom Viçoso",302
+2501,"Dona Euzébia",265
+2502,"Dores de Campos",313
+2503,"Dores de Guanhães",301
+2504,"Dores do Indaiá",281
+2505,"Dores do Turvo",286
 2506,Doresópolis,289
 2507,Douradoquara,251
 2508,Durandé,253
-2509,Elói Mendes,292
-2510,Engenheiro Caldas,269
-2511,Engenheiro Navarro,293
-2512,Entre Folhas,294
-2513,Entre Rios de Minas,310
+2509,"Elói Mendes",292
+2510,"Engenheiro Caldas",269
+2511,"Engenheiro Navarro",293
+2512,"Entre Folhas",294
+2513,"Entre Rios de Minas",310
 2514,Ervália,271
 2515,Esmeraldas,290
-2516,Espera Feliz,275
+2516,"Espera Feliz",275
 2517,Espinosa,311
-2518,Espírito Santo do Dourado,295
+2518,"Espírito Santo do Dourado",295
 2519,Estiva,295
-2520,Estrela Dalva,265
-2521,Estrela do Indaiá,281
-2522,Estrela do Sul,251
+2520,"Estrela Dalva",265
+2521,"Estrela do Indaiá",281
+2522,"Estrela do Sul",251
 2523,Eugenópolis,275
-2524,Ewbank da Câmara,277
+2524,"Ewbank da Câmara",277
 2525,Extrema,295
 2526,Fama,266
-2527,Faria Lemos,275
-2528,Felício dos Santos,314
+2527,"Faria Lemos",275
+2528,"Felício dos Santos",314
 2529,Felisburgo,268
 2530,Felixlândia,288
-2531,Fernandes Tourinho,269
+2531,"Fernandes Tourinho",269
 2532,Ferros,272
 2533,Fervedouro,275
 2534,Florestal,316
 2535,Formiga,284
 2536,Formoso,285
-2537,Fortaleza de Minas,270
-2538,Fortuna de Minas,276
-2539,Francisco Badaró,274
-2540,Francisco Dumont,293
-2541,Francisco Sá,300
+2537,"Fortaleza de Minas",270
+2538,"Fortuna de Minas",276
+2539,"Francisco Badaró",274
+2540,"Francisco Dumont",293
+2541,"Francisco Sá",300
 2542,Franciscópolis,287
-2543,Frei Gaspar,287
-2544,Frei Inocêncio,269
-2545,Frei Lagonegro,256
+2543,"Frei Gaspar",287
+2544,"Frei Inocêncio",269
+2545,"Frei Lagonegro",256
 2546,Fronteira,307
-2547,Fronteira dos Vales,259
-2548,Fruta de Leite,260
+2547,"Fronteira dos Vales",259
+2548,"Fruta de Leite",260
 2549,Frutal,307
 2550,Funilândia,276
 2551,Galiléia,269
@@ -2557,8 +2557,8 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 2556,Gonçalves,295
 2557,Gonzaga,301
 2558,Gouveia,314
-2559,Governador Valadares,269
-2560,Grão Mogol,298
+2559,"Governador Valadares",269
+2560,"Grão Mogol",298
 2561,Grupiara,251
 2562,Guanhães,301
 2563,Guapé,292
@@ -2581,15 +2581,15 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 2580,Ibiracatu,300
 2581,Ibiraci,270
 2582,Ibirité,290
-2583,Ibitiúra de Minas,264
+2583,"Ibitiúra de Minas",264
 2584,Ibituruna,296
-2585,Icaraí de Minas,297
+2585,"Icaraí de Minas",297
 2586,Igarapé,290
 2587,Igaratinga,308
 2588,Iguatama,289
 2589,Ijaci,309
 2590,Ilicínea,292
-2591,Imbé de Minas,294
+2591,"Imbé de Minas",294
 2592,Inconfidentes,264
 2593,Indaiabira,260
 2594,Indianópolis,279
@@ -2602,7 +2602,7 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 2601,Ipatinga,255
 2602,Ipiaçu,306
 2603,Ipuiúna,295
-2604,Iraí de Minas,251
+2604,"Iraí de Minas",251
 2605,Itabira,272
 2606,Itabirinha,312
 2607,Itabirito,315
@@ -2612,9 +2612,9 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 2611,Itaipé,287
 2612,Itajubá,302
 2613,Itamarandiba,274
-2614,Itamarati de Minas,265
+2614,"Itamarati de Minas",265
 2615,Itambacuri,269
-2616,Itambé do Mato Dentro,273
+2616,"Itambé do Mato Dentro",273
 2617,Itamogi,283
 2618,Itamonte,263
 2619,Itanhandu,263
@@ -2624,7 +2624,7 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 2623,Itapecerica,284
 2624,Itapeva,295
 2625,Itatiaiuçu,291
-2626,Itaú de Minas,270
+2626,"Itaú de Minas",270
 2627,Itaúna,308
 2628,Itaverava,310
 2629,Itinga,278
@@ -2645,7 +2645,7 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 2644,Japaraíba,281
 2645,Japonvar,300
 2646,Jeceaba,291
-2647,Jenipapo de Minas,274
+2647,"Jenipapo de Minas",274
 2648,Jequeri,254
 2649,Jequitaí,303
 2650,Jequitibá,276
@@ -2653,38 +2653,38 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 2652,Jesuânia,263
 2653,Joaíma,268
 2654,Joanésia,255
-2655,João Monlevade,272
-2656,João Pinheiro,299
-2657,Joaquim Felício,288
+2655,"João Monlevade",272
+2656,"João Pinheiro",299
+2657,"Joaquim Felício",288
 2658,Jordânia,268
-2659,José Gonçalves de Minas,274
-2660,José Raydan,256
+2659,"José Gonçalves de Minas",274
+2660,"José Raydan",256
 2661,Josenópolis,298
 2662,Juatuba,290
-2663,Juiz de Fora,277
+2663,"Juiz de Fora",277
 2664,Juramento,300
 2665,Juruaia,283
 2666,Juvenília,297
 2667,Ladainha,287
 2668,Lagamar,299
-2669,Lagoa da Prata,281
-2670,Lagoa dos Patos,303
-2671,Lagoa Dourada,313
-2672,Lagoa Formosa,280
-2673,Lagoa Grande,299
-2674,Lagoa Santa,290
+2669,"Lagoa da Prata",281
+2670,"Lagoa dos Patos",303
+2671,"Lagoa Dourada",313
+2672,"Lagoa Formosa",280
+2673,"Lagoa Grande",299
+2674,"Lagoa Santa",290
 2675,Lajinha,253
 2676,Lambari,263
 2677,Lamim,271
 2678,Laranjal,265
 2679,Lassance,303
 2680,Lavras,309
-2681,Leandro Ferreira,281
-2682,Leme do Prado,274
+2681,"Leandro Ferreira",281
+2682,"Leme do Prado",274
 2683,Leopoldina,265
 2684,Liberdade,262
-2685,Lima Duarte,277
-2686,Limeira do Oeste,307
+2685,"Lima Duarte",277
+2686,"Limeira do Oeste",307
 2687,Lontra,300
 2688,Luisburgo,253
 2689,Luislândia,300
@@ -2692,40 +2692,40 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 2691,Luz,281
 2692,Machacalis,259
 2693,Machado,266
-2694,Madre de Deus de Minas,313
+2694,"Madre de Deus de Minas",313
 2695,Malacacheta,287
 2696,Mamonas,311
 2697,Manga,297
 2698,Manhuaçu,253
 2699,Manhumirim,253
 2700,Mantena,312
-2701,Mar de Espanha,277
+2701,"Mar de Espanha",277
 2702,Maravilhas,276
-2703,Maria da Fé,302
+2703,"Maria da Fé",302
 2704,Mariana,315
 2705,Marilac,269
-2706,Mário Campos,290
-2707,Maripá de Minas,277
+2706,"Mário Campos",290
+2707,"Maripá de Minas",277
 2708,Marliéria,255
 2709,Marmelópolis,302
-2710,Martinho Campos,281
-2711,Martins Soares,253
-2712,Mata Verde,268
+2710,"Martinho Campos",281
+2711,"Martins Soares",253
+2712,"Mata Verde",268
 2713,Materlândia,301
-2714,Mateus Leme,290
-2715,Mathias Lobato,269
-2716,Matias Barbosa,277
-2717,Matias Cardoso,297
+2714,"Mateus Leme",290
+2715,"Mathias Lobato",269
+2716,"Matias Barbosa",277
+2717,"Matias Cardoso",297
 2718,Matipó,253
-2719,Mato Verde,311
+2719,"Mato Verde",311
 2720,Matozinhos,276
 2721,Matutina,280
 2722,Medeiros,289
 2723,Medina,305
-2724,Mendes Pimentel,312
+2724,"Mendes Pimentel",312
 2725,Mercês,286
 2726,Mesquita,255
-2727,Minas Novas,274
+2727,"Minas Novas",274
 2728,Minduri,262
 2729,Mirabela,300
 2730,Miradouro,275
@@ -2734,25 +2734,25 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 2733,Moeda,291
 2734,Moema,281
 2735,Monjolos,288
-2736,Monsenhor Paulo,292
+2736,"Monsenhor Paulo",292
 2737,Montalvânia,297
-2738,Monte Alegre de Minas,279
-2739,Monte Azul,311
-2740,Monte Belo,283
-2741,Monte Carmelo,251
-2742,Monte Formoso,268
-2743,Monte Santo de Minas,283
-2744,Monte Sião,264
-2745,Montes Claros,300
+2738,"Monte Alegre de Minas",279
+2739,"Monte Azul",311
+2740,"Monte Belo",283
+2741,"Monte Carmelo",251
+2742,"Monte Formoso",268
+2743,"Monte Santo de Minas",283
+2744,"Monte Sião",264
+2745,"Montes Claros",300
 2746,Montezuma,260
-2747,Morada Nova de Minas,252
-2748,Morro da Garça,288
-2749,Morro do Pilar,273
+2747,"Morada Nova de Minas",252
+2748,"Morro da Garça",288
+2749,"Morro do Pilar",273
 2750,Munhoz,295
 2751,Muriaé,275
 2752,Mutum,261
 2753,Muzambinho,283
-2754,Nacip Raydan,269
+2754,"Nacip Raydan",269
 2755,Nanuque,259
 2756,Naque,255
 2757,Natalândia,285
@@ -2760,67 +2760,67 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 2759,Nazareno,313
 2760,Nepomuceno,309
 2761,Ninheira,260
-2762,Nova Belém,312
-2763,Nova Era,272
-2764,Nova Lima,290
-2765,Nova Módica,269
-2766,Nova Ponte,282
-2767,Nova Porteirinha,311
-2768,Nova Resende,283
-2769,Nova Serrana,308
-2770,Nova União,272
-2771,Novo Cruzeiro,278
-2772,Novo Oriente de Minas,287
+2762,"Nova Belém",312
+2763,"Nova Era",272
+2764,"Nova Lima",290
+2765,"Nova Módica",269
+2766,"Nova Ponte",282
+2767,"Nova Porteirinha",311
+2768,"Nova Resende",283
+2769,"Nova Serrana",308
+2770,"Nova União",272
+2771,"Novo Cruzeiro",278
+2772,"Novo Oriente de Minas",287
 2773,Novorizonte,260
 2774,Olaria,277
 2775,Olhos-d'Água,293
-2776,Olímpio Noronha,263
+2776,"Olímpio Noronha",263
 2777,Oliveira,296
-2778,Oliveira Fortes,277
-2779,Onça de Pitangui,316
+2778,"Oliveira Fortes",277
+2779,"Onça de Pitangui",316
 2780,Oratórios,254
 2781,Orizânia,275
-2782,Ouro Branco,310
-2783,Ouro Fino,264
-2784,Ouro Preto,315
-2785,Ouro Verde de Minas,287
-2786,Padre Carvalho,298
-2787,Padre Paraíso,278
-2788,Pai Pedro,311
+2782,"Ouro Branco",310
+2783,"Ouro Fino",264
+2784,"Ouro Preto",315
+2785,"Ouro Verde de Minas",287
+2786,"Padre Carvalho",298
+2787,"Padre Paraíso",278
+2788,"Pai Pedro",311
 2789,Paineiras,252
 2790,Pains,284
 2791,Paiva,277
 2792,Palma,265
 2793,Palmópolis,268
 2794,Papagaios,276
-2795,Pará de Minas,316
+2795,"Pará de Minas",316
 2796,Paracatu,299
 2797,Paraguaçu,266
 2798,Paraisópolis,302
 2799,Paraopeba,276
-2800,Passa Quatro,263
-2801,Passa Tempo,296
-2802,Passa Vinte,262
+2800,"Passa Quatro",263
+2801,"Passa Tempo",296
+2802,"Passa Vinte",262
 2803,Passabém,273
 2804,Passos,270
 2805,Patis,300
-2806,Patos de Minas,280
+2806,"Patos de Minas",280
 2807,Patrocínio,251
-2808,Patrocínio do Muriaé,275
-2809,Paula Cândido,271
+2808,"Patrocínio do Muriaé",275
+2809,"Paula Cândido",271
 2810,Paulistas,301
 2811,Pavão,287
 2812,Peçanha,256
-2813,Pedra Azul,305
-2814,Pedra Bonita,253
-2815,Pedra do Anta,271
-2816,Pedra do Indaiá,284
-2817,Pedra Dourada,275
+2813,"Pedra Azul",305
+2814,"Pedra Bonita",253
+2815,"Pedra do Anta",271
+2816,"Pedra do Indaiá",284
+2817,"Pedra Dourada",275
 2818,Pedralva,304
-2819,Pedras de Maria da Cruz,297
+2819,"Pedras de Maria da Cruz",297
 2820,Pedrinópolis,282
-2821,Pedro Leopoldo,290
-2822,Pedro Teixeira,277
+2821,"Pedro Leopoldo",290
+2822,"Pedro Teixeira",277
 2823,Pequeri,277
 2824,Pequi,276
 2825,Perdigão,308
@@ -2829,12 +2829,12 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 2828,Periquito,255
 2829,Pescador,269
 2830,Piau,277
-2831,Piedade de Caratinga,294
-2832,Piedade de Ponte Nova,254
-2833,Piedade do Rio Grande,313
-2834,Piedade dos Gerais,291
+2831,"Piedade de Caratinga",294
+2832,"Piedade de Ponte Nova",254
+2833,"Piedade do Rio Grande",313
+2834,"Piedade dos Gerais",291
 2835,Pimenta,284
-2836,Pingo d'Água,294
+2836,"Pingo d'Água",294
 2837,Pintópolis,297
 2838,Piracema,296
 2839,Pirajuba,307
@@ -2847,218 +2847,218 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 2846,Pitangui,316
 2847,Piumhi,289
 2848,Planura,307
-2849,Poço Fundo,266
-2850,Poços de Caldas,264
+2849,"Poço Fundo",266
+2850,"Poços de Caldas",264
 2851,Pocrane,261
 2852,Pompéu,252
-2853,Ponte Nova,254
-2854,Ponto Chique,300
-2855,Ponto dos Volantes,278
+2853,"Ponte Nova",254
+2854,"Ponto Chique",300
+2855,"Ponto dos Volantes",278
 2856,Porteirinha,311
-2857,Porto Firme,271
+2857,"Porto Firme",271
 2858,Poté,287
-2859,Pouso Alegre,295
-2860,Pouso Alto,263
+2859,"Pouso Alegre",295
+2860,"Pouso Alto",263
 2861,Prados,313
 2862,Prata,279
 2863,Pratápolis,270
 2864,Pratinha,282
-2865,Presidente Bernardes,271
-2866,Presidente Juscelino,288
-2867,Presidente Kubitschek,314
-2868,Presidente Olegário,299
-2869,Prudente de Morais,276
-2870,Quartel Geral,281
+2865,"Presidente Bernardes",271
+2866,"Presidente Juscelino",288
+2867,"Presidente Kubitschek",314
+2868,"Presidente Olegário",299
+2869,"Prudente de Morais",276
+2870,"Quartel Geral",281
 2871,Queluzito,310
 2872,Raposos,290
-2873,Raul Soares,254
+2873,"Raul Soares",254
 2874,Recreio,265
 2875,Reduto,253
-2876,Resende Costa,313
+2876,"Resende Costa",313
 2877,Resplendor,261
 2878,Ressaquinha,267
 2879,Riachinho,303
-2880,Riacho dos Machados,311
-2881,Ribeirão das Neves,290
-2882,Ribeirão Vermelho,309
-2883,Rio Acima,290
-2884,Rio Casca,254
-2885,Rio do Prado,268
-2886,Rio Doce,254
-2887,Rio Espera,271
-2888,Rio Manso,291
-2889,Rio Novo,277
-2890,Rio Paranaíba,280
-2891,Rio Pardo de Minas,260
-2892,Rio Piracicaba,272
-2893,Rio Pomba,286
-2894,Rio Preto,277
-2895,Rio Vermelho,273
+2880,"Riacho dos Machados",311
+2881,"Ribeirão das Neves",290
+2882,"Ribeirão Vermelho",309
+2883,"Rio Acima",290
+2884,"Rio Casca",254
+2885,"Rio do Prado",268
+2886,"Rio Doce",254
+2887,"Rio Espera",271
+2888,"Rio Manso",291
+2889,"Rio Novo",277
+2890,"Rio Paranaíba",280
+2891,"Rio Pardo de Minas",260
+2892,"Rio Piracicaba",272
+2893,"Rio Pomba",286
+2894,"Rio Preto",277
+2895,"Rio Vermelho",273
 2896,Ritápolis,313
-2897,Rochedo de Minas,277
+2897,"Rochedo de Minas",277
 2898,Rodeiro,286
 2899,Romaria,251
-2900,Rosário da Limeira,275
+2900,"Rosário da Limeira",275
 2901,Rubelita,260
 2902,Rubim,268
 2903,Sabará,290
 2904,Sabinópolis,301
 2905,Sacramento,282
 2906,Salinas,260
-2907,Salto da Divisa,268
-2908,Santa Bárbara,272
-2909,Santa Bárbara do Leste,294
-2910,Santa Bárbara do Monte Verde,277
-2911,Santa Bárbara do Tugúrio,267
-2912,Santa Cruz de Minas,313
-2913,Santa Cruz de Salinas,260
-2914,Santa Cruz do Escalvado,254
-2915,Santa Efigênia de Minas,301
-2916,Santa Fé de Minas,303
-2917,Santa Helena de Minas,259
-2918,Santa Juliana,282
-2919,Santa Luzia,290
-2920,Santa Margarida,253
-2921,Santa Maria de Itabira,272
-2922,Santa Maria do Salto,268
-2923,Santa Maria do Suaçuí,256
-2924,Santa Rita de Caldas,264
-2925,Santa Rita de Ibitipoca,277
-2926,Santa Rita de Jacutinga,277
-2927,Santa Rita de Minas,294
-2928,Santa Rita do Itueto,261
-2929,Santa Rita do Sapucaí,304
-2930,Santa Rosa da Serra,280
-2931,Santa Vitória,306
-2932,Santana da Vargem,292
-2933,Santana de Cataguases,265
-2934,Santana de Pirapama,276
-2935,Santana do Deserto,277
-2936,Santana do Garambéu,313
-2937,Santana do Jacaré,258
-2938,Santana do Manhuaçu,253
-2939,Santana do Paraíso,255
-2940,Santana do Riacho,276
-2941,Santana dos Montes,310
-2942,Santo Antônio do Amparo,296
-2943,Santo Antônio do Aventureiro,265
-2944,Santo Antônio do Grama,254
-2945,Santo Antônio do Itambé,273
-2946,Santo Antônio do Jacinto,268
-2947,Santo Antônio do Monte,308
-2948,Santo Antônio do Retiro,260
-2949,Santo Antônio do Rio Abaixo,273
-2950,Santo Hipólito,288
-2951,Santos Dumont,277
-2952,São Bento Abade,292
-2953,São Brás do Suaçuí,310
-2954,São Domingos das Dores,294
-2955,São Domingos do Prata,272
-2956,São Félix de Minas,312
-2957,São Francisco,297
-2958,São Francisco de Paula,296
-2959,São Francisco de Sales,307
-2960,São Francisco do Glória,275
-2961,São Geraldo,286
-2962,São Geraldo da Piedade,269
-2963,São Geraldo do Baixio,269
-2964,São Gonçalo do Abaeté,299
-2965,São Gonçalo do Pará,308
-2966,São Gonçalo do Rio Abaixo,272
-2967,São Gonçalo do Rio Preto,314
-2968,São Gonçalo do Sapucaí,304
-2969,São Gotardo,280
-2970,São João Batista do Glória,270
-2971,São João da Lagoa,300
-2972,São João da Mata,304
-2973,São João da Ponte,300
-2974,São João das Missões,297
-2975,São João del Rei,313
-2976,São João do Manhuaçu,253
-2977,São João do Manteninha,312
-2978,São João do Oriente,294
-2979,São João do Pacuí,300
-2980,São João do Paraíso,260
-2981,São João Evangelista,301
-2982,São João Nepomuceno,277
-2983,São Joaquim de Bicas,290
-2984,São José da Barra,270
-2985,São José da Lapa,290
-2986,São José da Safira,269
-2987,São José da Varginha,316
-2988,São José do Alegre,304
-2989,São José do Divino,269
-2990,São José do Goiabal,272
-2991,São José do Jacuri,256
-2992,São José do Mantimento,253
-2993,São Lourenço,263
-2994,São Miguel do Anta,271
-2995,São Pedro da União,283
-2996,São Pedro do Suaçuí,256
-2997,São Pedro dos Ferros,254
-2998,São Romão,303
-2999,São Roque de Minas,289
-3000,São Sebastião da Bela Vista,304
-3001,São Sebastião da Vargem Alegre,275
-3002,São Sebastião do Anta,294
-3003,São Sebastião do Maranhão,256
-3004,São Sebastião do Oeste,308
-3005,São Sebastião do Paraíso,283
-3006,São Sebastião do Rio Preto,273
-3007,São Sebastião do Rio Verde,263
-3008,São Tiago,313
-3009,São Tomás de Aquino,283
-3010,São Tomé das Letras,292
-3011,São Vicente de Minas,262
+2907,"Salto da Divisa",268
+2908,"Santa Bárbara",272
+2909,"Santa Bárbara do Leste",294
+2910,"Santa Bárbara do Monte Verde",277
+2911,"Santa Bárbara do Tugúrio",267
+2912,"Santa Cruz de Minas",313
+2913,"Santa Cruz de Salinas",260
+2914,"Santa Cruz do Escalvado",254
+2915,"Santa Efigênia de Minas",301
+2916,"Santa Fé de Minas",303
+2917,"Santa Helena de Minas",259
+2918,"Santa Juliana",282
+2919,"Santa Luzia",290
+2920,"Santa Margarida",253
+2921,"Santa Maria de Itabira",272
+2922,"Santa Maria do Salto",268
+2923,"Santa Maria do Suaçuí",256
+2924,"Santa Rita de Caldas",264
+2925,"Santa Rita de Ibitipoca",277
+2926,"Santa Rita de Jacutinga",277
+2927,"Santa Rita de Minas",294
+2928,"Santa Rita do Itueto",261
+2929,"Santa Rita do Sapucaí",304
+2930,"Santa Rosa da Serra",280
+2931,"Santa Vitória",306
+2932,"Santana da Vargem",292
+2933,"Santana de Cataguases",265
+2934,"Santana de Pirapama",276
+2935,"Santana do Deserto",277
+2936,"Santana do Garambéu",313
+2937,"Santana do Jacaré",258
+2938,"Santana do Manhuaçu",253
+2939,"Santana do Paraíso",255
+2940,"Santana do Riacho",276
+2941,"Santana dos Montes",310
+2942,"Santo Antônio do Amparo",296
+2943,"Santo Antônio do Aventureiro",265
+2944,"Santo Antônio do Grama",254
+2945,"Santo Antônio do Itambé",273
+2946,"Santo Antônio do Jacinto",268
+2947,"Santo Antônio do Monte",308
+2948,"Santo Antônio do Retiro",260
+2949,"Santo Antônio do Rio Abaixo",273
+2950,"Santo Hipólito",288
+2951,"Santos Dumont",277
+2952,"São Bento Abade",292
+2953,"São Brás do Suaçuí",310
+2954,"São Domingos das Dores",294
+2955,"São Domingos do Prata",272
+2956,"São Félix de Minas",312
+2957,"São Francisco",297
+2958,"São Francisco de Paula",296
+2959,"São Francisco de Sales",307
+2960,"São Francisco do Glória",275
+2961,"São Geraldo",286
+2962,"São Geraldo da Piedade",269
+2963,"São Geraldo do Baixio",269
+2964,"São Gonçalo do Abaeté",299
+2965,"São Gonçalo do Pará",308
+2966,"São Gonçalo do Rio Abaixo",272
+2967,"São Gonçalo do Rio Preto",314
+2968,"São Gonçalo do Sapucaí",304
+2969,"São Gotardo",280
+2970,"São João Batista do Glória",270
+2971,"São João da Lagoa",300
+2972,"São João da Mata",304
+2973,"São João da Ponte",300
+2974,"São João das Missões",297
+2975,"São João del Rei",313
+2976,"São João do Manhuaçu",253
+2977,"São João do Manteninha",312
+2978,"São João do Oriente",294
+2979,"São João do Pacuí",300
+2980,"São João do Paraíso",260
+2981,"São João Evangelista",301
+2982,"São João Nepomuceno",277
+2983,"São Joaquim de Bicas",290
+2984,"São José da Barra",270
+2985,"São José da Lapa",290
+2986,"São José da Safira",269
+2987,"São José da Varginha",316
+2988,"São José do Alegre",304
+2989,"São José do Divino",269
+2990,"São José do Goiabal",272
+2991,"São José do Jacuri",256
+2992,"São José do Mantimento",253
+2993,"São Lourenço",263
+2994,"São Miguel do Anta",271
+2995,"São Pedro da União",283
+2996,"São Pedro do Suaçuí",256
+2997,"São Pedro dos Ferros",254
+2998,"São Romão",303
+2999,"São Roque de Minas",289
+3000,"São Sebastião da Bela Vista",304
+3001,"São Sebastião da Vargem Alegre",275
+3002,"São Sebastião do Anta",294
+3003,"São Sebastião do Maranhão",256
+3004,"São Sebastião do Oeste",308
+3005,"São Sebastião do Paraíso",283
+3006,"São Sebastião do Rio Preto",273
+3007,"São Sebastião do Rio Verde",263
+3008,"São Tiago",313
+3009,"São Tomás de Aquino",283
+3010,"São Tomé das Letras",292
+3011,"São Vicente de Minas",262
 3012,Sapucaí-Mirim,295
 3013,Sardoá,301
 3014,Sarzedo,290
 3015,Sem-Peixe,254
-3016,Senador Amaral,295
-3017,Senador Cortes,277
-3018,Senador Firmino,286
-3019,Senador José Bento,295
-3020,Senador Modestino Gonçalves,314
-3021,Senhora de Oliveira,271
-3022,Senhora do Porto,301
-3023,Senhora dos Remédios,267
+3016,"Senador Amaral",295
+3017,"Senador Cortes",277
+3018,"Senador Firmino",286
+3019,"Senador José Bento",295
+3020,"Senador Modestino Gonçalves",314
+3021,"Senhora de Oliveira",271
+3022,"Senhora do Porto",301
+3023,"Senhora dos Remédios",267
 3024,Sericita,254
 3025,Seritinga,262
-3026,Serra Azul de Minas,273
-3027,Serra da Saudade,281
-3028,Serra do Salitre,251
-3029,Serra dos Aimorés,259
+3026,"Serra Azul de Minas",273
+3027,"Serra da Saudade",281
+3028,"Serra do Salitre",251
+3029,"Serra dos Aimorés",259
 3030,Serrania,266
-3031,Serranópolis de Minas,311
+3031,"Serranópolis de Minas",311
 3032,Serranos,262
 3033,Serro,273
-3034,Sete Lagoas,276
+3034,"Sete Lagoas",276
 3035,Setubinha,287
 3036,Silveirânia,286
 3037,Silvianópolis,304
-3038,Simão Pereira,277
+3038,"Simão Pereira",277
 3039,Simonésia,253
 3040,Sobrália,269
-3041,Soledade de Minas,263
+3041,"Soledade de Minas",263
 3042,Tabuleiro,286
 3043,Taiobeiras,260
 3044,Taparuba,261
 3045,Tapira,282
 3046,Tapiraí,289
-3047,Taquaraçu de Minas,272
+3047,"Taquaraçu de Minas",272
 3048,Tarumirim,294
 3049,Teixeiras,271
-3050,Teófilo Otoni,287
+3050,"Teófilo Otoni",287
 3051,Timóteo,255
 3052,Tiradentes,313
 3053,Tiros,280
 3054,Tocantins,286
-3055,Tocos do Moji,295
+3055,"Tocos do Moji",295
 3056,Toledo,295
 3057,Tombos,275
-3058,Três Corações,292
-3059,Três Marias,252
-3060,Três Pontas,292
+3058,"Três Corações",292
+3059,"Três Marias",252
+3060,"Três Pontas",292
 3061,Tumiritinga,269
 3062,Tupaciguara,279
 3063,Turmalina,274
@@ -3070,59 +3070,59 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 3069,Uberlândia,279
 3070,Umburatiba,259
 3071,Unaí,285
-3072,União de Minas,307
-3073,Uruana de Minas,285
+3072,"União de Minas",307
+3073,"Uruana de Minas",285
 3074,Urucânia,254
 3075,Urucuia,297
-3076,Vargem Alegre,294
-3077,Vargem Bonita,289
-3078,Vargem Grande do Rio Pardo,260
+3076,"Vargem Alegre",294
+3077,"Vargem Bonita",289
+3078,"Vargem Grande do Rio Pardo",260
 3079,Varginha,292
-3080,Varjão de Minas,299
-3081,Várzea da Palma,303
+3080,"Varjão de Minas",299
+3081,"Várzea da Palma",303
 3082,Varzelândia,300
 3083,Vazante,299
 3084,Verdelândia,300
 3085,Veredinha,274
 3086,Veríssimo,257
-3087,Vermelho Novo,254
+3087,"Vermelho Novo",254
 3088,Vespasiano,290
 3089,Viçosa,271
 3090,Vieiras,275
-3091,Virgem da Lapa,278
+3091,"Virgem da Lapa",278
 3092,Virgínia,302
 3093,Virginópolis,301
 3094,Virgolândia,269
-3095,Visconde do Rio Branco,286
-3096,Volta Grande,265
-3097,Wenceslau Braz,302
-3098,Afonso Cláudio,317
-3099,Água Doce do Norte,318
-3100,Águia Branca,319
+3095,"Visconde do Rio Branco",286
+3096,"Volta Grande",265
+3097,"Wenceslau Braz",302
+3098,"Afonso Cláudio",317
+3099,"Água Doce do Norte",318
+3100,"Águia Branca",319
 3101,Alegre,320
-3102,Alfredo Chaves,321
-3103,Alto Rio Novo,322
+3102,"Alfredo Chaves",321
+3103,"Alto Rio Novo",322
 3104,Anchieta,321
 3105,Apiacá,323
 3106,Aracruz,324
-3107,Atílio Vivacqua,323
-3108,Baixo Guandu,322
-3109,Barra de São Francisco,318
-3110,Boa Esperança,319
-3111,Bom Jesus do Norte,323
+3107,"Atílio Vivacqua",323
+3108,"Baixo Guandu",322
+3109,"Barra de São Francisco",318
+3110,"Boa Esperança",319
+3111,"Bom Jesus do Norte",323
 3112,Brejetuba,317
-3113,Cachoeiro de Itapemirim,323
+3113,"Cachoeiro de Itapemirim",323
 3114,Cariacica,325
 3115,Castelo,323
 3116,Colatina,322
-3117,Conceição da Barra,326
-3118,Conceição do Castelo,317
-3119,Divino de São Lourenço,320
-3120,Domingos Martins,317
-3121,Dores do Rio Preto,320
+3117,"Conceição da Barra",326
+3118,"Conceição do Castelo",317
+3119,"Divino de São Lourenço",320
+3120,"Domingos Martins",317
+3121,"Dores do Rio Preto",320
 3122,Ecoporanga,318
 3123,Fundão,324
-3124,Governador Lindenberg,322
+3124,"Governador Lindenberg",322
 3125,Guaçuí,320
 3126,Guarapari,321
 3127,Ibatiba,320
@@ -3135,73 +3135,73 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 3134,Itarana,327
 3135,Iúna,320
 3136,Jaguaré,326
-3137,Jerônimo Monteiro,323
-3138,João Neiva,324
-3139,Laranja da Terra,317
+3137,"Jerônimo Monteiro",323
+3138,"João Neiva",324
+3139,"Laranja da Terra",317
 3140,Linhares,324
 3141,Mantenópolis,318
 3142,Marataízes,328
-3143,Marechal Floriano,317
+3143,"Marechal Floriano",317
 3144,Marilândia,322
-3145,Mimoso do Sul,323
+3145,"Mimoso do Sul",323
 3146,Montanha,329
 3147,Mucurici,329
-3148,Muniz Freire,320
+3148,"Muniz Freire",320
 3149,Muqui,323
-3150,Nova Venécia,319
+3150,"Nova Venécia",319
 3151,Pancas,322
-3152,Pedro Canário,326
+3152,"Pedro Canário",326
 3153,Pinheiros,329
 3154,Piúma,321
-3155,Ponto Belo,329
-3156,Presidente Kennedy,328
-3157,Rio Bananal,324
-3158,Rio Novo do Sul,321
-3159,Santa Leopoldina,327
-3160,Santa Maria de Jetibá,327
-3161,Santa Teresa,327
-3162,São Domingos do Norte,322
-3163,São Gabriel da Palha,319
-3164,São José do Calçado,323
-3165,São Mateus,326
-3166,São Roque do Canaã,327
+3155,"Ponto Belo",329
+3156,"Presidente Kennedy",328
+3157,"Rio Bananal",324
+3158,"Rio Novo do Sul",321
+3159,"Santa Leopoldina",327
+3160,"Santa Maria de Jetibá",327
+3161,"Santa Teresa",327
+3162,"São Domingos do Norte",322
+3163,"São Gabriel da Palha",319
+3164,"São José do Calçado",323
+3165,"São Mateus",326
+3166,"São Roque do Canaã",327
 3167,Serra,325
 3168,Sooretama,324
-3169,Vargem Alta,323
-3170,Venda Nova do Imigrante,317
+3169,"Vargem Alta",323
+3170,"Venda Nova do Imigrante",317
 3171,Viana,325
-3172,Vila Pavão,319
-3173,Vila Valério,319
-3174,Vila Velha,325
+3172,"Vila Pavão",319
+3173,"Vila Valério",319
+3174,"Vila Velha",325
 3175,Vitória,325
-3176,Angra dos Reis,330
+3176,"Angra dos Reis",330
 3177,Aperibé,331
 3178,Araruama,332
 3179,Areal,333
-3180,Armação dos Búzios,332
-3181,Arraial do Cabo,332
-3182,Barra do Piraí,334
-3183,Barra Mansa,335
-3184,Belford Roxo,336
-3185,Bom Jardim,337
-3186,Bom Jesus do Itabapoana,338
-3187,Cabo Frio,332
-3188,Cachoeiras de Macacu,339
+3180,"Armação dos Búzios",332
+3181,"Arraial do Cabo",332
+3182,"Barra do Piraí",334
+3183,"Barra Mansa",335
+3184,"Belford Roxo",336
+3185,"Bom Jardim",337
+3186,"Bom Jesus do Itabapoana",338
+3187,"Cabo Frio",332
+3188,"Cachoeiras de Macacu",339
 3189,Cambuci,331
-3190,Campos dos Goytacazes,340
+3190,"Campos dos Goytacazes",340
 3191,Cantagalo,341
 3192,Carapebus,342
-3193,Cardoso Moreira,340
+3193,"Cardoso Moreira",340
 3194,Carmo,341
-3195,Casimiro de Abreu,343
-3196,Comendador Levy Gasparian,333
-3197,Conceição de Macabu,342
+3195,"Casimiro de Abreu",343
+3196,"Comendador Levy Gasparian",333
+3197,"Conceição de Macabu",342
 3198,Cordeiro,341
-3199,Duas Barras,337
-3200,Duque de Caxias,336
-3201,Engenheiro Paulo de Frontin,344
+3199,"Duas Barras",337
+3200,"Duque de Caxias",336
+3201,"Engenheiro Paulo de Frontin",344
 3202,Guapimirim,336
-3203,Iguaba Grande,332
+3203,"Iguaba Grande",332
 3204,Itaboraí,336
 3205,Itaguaí,345
 3206,Italva,338
@@ -3209,7 +3209,7 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 3208,Itaperuna,338
 3209,Itatiaia,335
 3210,Japeri,336
-3211,Laje do Muriaé,338
+3211,"Laje do Muriaé",338
 3212,Macaé,342
 3213,Macuco,341
 3214,Magé,336
@@ -3217,76 +3217,76 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 3216,Maricá,336
 3217,Mendes,344
 3218,Mesquita,336
-3219,Miguel Pereira,344
+3219,"Miguel Pereira",344
 3220,Miracema,331
 3221,Natividade,338
 3222,Nilópolis,336
 3223,Niterói,336
-3224,Nova Friburgo,337
-3225,Nova Iguaçu,336
+3224,"Nova Friburgo",337
+3225,"Nova Iguaçu",336
 3226,Paracambi,344
-3227,Paraíba do Sul,333
+3227,"Paraíba do Sul",333
 3228,Paraty,330
-3229,Paty do Alferes,344
+3229,"Paty do Alferes",344
 3230,Petrópolis,346
 3231,Pinheiral,335
 3232,Piraí,335
 3233,Porciúncula,338
-3234,Porto Real,335
+3234,"Porto Real",335
 3235,Quatis,335
 3236,Queimados,336
 3237,Quissamã,342
 3238,Resende,335
-3239,Rio Bonito,339
-3240,Rio Claro,335
-3241,Rio das Flores,334
-3242,Rio das Ostras,343
-3243,Rio de Janeiro,336
-3244,Santa Maria Madalena,347
-3245,Santo Antônio de Pádua,331
-3246,São Fidélis,340
-3247,São Francisco de Itabapoana,340
-3248,São Gonçalo,336
-3249,São João da Barra,340
-3250,São João de Meriti,336
-3251,São José de Ubá,331
-3252,São José do Vale do Rio Preto,346
-3253,São Pedro da Aldeia,332
-3254,São Sebastião do Alto,347
+3239,"Rio Bonito",339
+3240,"Rio Claro",335
+3241,"Rio das Flores",334
+3242,"Rio das Ostras",343
+3243,"Rio de Janeiro",336
+3244,"Santa Maria Madalena",347
+3245,"Santo Antônio de Pádua",331
+3246,"São Fidélis",340
+3247,"São Francisco de Itabapoana",340
+3248,"São Gonçalo",336
+3249,"São João da Barra",340
+3250,"São João de Meriti",336
+3251,"São José de Ubá",331
+3252,"São José do Vale do Rio Preto",346
+3253,"São Pedro da Aldeia",332
+3254,"São Sebastião do Alto",347
 3255,Sapucaia,333
 3256,Saquarema,332
 3257,Seropédica,345
-3258,Silva Jardim,343
+3258,"Silva Jardim",343
 3259,Sumidouro,337
 3260,Tanguá,336
 3261,Teresópolis,346
-3262,Trajano de Moraes,347
-3263,Três Rios,333
+3262,"Trajano de Moraes",347
+3263,"Três Rios",333
 3264,Valença,334
 3265,Varre-Sai,338
 3266,Vassouras,344
-3267,Volta Redonda,335
+3267,"Volta Redonda",335
 3268,Adamantina,348
 3269,Adolfo,349
 3270,Aguaí,350
-3271,Águas da Prata,351
-3272,Águas de Lindóia,352
-3273,Águas de Santa Bárbara,353
-3274,Águas de São Pedro,354
+3271,"Águas da Prata",351
+3272,"Águas de Lindóia",352
+3273,"Águas de Santa Bárbara",353
+3274,"Águas de São Pedro",354
 3275,Agudos,355
 3276,Alambari,356
-3277,Alfredo Marcondes,357
+3277,"Alfredo Marcondes",357
 3278,Altair,349
 3279,Altinópolis,358
-3280,Alto Alegre,359
+3280,"Alto Alegre",359
 3281,Alumínio,360
-3282,Álvares Florence,361
-3283,Álvares Machado,357
-3284,Álvaro de Carvalho,362
+3282,"Álvares Florence",361
+3283,"Álvares Machado",357
+3284,"Álvaro de Carvalho",362
 3285,Alvinlândia,362
 3286,Americana,363
-3287,Américo Brasiliense,364
-3288,Américo de Campos,361
+3287,"Américo Brasiliense",364
+3288,"Américo de Campos",361
 3289,Amparo,352
 3290,Analândia,365
 3291,Andradina,366
@@ -3294,11 +3294,11 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 3293,Anhembi,367
 3294,Anhumas,357
 3295,Aparecida,368
-3296,Aparecida d'Oeste,369
+3296,"Aparecida d'Oeste",369
 3297,Apiaí,370
 3298,Araçariguama,360
 3299,Araçatuba,371
-3300,Araçoiaba da Serra,360
+3300,"Araçoiaba da Serra",360
 3301,Aramina,372
 3302,Arandu,353
 3303,Arapeí,373
@@ -3309,7 +3309,7 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 3308,Areias,373
 3309,Areiópolis,355
 3310,Ariranha,376
-3311,Artur Nogueira,377
+3311,"Artur Nogueira",377
 3312,Arujá,378
 3313,Aspásia,369
 3314,Assis,379
@@ -3318,16 +3318,16 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 3317,Avaí,355
 3318,Avanhandava,359
 3319,Avaré,353
-3320,Bady Bassitt,349
+3320,"Bady Bassitt",349
 3321,Balbinos,355
 3322,Bálsamo,349
 3323,Bananal,373
-3324,Barão de Antonina,382
+3324,"Barão de Antonina",382
 3325,Barbosa,359
 3326,Bariri,383
-3327,Barra Bonita,383
-3328,Barra do Chapéu,370
-3329,Barra do Turvo,384
+3327,"Barra Bonita",383
+3328,"Barra do Chapéu",370
+3329,"Barra do Turvo",384
 3330,Barretos,385
 3331,Barrinha,386
 3332,Barueri,387
@@ -3335,35 +3335,35 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 3334,Batatais,358
 3335,Bauru,355
 3336,Bebedouro,388
-3337,Bento de Abreu,371
-3338,Bernardino de Campos,389
+3337,"Bento de Abreu",371
+3338,"Bernardino de Campos",389
 3339,Bertioga,390
 3340,Bilac,359
 3341,Birigui,359
-3342,Biritiba Mirim,391
-3343,Boa Esperança do Sul,364
+3342,"Biritiba Mirim",391
+3343,"Boa Esperança do Sul",364
 3344,Bocaina,383
 3345,Bofete,367
 3346,Boituva,392
-3347,Bom Jesus dos Perdões,380
-3348,Bom Sucesso de Itararé,382
+3347,"Bom Jesus dos Perdões",380
+3348,"Bom Sucesso de Itararé",382
 3349,Borá,379
 3350,Boracéia,383
 3351,Borborema,364
 3352,Borebi,355
 3353,Botucatu,367
-3354,Bragança Paulista,380
+3354,"Bragança Paulista",380
 3355,Braúna,359
-3356,Brejo Alegre,359
+3356,"Brejo Alegre",359
 3357,Brodowski,386
 3358,Brotas,393
 3359,Buri,382
 3360,Buritama,359
 3361,Buritizal,372
-3362,Cabrália Paulista,355
+3362,"Cabrália Paulista",355
 3363,Cabreúva,360
 3364,Caçapava,394
-3365,Cachoeira Paulista,368
+3365,"Cachoeira Paulista",368
 3366,Caconde,351
 3367,Cafelândia,395
 3368,Caiabu,357
@@ -3373,31 +3373,31 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 3372,Cajati,384
 3373,Cajobi,376
 3374,Cajuru,358
-3375,Campina do Monte Alegre,356
+3375,"Campina do Monte Alegre",356
 3376,Campinas,363
-3377,Campo Limpo Paulista,397
-3378,Campos do Jordão,398
-3379,Campos Novos Paulista,379
+3377,"Campo Limpo Paulista",397
+3378,"Campos do Jordão",398
+3379,"Campos Novos Paulista",379
 3380,Cananéia,384
 3381,Canas,368
-3382,Cândido Mota,379
-3383,Cândido Rodrigues,388
+3382,"Cândido Mota",379
+3383,"Cândido Rodrigues",388
 3384,Canitar,389
-3385,Capão Bonito,370
-3386,Capela do Alto,360
+3385,"Capão Bonito",370
+3386,"Capela do Alto",360
 3387,Capivari,354
 3388,Caraguatatuba,399
 3389,Carapicuíba,387
 3390,Cardoso,361
-3391,Casa Branca,351
-3392,Cássia dos Coqueiros,358
+3391,"Casa Branca",351
+3392,"Cássia dos Coqueiros",358
 3393,Castilho,366
 3394,Catanduva,376
 3395,Catiguá,376
 3396,Cedral,349
-3397,Cerqueira César,353
+3397,"Cerqueira César",353
 3398,Cerquilho,392
-3399,Cesário Lange,392
+3399,"Cesário Lange",392
 3400,Charqueada,354
 3401,Chavantes,389
 3402,Clementina,359
@@ -3407,23 +3407,23 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 3406,Conchas,367
 3407,Cordeirópolis,374
 3408,Coroados,359
-3409,Coronel Macedo,382
+3409,"Coronel Macedo",382
 3410,Corumbataí,393
 3411,Cosmópolis,363
 3412,Cosmorama,361
 3413,Cotia,400
 3414,Cravinhos,386
-3415,Cristais Paulista,401
+3415,"Cristais Paulista",401
 3416,Cruzália,379
 3417,Cruzeiro,368
 3418,Cubatão,390
 3419,Cunha,402
 3420,Descalvado,365
 3421,Diadema,403
-3422,Dirce Reis,369
+3422,"Dirce Reis",369
 3423,Divinolândia,351
 3424,Dobrada,364
-3425,Dois Córregos,383
+3425,"Dois Córregos",383
 3426,Dolcinópolis,369
 3427,Dourado,365
 3428,Dracena,404
@@ -3431,37 +3431,37 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 3430,Dumont,386
 3431,Echaporã,362
 3432,Eldorado,384
-3433,Elias Fausto,363
+3433,"Elias Fausto",363
 3434,Elisiário,376
 3435,Embaúba,376
-3436,Embu das Artes,400
+3436,"Embu das Artes",400
 3437,Embu-Guaçu,400
 3438,Emilianópolis,357
-3439,Engenheiro Coelho,377
-3440,Espírito Santo do Pinhal,351
-3441,Espírito Santo do Turvo,389
-3442,Estiva Gerbi,377
-3443,Estrela do Norte,357
-3444,Estrela d'Oeste,405
-3445,Euclides da Cunha Paulista,357
+3439,"Engenheiro Coelho",377
+3440,"Espírito Santo do Pinhal",351
+3441,"Espírito Santo do Turvo",389
+3442,"Estiva Gerbi",377
+3443,"Estrela do Norte",357
+3444,"Estrela d'Oeste",405
+3445,"Euclides da Cunha Paulista",357
 3446,Fartura,389
-3447,Fernando Prestes,388
+3447,"Fernando Prestes",388
 3448,Fernandópolis,405
 3449,Fernão,362
-3450,Ferraz de Vasconcelos,391
-3451,Flora Rica,348
+3450,"Ferraz de Vasconcelos",391
+3451,"Flora Rica",348
 3452,Floreal,381
-3453,Flórida Paulista,348
+3453,"Flórida Paulista",348
 3454,Florínea,379
 3455,Franca,401
-3456,Francisco Morato,396
-3457,Franco da Rocha,396
-3458,Gabriel Monteiro,359
+3456,"Francisco Morato",396
+3457,"Franco da Rocha",396
+3458,"Gabriel Monteiro",359
 3459,Gália,362
 3460,Garça,362
-3461,Gastão Vidigal,381
-3462,Gavião Peixoto,364
-3463,General Salgado,381
+3461,"Gastão Vidigal",381
+3462,"Gavião Peixoto",364
+3463,"General Salgado",381
 3464,Getulina,395
 3465,Glicério,359
 3466,Guaiçara,395
@@ -3472,7 +3472,7 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 3471,Guará,372
 3472,Guaraçaí,366
 3473,Guaraci,349
-3474,Guarani d'Oeste,405
+3474,"Guarani d'Oeste",405
 3475,Guarantã,355
 3476,Guararapes,371
 3477,Guararema,391
@@ -3496,17 +3496,17 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 3495,Ibiúna,407
 3496,Icém,349
 3497,Iepê,379
-3498,Igaraçu do Tietê,383
+3498,"Igaraçu do Tietê",383
 3499,Igarapava,372
 3500,Igaratá,394
 3501,Iguape,384
-3502,Ilha Comprida,384
-3503,Ilha Solteira,366
+3502,"Ilha Comprida",384
+3503,"Ilha Solteira",366
 3504,Ilhabela,399
 3505,Indaiatuba,363
 3506,Indiana,357
 3507,Indiaporã,405
-3508,Inúbia Paulista,348
+3508,"Inúbia Paulista",348
 3509,Ipaussu,389
 3510,Iperó,360
 3511,Ipeúna,393
@@ -3522,12 +3522,12 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 3521,Itaju,383
 3522,Itanhaém,409
 3523,Itaoca,370
-3524,Itapecerica da Serra,400
+3524,"Itapecerica da Serra",400
 3525,Itapetininga,356
 3526,Itapeva,382
 3527,Itapevi,387
 3528,Itapira,377
-3529,Itapirapuã Paulista,370
+3529,"Itapirapuã Paulista",370
 3530,Itápolis,364
 3531,Itaporanga,382
 3532,Itapuí,383
@@ -3557,20 +3557,20 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 3556,Jaú,383
 3557,Jeriquara,401
 3558,Joanópolis,380
-3559,João Ramalho,357
-3560,José Bonifácio,349
-3561,Júlio Mesquita,395
+3559,"João Ramalho",357
+3560,"José Bonifácio",349
+3561,"Júlio Mesquita",395
 3562,Jumirim,354
 3563,Jundiaí,397
 3564,Junqueirópolis,404
 3565,Juquiá,384
 3566,Juquitiba,400
 3567,Lagoinha,402
-3568,Laranjal Paulista,392
+3568,"Laranjal Paulista",392
 3569,Lavínia,371
 3570,Lavrinhas,368
 3571,Leme,374
-3572,Lençóis Paulista,355
+3572,"Lençóis Paulista",355
 3573,Limeira,374
 3574,Lindóia,352
 3575,Lins,395
@@ -3579,7 +3579,7 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 3578,Louveira,397
 3579,Lucélia,348
 3580,Lucianópolis,355
-3581,Luís Antônio,386
+3581,"Luís Antônio",386
 3582,Luiziânia,359
 3583,Lupércio,362
 3584,Lutécia,379
@@ -3590,7 +3590,7 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 3589,Mairinque,360
 3590,Mairiporã,396
 3591,Manduri,389
-3592,Marabá Paulista,357
+3592,"Marabá Paulista",357
 3593,Maracaí,379
 3594,Marapoama,408
 3595,Mariápolis,348
@@ -3603,71 +3603,71 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 3602,Meridiano,405
 3603,Mesópolis,369
 3604,Miguelópolis,406
-3605,Mineiros do Tietê,383
-3606,Mira Estrela,405
+3605,"Mineiros do Tietê",383
+3606,"Mira Estrela",405
 3607,Miracatu,384
 3608,Mirandópolis,366
-3609,Mirante do Paranapanema,357
+3609,"Mirante do Paranapanema",357
 3610,Mirassol,349
 3611,Mirassolândia,349
 3612,Mococa,351
-3613,Mogi das Cruzes,391
-3614,Mogi Guaçu,377
-3615,Mogi Mirim,377
+3613,"Mogi das Cruzes",391
+3614,"Mogi Guaçu",377
+3615,"Mogi Mirim",377
 3616,Mombuca,354
 3617,Monções,410
 3618,Mongaguá,409
-3619,Monte Alegre do Sul,352
-3620,Monte Alto,388
-3621,Monte Aprazível,410
-3622,Monte Azul Paulista,388
-3623,Monte Castelo,404
-3624,Monte Mor,363
-3625,Monteiro Lobato,398
-3626,Morro Agudo,406
+3619,"Monte Alegre do Sul",352
+3620,"Monte Alto",388
+3621,"Monte Aprazível",410
+3622,"Monte Azul Paulista",388
+3623,"Monte Castelo",404
+3624,"Monte Mor",363
+3625,"Monteiro Lobato",398
+3626,"Morro Agudo",406
 3627,Morungaba,380
 3628,Motuca,364
-3629,Murutinga do Sul,366
+3629,"Murutinga do Sul",366
 3630,Nantes,379
 3631,Narandiba,357
-3632,Natividade da Serra,402
-3633,Nazaré Paulista,380
-3634,Neves Paulista,410
+3632,"Natividade da Serra",402
+3633,"Nazaré Paulista",380
+3634,"Neves Paulista",410
 3635,Nhandeara,410
 3636,Nipoã,410
-3637,Nova Aliança,349
-3638,Nova Campina,382
-3639,Nova Canaã Paulista,369
-3640,Nova Castilho,381
-3641,Nova Europa,364
-3642,Nova Granada,349
-3643,Nova Guataporanga,404
-3644,Nova Independência,366
-3645,Nova Luzitânia,381
-3646,Nova Odessa,363
+3637,"Nova Aliança",349
+3638,"Nova Campina",382
+3639,"Nova Canaã Paulista",369
+3640,"Nova Castilho",381
+3641,"Nova Europa",364
+3642,"Nova Granada",349
+3643,"Nova Guataporanga",404
+3644,"Nova Independência",366
+3645,"Nova Luzitânia",381
+3646,"Nova Odessa",363
 3647,Novais,376
-3648,Novo Horizonte,408
+3648,"Novo Horizonte",408
 3649,Nuporanga,406
 3650,Ocauçu,362
 3651,Óleo,389
 3652,Olímpia,349
-3653,Onda Verde,349
+3653,"Onda Verde",349
 3654,Oriente,362
 3655,Orindiúva,349
 3656,Orlândia,406
 3657,Osasco,387
-3658,Oscar Bressane,362
-3659,Osvaldo Cruz,348
+3658,"Oscar Bressane",362
+3659,"Osvaldo Cruz",348
 3660,Ourinhos,389
-3661,Ouro Verde,404
+3661,"Ouro Verde",404
 3662,Ouroeste,405
 3663,Pacaembu,348
 3664,Palestina,349
-3665,Palmares Paulista,376
-3666,Palmeira d'Oeste,369
+3665,"Palmares Paulista",376
+3666,"Palmeira d'Oeste",369
 3667,Palmital,379
 3668,Panorama,404
-3669,Paraguaçu Paulista,379
+3669,"Paraguaçu Paulista",379
 3670,Paraibuna,402
 3671,Paraíso,376
 3672,Paranapanema,353
@@ -3676,25 +3676,25 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 3675,Pardinho,367
 3676,Pariquera-Açu,384
 3677,Parisi,361
-3678,Patrocínio Paulista,401
+3678,"Patrocínio Paulista",401
 3679,Paulicéia,404
 3680,Paulínia,363
 3681,Paulistânia,355
-3682,Paulo de Faria,349
+3682,"Paulo de Faria",349
 3683,Pederneiras,383
-3684,Pedra Bela,352
+3684,"Pedra Bela",352
 3685,Pedranópolis,405
 3686,Pedregulho,401
 3687,Pedreira,363
-3688,Pedrinhas Paulista,379
-3689,Pedro de Toledo,409
+3688,"Pedrinhas Paulista",379
+3689,"Pedro de Toledo",409
 3690,Penápolis,359
-3691,Pereira Barreto,366
+3691,"Pereira Barreto",366
 3692,Pereiras,392
 3693,Peruíbe,409
 3694,Piacatu,359
 3695,Piedade,407
-3696,Pilar do Sul,407
+3696,"Pilar do Sul",407
 3697,Pindamonhangaba,394
 3698,Pindorama,376
 3699,Pinhalzinho,352
@@ -3705,7 +3705,7 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 3704,Piraju,389
 3705,Pirajuí,355
 3706,Pirangi,388
-3707,Pirapora do Bom Jesus,387
+3707,"Pirapora do Bom Jesus",387
 3708,Pirapozinho,357
 3709,Pirassununga,350
 3710,Piratininga,355
@@ -3718,22 +3718,22 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 3717,Pongaí,355
 3718,Pontal,386
 3719,Pontalinda,369
-3720,Pontes Gestal,361
+3720,"Pontes Gestal",361
 3721,Populina,369
 3722,Porangaba,392
-3723,Porto Feliz,360
-3724,Porto Ferreira,350
+3723,"Porto Feliz",360
+3724,"Porto Ferreira",350
 3725,Potim,368
 3726,Potirendaba,349
 3727,Pracinha,348
 3728,Pradópolis,386
-3729,Praia Grande,390
+3729,"Praia Grande",390
 3730,Pratânia,367
-3731,Presidente Alves,355
-3732,Presidente Bernardes,357
-3733,Presidente Epitácio,357
-3734,Presidente Prudente,357
-3735,Presidente Venceslau,357
+3731,"Presidente Alves",355
+3732,"Presidente Bernardes",357
+3733,"Presidente Epitácio",357
+3734,"Presidente Prudente",357
+3735,"Presidente Venceslau",357
 3736,Promissão,395
 3737,Quadra,392
 3738,Quatá,379
@@ -3742,26 +3742,26 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 3741,Quintana,375
 3742,Rafard,354
 3743,Rancharia,357
-3744,Redenção da Serra,402
-3745,Regente Feijó,357
+3744,"Redenção da Serra",402
+3745,"Regente Feijó",357
 3746,Reginópolis,355
 3747,Registro,384
 3748,Restinga,401
 3749,Ribeira,370
-3750,Ribeirão Bonito,365
-3751,Ribeirão Branco,370
-3752,Ribeirão Corrente,401
-3753,Ribeirão do Sul,389
-3754,Ribeirão dos Índios,357
-3755,Ribeirão Grande,370
-3756,Ribeirão Pires,403
-3757,Ribeirão Preto,386
+3750,"Ribeirão Bonito",365
+3751,"Ribeirão Branco",370
+3752,"Ribeirão Corrente",401
+3753,"Ribeirão do Sul",389
+3754,"Ribeirão dos Índios",357
+3755,"Ribeirão Grande",370
+3756,"Ribeirão Pires",403
+3757,"Ribeirão Preto",386
 3758,Rifaina,401
 3759,Rincão,364
 3760,Rinópolis,348
-3761,Rio Claro,393
-3762,Rio das Pedras,354
-3763,Rio Grande da Serra,403
+3761,"Rio Claro",393
+3762,"Rio das Pedras",354
+3763,"Rio Grande da Serra",403
 3764,Riolândia,361
 3765,Riversul,382
 3766,Rosana,357
@@ -3771,92 +3771,92 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 3770,Sabino,395
 3771,Sagres,348
 3772,Sales,408
-3773,Sales Oliveira,406
+3773,"Sales Oliveira",406
 3774,Salesópolis,391
 3775,Salmourão,348
 3776,Saltinho,354
 3777,Salto,360
-3778,Salto de Pirapora,360
-3779,Salto Grande,389
+3778,"Salto de Pirapora",360
+3779,"Salto Grande",389
 3780,Sandovalina,357
-3781,Santa Adélia,376
-3782,Santa Albertina,369
-3783,Santa Bárbara d'Oeste,363
-3784,Santa Branca,394
-3785,Santa Clara d'Oeste,369
-3786,Santa Cruz da Conceição,374
-3787,Santa Cruz da Esperança,358
-3788,Santa Cruz das Palmeiras,350
-3789,Santa Cruz do Rio Pardo,389
-3790,Santa Ernestina,388
-3791,Santa Fé do Sul,369
-3792,Santa Gertrudes,374
-3793,Santa Isabel,378
-3794,Santa Lúcia,364
-3795,Santa Maria da Serra,354
-3796,Santa Mercedes,404
-3797,Santa Rita do Passa Quatro,386
-3798,Santa Rita d'Oeste,369
-3799,Santa Rosa de Viterbo,386
-3800,Santa Salete,369
-3801,Santana da Ponte Pensa,369
-3802,Santana de Parnaíba,387
-3803,Santo Anastácio,357
-3804,Santo André,403
-3805,Santo Antônio da Alegria,358
-3806,Santo Antônio de Posse,377
-3807,Santo Antônio do Aracanguá,371
-3808,Santo Antônio do Jardim,351
-3809,Santo Antônio do Pinhal,398
-3810,Santo Expedito,357
-3811,Santópolis do Aguapeí,359
+3781,"Santa Adélia",376
+3782,"Santa Albertina",369
+3783,"Santa Bárbara d'Oeste",363
+3784,"Santa Branca",394
+3785,"Santa Clara d'Oeste",369
+3786,"Santa Cruz da Conceição",374
+3787,"Santa Cruz da Esperança",358
+3788,"Santa Cruz das Palmeiras",350
+3789,"Santa Cruz do Rio Pardo",389
+3790,"Santa Ernestina",388
+3791,"Santa Fé do Sul",369
+3792,"Santa Gertrudes",374
+3793,"Santa Isabel",378
+3794,"Santa Lúcia",364
+3795,"Santa Maria da Serra",354
+3796,"Santa Mercedes",404
+3797,"Santa Rita do Passa Quatro",386
+3798,"Santa Rita d'Oeste",369
+3799,"Santa Rosa de Viterbo",386
+3800,"Santa Salete",369
+3801,"Santana da Ponte Pensa",369
+3802,"Santana de Parnaíba",387
+3803,"Santo Anastácio",357
+3804,"Santo André",403
+3805,"Santo Antônio da Alegria",358
+3806,"Santo Antônio de Posse",377
+3807,"Santo Antônio do Aracanguá",371
+3808,"Santo Antônio do Jardim",351
+3809,"Santo Antônio do Pinhal",398
+3810,"Santo Expedito",357
+3811,"Santópolis do Aguapeí",359
 3812,Santos,390
-3813,São Bento do Sapucaí,398
-3814,São Bernardo do Campo,403
-3815,São Caetano do Sul,403
-3816,São Carlos,365
-3817,São Francisco,369
-3818,São João da Boa Vista,351
-3819,São João das Duas Pontes,405
-3820,São João de Iracema,381
-3821,São João do Pau d'Alho,404
-3822,São Joaquim da Barra,406
-3823,São José da Bela Vista,401
-3824,São José do Barreiro,373
-3825,São José do Rio Pardo,351
-3826,São José do Rio Preto,349
-3827,São José dos Campos,394
-3828,São Lourenço da Serra,400
-3829,São Luiz do Paraitinga,402
-3830,São Manuel,367
-3831,São Miguel Arcanjo,407
-3832,São Paulo,403
-3833,São Pedro,354
-3834,São Pedro do Turvo,389
-3835,São Roque,360
-3836,São Sebastião,399
-3837,São Sebastião da Grama,351
-3838,São Simão,386
-3839,São Vicente,390
+3813,"São Bento do Sapucaí",398
+3814,"São Bernardo do Campo",403
+3815,"São Caetano do Sul",403
+3816,"São Carlos",365
+3817,"São Francisco",369
+3818,"São João da Boa Vista",351
+3819,"São João das Duas Pontes",405
+3820,"São João de Iracema",381
+3821,"São João do Pau d'Alho",404
+3822,"São Joaquim da Barra",406
+3823,"São José da Bela Vista",401
+3824,"São José do Barreiro",373
+3825,"São José do Rio Pardo",351
+3826,"São José do Rio Preto",349
+3827,"São José dos Campos",394
+3828,"São Lourenço da Serra",400
+3829,"São Luiz do Paraitinga",402
+3830,"São Manuel",367
+3831,"São Miguel Arcanjo",407
+3832,"São Paulo",403
+3833,"São Pedro",354
+3834,"São Pedro do Turvo",389
+3835,"São Roque",360
+3836,"São Sebastião",399
+3837,"São Sebastião da Grama",351
+3838,"São Simão",386
+3839,"São Vicente",390
 3840,Sarapuí,360
 3841,Sarutaiá,389
-3842,Sebastianópolis do Sul,410
-3843,Serra Azul,386
-3844,Serra Negra,352
+3842,"Sebastianópolis do Sul",410
+3843,"Serra Azul",386
+3844,"Serra Negra",352
 3845,Serrana,386
 3846,Sertãozinho,386
-3847,Sete Barras,384
+3847,"Sete Barras",384
 3848,Severínia,376
 3849,Silveiras,373
 3850,Socorro,352
 3851,Sorocaba,360
-3852,Sud Mennucci,366
+3852,"Sud Mennucci",366
 3853,Sumaré,363
 3854,Suzanápolis,366
 3855,Suzano,391
 3856,Tabapuã,376
 3857,Tabatinga,364
-3858,Taboão da Serra,400
+3858,"Taboão da Serra",400
 3859,Taciba,357
 3860,Taguaí,389
 3861,Taiaçu,388
@@ -3874,206 +3874,206 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 3873,Tatuí,392
 3874,Taubaté,394
 3875,Tejupá,389
-3876,Teodoro Sampaio,357
-3877,Terra Roxa,388
+3876,"Teodoro Sampaio",357
+3877,"Terra Roxa",388
 3878,Tietê,354
 3879,Timburi,389
-3880,Torre de Pedra,392
+3880,"Torre de Pedra",392
 3881,Torrinha,393
 3882,Trabiju,364
 3883,Tremembé,394
-3884,Três Fronteiras,369
+3884,"Três Fronteiras",369
 3885,Tuiuti,380
 3886,Tupã,375
-3887,Tupi Paulista,404
+3887,"Tupi Paulista",404
 3888,Turiúba,359
 3889,Turmalina,405
 3890,Ubarana,349
 3891,Ubatuba,399
 3892,Ubirajara,355
 3893,Uchoa,349
-3894,União Paulista,410
+3894,"União Paulista",410
 3895,Urânia,369
 3896,Uru,355
 3897,Urupês,408
-3898,Valentim Gentil,361
+3898,"Valentim Gentil",361
 3899,Valinhos,363
 3900,Valparaíso,371
 3901,Vargem,380
-3902,Vargem Grande do Sul,351
-3903,Vargem Grande Paulista,400
-3904,Várzea Paulista,397
-3905,Vera Cruz,362
+3902,"Vargem Grande do Sul",351
+3903,"Vargem Grande Paulista",400
+3904,"Várzea Paulista",397
+3905,"Vera Cruz",362
 3906,Vinhedo,363
 3907,Viradouro,388
-3908,Vista Alegre do Alto,388
-3909,Vitória Brasil,369
+3908,"Vista Alegre do Alto",388
+3909,"Vitória Brasil",369
 3910,Votorantim,360
 3911,Votuporanga,361
 3912,Zacarias,349
 3913,Abatiá,411
 3914,Adrianópolis,412
-3915,Agudos do Sul,19
-3916,Almirante Tamandaré,413
-3917,Altamira do Paraná,414
-3918,Alto Paraíso,415
-3919,Alto Paraná,416
-3920,Alto Piquiri,415
+3915,"Agudos do Sul",19
+3916,"Almirante Tamandaré",413
+3917,"Altamira do Paraná",414
+3918,"Alto Paraíso",415
+3919,"Alto Paraná",416
+3920,"Alto Piquiri",415
 3921,Altônia,415
-3922,Alvorada do Sul,417
+3922,"Alvorada do Sul",417
 3923,Amaporã,416
 3924,Ampére,418
-3925,Anahy,120
+3925,Anahy,555
 3926,Andirá,411
 3927,Ângulo,419
 3928,Antonina,420
-3929,Antônio Olinto,421
+3929,"Antônio Olinto",421
 3930,Apucarana,422
 3931,Arapongas,422
 3932,Arapoti,423
 3933,Arapuã,424
 3934,Araruna,425
 3935,Araucária,413
-3936,Ariranha do Ivaí,424
+3936,"Ariranha do Ivaí",424
 3937,Assaí,426
-3938,Assis Chateaubriand,427
+3938,"Assis Chateaubriand",427
 3939,Astorga,419
 3940,Atalaia,419
-3941,Balsa Nova,413
+3941,"Balsa Nova",413
 3942,Bandeirantes,411
-3943,Barbosa Ferraz,425
-3944,Barra do Jacaré,428
+3943,"Barbosa Ferraz",425
+3944,"Barra do Jacaré",428
 3945,Barracão,429
-3946,Bela Vista da Caroba,418
-3947,Bela Vista do Paraíso,417
+3946,"Bela Vista da Caroba",418
+3947,"Bela Vista do Paraíso",417
 3948,Bituruna,430
-3949,Boa Esperança,414
-3950,Boa Esperança do Iguaçu,429
-3951,Boa Ventura de São Roque,431
-3952,Boa Vista da Aparecida,120
-3953,Bocaiúva do Sul,413
-3954,Bom Jesus do Sul,429
-3955,Bom Sucesso,432
-3956,Bom Sucesso do Sul,433
+3949,"Boa Esperança",414
+3950,"Boa Esperança do Iguaçu",429
+3951,"Boa Ventura de São Roque",431
+3952,"Boa Vista da Aparecida",555
+3953,"Bocaiúva do Sul",413
+3954,"Bom Jesus do Sul",429
+3955,"Bom Sucesso",432
+3956,"Bom Sucesso do Sul",433
 3957,Borrazópolis,432
-3958,Braganey,120
-3959,Brasilândia do Sul,415
+3958,Braganey,555
+3959,"Brasilândia do Sul",415
 3960,Cafeara,419
-3961,Cafelândia,120
-3962,Cafezal do Sul,415
+3961,Cafelândia,555
+3962,"Cafezal do Sul",415
 3963,Califórnia,422
 3964,Cambará,428
 3965,Cambé,434
 3966,Cambira,422
-3967,Campina da Lagoa,414
-3968,Campina do Simão,435
-3969,Campina Grande do Sul,413
-3970,Campo Bonito,120
-3971,Campo do Tenente,19
-3972,Campo Largo,413
-3973,Campo Magro,413
-3974,Campo Mourão,425
-3975,Cândido de Abreu,424
+3967,"Campina da Lagoa",414
+3968,"Campina do Simão",435
+3969,"Campina Grande do Sul",413
+3970,"Campo Bonito",555
+3971,"Campo do Tenente",19
+3972,"Campo Largo",413
+3973,"Campo Magro",413
+3974,"Campo Mourão",425
+3975,"Cândido de Abreu",424
 3976,Candói,435
 3977,Cantagalo,435
 3978,Capanema,418
-3979,Capitão Leônidas Marques,120
+3979,"Capitão Leônidas Marques",555
 3980,Carambeí,436
 3981,Carlópolis,437
-3982,Cascavel,120
+3982,Cascavel,555
 3983,Castro,436
-3984,Catanduvas,120
-3985,Centenário do Sul,419
-3986,Cerro Azul,412
-3987,Céu Azul,438
+3984,Catanduvas,555
+3985,"Centenário do Sul",419
+3986,"Cerro Azul",412
+3987,"Céu Azul",438
 3988,Chopinzinho,433
 3989,Cianorte,439
-3990,Cidade Gaúcha,439
+3990,"Cidade Gaúcha",439
 3991,Clevelândia,440
 3992,Colombo,413
 3993,Colorado,419
 3994,Congonhinhas,411
-3995,Conselheiro Mairinck,441
+3995,"Conselheiro Mairinck",441
 3996,Contenda,413
-3997,Corbélia,120
-3998,Cornélio Procópio,411
-3999,Coronel Domingos Soares,440
-4000,Coronel Vivida,433
-4001,Corumbataí do Sul,425
-4002,Cruz Machado,430
-4003,Cruzeiro do Iguaçu,429
-4004,Cruzeiro do Oeste,415
-4005,Cruzeiro do Sul,416
+3997,Corbélia,555
+3998,"Cornélio Procópio",411
+3999,"Coronel Domingos Soares",440
+4000,"Coronel Vivida",433
+4001,"Corumbataí do Sul",425
+4002,"Cruz Machado",430
+4003,"Cruzeiro do Iguaçu",429
+4004,"Cruzeiro do Oeste",415
+4005,"Cruzeiro do Sul",416
 4006,Cruzmaltina,432
 4007,Curitiba,413
 4008,Curiúva,441
-4009,Diamante do Norte,416
-4010,Diamante do Sul,120
-4011,Diamante D'Oeste,427
-4012,Dois Vizinhos,429
+4009,"Diamante do Norte",416
+4010,"Diamante do Sul",555
+4011,"Diamante D'Oeste",427
+4012,"Dois Vizinhos",429
 4013,Douradina,415
-4014,Doutor Camargo,442
-4015,Doutor Ulysses,412
-4016,Enéas Marques,429
-4017,Engenheiro Beltrão,425
-4018,Entre Rios do Oeste,427
-4019,Esperança Nova,415
-4020,Espigão Alto do Iguaçu,435
+4014,"Doutor Camargo",442
+4015,"Doutor Ulysses",412
+4016,"Enéas Marques",429
+4017,"Engenheiro Beltrão",425
+4018,"Entre Rios do Oeste",427
+4019,"Esperança Nova",415
+4020,"Espigão Alto do Iguaçu",435
 4021,Farol,425
 4022,Faxinal,432
-4023,Fazenda Rio Grande,413
+4023,"Fazenda Rio Grande",413
 4024,Fênix,425
-4025,Fernandes Pinheiro,443
+4025,"Fernandes Pinheiro",443
 4026,Figueira,441
-4027,Flor da Serra do Sul,429
+4027,"Flor da Serra do Sul",429
 4028,Floraí,442
 4029,Floresta,442
 4030,Florestópolis,417
 4031,Flórida,419
-4032,Formosa do Oeste,427
-4033,Foz do Iguaçu,438
-4034,Foz do Jordão,435
-4035,Francisco Alves,415
-4036,Francisco Beltrão,429
-4037,General Carneiro,430
-4038,Godoy Moreira,424
+4032,"Formosa do Oeste",427
+4033,"Foz do Iguaçu",438
+4034,"Foz do Jordão",435
+4035,"Francisco Alves",415
+4036,"Francisco Beltrão",429
+4037,"General Carneiro",430
+4038,"Godoy Moreira",424
 4039,Goioerê,414
 4040,Goioxim,435
-4041,Grandes Rios,424
+4041,"Grandes Rios",424
 4042,Guaíra,427
 4043,Guairaçá,416
 4044,Guamiranga,443
 4045,Guapirama,437
 4046,Guaporema,439
 4047,Guaraci,419
-4048,Guaraniaçu,120
+4048,Guaraniaçu,555
 4049,Guarapuava,435
 4050,Guaraqueçaba,420
 4051,Guaratuba,420
-4052,Honório Serpa,440
+4052,"Honório Serpa",440
 4053,Ibaiti,441
-4054,Ibema,120
+4054,Ibema,555
 4055,Ibiporã,434
 4056,Icaraíma,415
 4057,Iguaraçu,419
-4058,Iguatu,120
+4058,Iguatu,555
 4059,Imbaú,444
 4060,Imbituva,443
-4061,Inácio Martins,435
+4061,"Inácio Martins",435
 4062,Inajá,416
 4063,Indianópolis,439
 4064,Ipiranga,443
 4065,Iporã,415
-4066,Iracema do Oeste,427
+4066,"Iracema do Oeste",427
 4067,Irati,445
 4068,Iretama,425
 4069,Itaguajé,419
 4070,Itaipulândia,438
 4071,Itambaracá,411
 4072,Itambé,442
-4073,Itapejara d'Oeste,433
+4073,"Itapejara d'Oeste",433
 4074,Itaperuçu,413
-4075,Itaúna do Sul,416
+4075,"Itaúna do Sul",416
 4076,Ivaí,443
 4077,Ivaiporã,424
 4078,Ivaté,415
@@ -4082,25 +4082,25 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 4081,Jacarezinho,428
 4082,Jaguapitã,419
 4083,Jaguariaíva,423
-4084,Jandaia do Sul,422
+4084,"Jandaia do Sul",422
 4085,Janiópolis,414
 4086,Japira,441
 4087,Japurá,439
-4088,Jardim Alegre,424
-4089,Jardim Olinda,416
+4088,"Jardim Alegre",424
+4089,"Jardim Olinda",416
 4090,Jataizinho,426
 4091,Jesuítas,427
-4092,Joaquim Távora,437
-4093,Jundiaí do Sul,428
+4092,"Joaquim Távora",437
+4093,"Jundiaí do Sul",428
 4094,Juranda,414
 4095,Jussara,439
 4096,Kaloré,432
 4097,Lapa,446
 4098,Laranjal,431
-4099,Laranjeiras do Sul,435
+4099,"Laranjeiras do Sul",435
 4100,Leópolis,411
 4101,Lidianópolis,424
-4102,Lindoeste,120
+4102,Lindoeste,555
 4103,Loanda,416
 4104,Lobato,419
 4105,Londrina,434
@@ -4114,11 +4114,11 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 4113,Mandirituba,413
 4114,Manfrinópolis,429
 4115,Mangueirinha,440
-4116,Manoel Ribas,424
-4117,Marechal Cândido Rondon,427
-4118,Maria Helena,415
+4116,"Manoel Ribas",424
+4117,"Marechal Cândido Rondon",427
+4118,"Maria Helena",415
 4119,Marialva,447
-4120,Marilândia do Sul,422
+4120,"Marilândia do Sul",422
 4121,Marilena,416
 4122,Mariluz,415
 4123,Maringá,447
@@ -4129,294 +4129,294 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 4128,Marumbi,432
 4129,Matelândia,438
 4130,Matinhos,420
-4131,Mato Rico,431
-4132,Mauá da Serra,422
+4131,"Mato Rico",431
+4132,"Mauá da Serra",422
 4133,Medianeira,438
 4134,Mercedes,427
 4135,Mirador,416
 4136,Miraselva,417
 4137,Missal,438
-4138,Moreira Sales,414
+4138,"Moreira Sales",414
 4139,Morretes,420
-4140,Munhoz de Melo,419
-4141,Nossa Senhora das Graças,419
-4142,Nova Aliança do Ivaí,416
-4143,Nova América da Colina,411
-4144,Nova Aurora,120
-4145,Nova Cantu,414
-4146,Nova Esperança,419
-4147,Nova Esperança do Sudoeste,429
-4148,Nova Fátima,411
-4149,Nova Laranjeiras,435
-4150,Nova Londrina,416
-4151,Nova Olímpia,415
-4152,Nova Prata do Iguaçu,429
-4153,Nova Santa Bárbara,426
-4154,Nova Santa Rosa,427
-4155,Nova Tebas,424
-4156,Novo Itacolomi,422
+4140,"Munhoz de Melo",419
+4141,"Nossa Senhora das Graças",419
+4142,"Nova Aliança do Ivaí",416
+4143,"Nova América da Colina",411
+4144,"Nova Aurora",555
+4145,"Nova Cantu",414
+4146,"Nova Esperança",419
+4147,"Nova Esperança do Sudoeste",429
+4148,"Nova Fátima",411
+4149,"Nova Laranjeiras",435
+4150,"Nova Londrina",416
+4151,"Nova Olímpia",415
+4152,"Nova Prata do Iguaçu",429
+4153,"Nova Santa Bárbara",426
+4154,"Nova Santa Rosa",427
+4155,"Nova Tebas",424
+4156,"Novo Itacolomi",422
 4157,Ortigueira,444
 4158,Ourizona,442
-4159,Ouro Verde do Oeste,427
+4159,"Ouro Verde do Oeste",427
 4160,Paiçandu,447
 4161,Palmas,440
 4162,Palmeira,436
 4163,Palmital,431
 4164,Palotina,427
-4165,Paraíso do Norte,416
+4165,"Paraíso do Norte",416
 4166,Paranacity,416
 4167,Paranaguá,420
 4168,Paranapoema,416
 4169,Paranavaí,416
-4170,Pato Bragado,427
-4171,Pato Branco,433
-4172,Paula Freitas,430
-4173,Paulo Frontin,430
+4170,"Pato Bragado",427
+4171,"Pato Branco",433
+4172,"Paula Freitas",430
+4173,"Paulo Frontin",430
 4174,Peabiru,425
 4175,Perobal,415
 4176,Pérola,415
-4177,Pérola d'Oeste,418
+4177,"Pérola d'Oeste",418
 4178,Piên,19
 4179,Pinhais,413
-4180,Pinhal de São Bento,429
+4180,"Pinhal de São Bento",429
 4181,Pinhalão,441
 4182,Pinhão,435
-4183,Piraí do Sul,423
+4183,"Piraí do Sul",423
 4184,Piraquara,413
 4185,Pitanga,431
 4186,Pitangueiras,434
-4187,Planaltina do Paraná,416
+4187,"Planaltina do Paraná",416
 4188,Planalto,418
-4189,Ponta Grossa,436
-4190,Pontal do Paraná,420
+4189,"Ponta Grossa",436
+4190,"Pontal do Paraná",420
 4191,Porecatu,417
-4192,Porto Amazonas,446
-4193,Porto Barreiro,435
-4194,Porto Rico,416
-4195,Porto Vitória,430
-4196,Prado Ferreira,417
+4192,"Porto Amazonas",446
+4193,"Porto Barreiro",435
+4194,"Porto Rico",416
+4195,"Porto Vitória",430
+4196,"Prado Ferreira",417
 4197,Pranchita,418
-4198,Presidente Castelo Branco,419
-4199,Primeiro de Maio,417
+4198,"Presidente Castelo Branco",419
+4199,"Primeiro de Maio",417
 4200,Prudentópolis,443
-4201,Quarto Centenário,414
+4201,"Quarto Centenário",414
 4202,Quatiguá,437
-4203,Quatro Barras,413
-4204,Quatro Pontes,427
-4205,Quedas do Iguaçu,435
-4206,Querência do Norte,416
-4207,Quinta do Sol,425
+4203,"Quatro Barras",413
+4204,"Quatro Pontes",427
+4205,"Quedas do Iguaçu",435
+4206,"Querência do Norte",416
+4207,"Quinta do Sol",425
 4208,Quitandinha,19
 4209,Ramilândia,438
-4210,Rancho Alegre,426
-4211,Rancho Alegre D'Oeste,414
+4210,"Rancho Alegre",426
+4211,"Rancho Alegre D'Oeste",414
 4212,Realeza,418
 4213,Rebouças,445
 4214,Renascença,429
 4215,Reserva,444
-4216,Reserva do Iguaçu,435
-4217,Ribeirão Claro,428
-4218,Ribeirão do Pinhal,411
-4219,Rio Azul,445
-4220,Rio Bom,432
-4221,Rio Bonito do Iguaçu,435
-4222,Rio Branco do Ivaí,424
-4223,Rio Branco do Sul,413
-4224,Rio Negro,19
+4216,"Reserva do Iguaçu",435
+4217,"Ribeirão Claro",428
+4218,"Ribeirão do Pinhal",411
+4219,"Rio Azul",445
+4220,"Rio Bom",432
+4221,"Rio Bonito do Iguaçu",435
+4222,"Rio Branco do Ivaí",424
+4223,"Rio Branco do Sul",413
+4224,"Rio Negro",19
 4225,Rolândia,434
 4226,Roncador,425
 4227,Rondon,439
-4228,Rosário do Ivaí,424
+4228,"Rosário do Ivaí",424
 4229,Sabáudia,422
-4230,Salgado Filho,429
-4231,Salto do Itararé,437
-4232,Salto do Lontra,429
-4233,Santa Amélia,411
-4234,Santa Cecília do Pavão,426
-4235,Santa Cruz de Monte Castelo,416
-4236,Santa Fé,419
-4237,Santa Helena,427
-4238,Santa Inês,419
-4239,Santa Isabel do Ivaí,416
-4240,Santa Izabel do Oeste,418
-4241,Santa Lúcia,120
-4242,Santa Maria do Oeste,431
-4243,Santa Mariana,411
-4244,Santa Mônica,416
-4245,Santa Tereza do Oeste,120
-4246,Santa Terezinha de Itaipu,438
-4247,Santana do Itararé,437
-4248,Santo Antônio da Platina,428
-4249,Santo Antônio do Caiuá,416
-4250,Santo Antônio do Paraíso,411
-4251,Santo Antônio do Sudoeste,429
-4252,Santo Inácio,419
-4253,São Carlos do Ivaí,416
-4254,São Jerônimo da Serra,426
-4255,São João,433
-4256,São João do Caiuá,416
-4257,São João do Ivaí,424
-4258,São João do Triunfo,421
-4259,São Jorge do Ivaí,442
-4260,São Jorge do Patrocínio,415
-4261,São Jorge d'Oeste,429
-4262,São José da Boa Vista,437
-4263,São José das Palmeiras,427
-4264,São José dos Pinhais,413
-4265,São Manoel do Paraná,439
-4266,São Mateus do Sul,421
-4267,São Miguel do Iguaçu,438
-4268,São Pedro do Iguaçu,427
-4269,São Pedro do Ivaí,424
-4270,São Pedro do Paraná,416
-4271,São Sebastião da Amoreira,426
-4272,São Tomé,439
+4230,"Salgado Filho",429
+4231,"Salto do Itararé",437
+4232,"Salto do Lontra",429
+4233,"Santa Amélia",411
+4234,"Santa Cecília do Pavão",426
+4235,"Santa Cruz de Monte Castelo",416
+4236,"Santa Fé",419
+4237,"Santa Helena",427
+4238,"Santa Inês",419
+4239,"Santa Isabel do Ivaí",416
+4240,"Santa Izabel do Oeste",418
+4241,"Santa Lúcia",555
+4242,"Santa Maria do Oeste",431
+4243,"Santa Mariana",411
+4244,"Santa Mônica",416
+4245,"Santa Tereza do Oeste",555
+4246,"Santa Terezinha de Itaipu",438
+4247,"Santana do Itararé",437
+4248,"Santo Antônio da Platina",428
+4249,"Santo Antônio do Caiuá",416
+4250,"Santo Antônio do Paraíso",411
+4251,"Santo Antônio do Sudoeste",429
+4252,"Santo Inácio",419
+4253,"São Carlos do Ivaí",416
+4254,"São Jerônimo da Serra",426
+4255,"São João",433
+4256,"São João do Caiuá",416
+4257,"São João do Ivaí",424
+4258,"São João do Triunfo",421
+4259,"São Jorge do Ivaí",442
+4260,"São Jorge do Patrocínio",415
+4261,"São Jorge d'Oeste",429
+4262,"São José da Boa Vista",437
+4263,"São José das Palmeiras",427
+4264,"São José dos Pinhais",413
+4265,"São Manoel do Paraná",439
+4266,"São Mateus do Sul",421
+4267,"São Miguel do Iguaçu",438
+4268,"São Pedro do Iguaçu",427
+4269,"São Pedro do Ivaí",424
+4270,"São Pedro do Paraná",416
+4271,"São Sebastião da Amoreira",426
+4272,"São Tomé",439
 4273,Sapopema,441
 4274,Sarandi,447
-4275,Saudade do Iguaçu,433
+4275,"Saudade do Iguaçu",433
 4276,Sengés,423
-4277,Serranópolis do Iguaçu,438
+4277,"Serranópolis do Iguaçu",438
 4278,Sertaneja,411
 4279,Sertanópolis,417
-4280,Siqueira Campos,437
+4280,"Siqueira Campos",437
 4281,Sulina,433
 4282,Tamarana,434
 4283,Tamboara,416
 4284,Tapejara,439
 4285,Tapira,415
-4286,Teixeira Soares,443
-4287,Telêmaco Borba,444
-4288,Terra Boa,425
-4289,Terra Rica,416
-4290,Terra Roxa,427
+4286,"Teixeira Soares",443
+4287,"Telêmaco Borba",444
+4288,"Terra Boa",425
+4289,"Terra Rica",416
+4290,"Terra Roxa",427
 4291,Tibagi,444
-4292,Tijucas do Sul,19
+4292,"Tijucas do Sul",19
 4293,Toledo,427
 4294,Tomazina,437
-4295,Três Barras do Paraná,120
-4296,Tunas do Paraná,413
-4297,Tuneiras do Oeste,439
+4295,"Três Barras do Paraná",555
+4296,"Tunas do Paraná",413
+4297,"Tuneiras do Oeste",439
 4298,Tupãssi,427
 4299,Turvo,435
 4300,Ubiratã,414
 4301,Umuarama,415
-4302,União da Vitória,430
+4302,"União da Vitória",430
 4303,Uniflor,419
 4304,Uraí,426
 4305,Ventania,444
-4306,Vera Cruz do Oeste,438
+4306,"Vera Cruz do Oeste",438
 4307,Verê,429
 4308,Virmond,435
 4309,Vitorino,433
-4310,Wenceslau Braz,437
+4310,"Wenceslau Braz",437
 4311,Xambrê,415
-4312,Abdon Batista,448
-4313,Abelardo Luz,449
+4312,"Abdon Batista",448
+4313,"Abelardo Luz",449
 4314,Agrolândia,450
 4315,Agronômica,451
-4316,Água Doce,452
-4317,Águas de Chapecó,453
-4318,Águas Frias,453
-4319,Águas Mornas,454
-4320,Alfredo Wagner,454
-4321,Alto Bela Vista,455
+4316,"Água Doce",452
+4317,"Águas de Chapecó",453
+4318,"Águas Frias",453
+4319,"Águas Mornas",454
+4320,"Alfredo Wagner",454
+4321,"Alto Bela Vista",455
 4322,Anchieta,456
 4323,Angelina,457
-4324,Anita Garibaldi,458
+4324,"Anita Garibaldi",458
 4325,Anitápolis,454
-4326,Antônio Carlos,459
+4326,"Antônio Carlos",459
 4327,Apiúna,460
 4328,Arabutã,455
 4329,Araquari,461
 4330,Araranguá,462
 4331,Armazém,463
-4332,Arroio Trinta,452
+4332,"Arroio Trinta",452
 4333,Arvoredo,455
 4334,Ascurra,460
 4335,Atalanta,450
 4336,Aurora,451
-4337,Balneário Arroio do Silva,462
-4338,Balneário Barra do Sul,461
-4339,Balneário Camboriú,464
-4340,Balneário Gaivota,462
-4341,Balneário Piçarras,464
-4342,Balneário Rincão,465
+4337,"Balneário Arroio do Silva",462
+4338,"Balneário Barra do Sul",461
+4339,"Balneário Camboriú",464
+4340,"Balneário Gaivota",462
+4341,"Balneário Piçarras",464
+4342,"Balneário Rincão",465
 4343,Bandeirante,456
-4344,Barra Bonita,456
-4345,Barra Velha,464
-4346,Bela Vista do Toldo,466
+4344,"Barra Bonita",456
+4345,"Barra Velha",464
+4346,"Bela Vista do Toldo",466
 4347,Belmonte,456
-4348,Benedito Novo,460
+4348,"Benedito Novo",460
 4349,Biguaçu,459
 4350,Blumenau,460
-4351,Bocaina do Sul,458
-4352,Bom Jardim da Serra,458
-4353,Bom Jesus,449
-4354,Bom Jesus do Oeste,453
-4355,Bom Retiro,458
+4351,"Bocaina do Sul",458
+4352,"Bom Jardim da Serra",458
+4353,"Bom Jesus",449
+4354,"Bom Jesus do Oeste",453
+4355,"Bom Retiro",458
 4356,Bombinhas,464
 4357,Botuverá,460
-4358,Braço do Norte,463
-4359,Braço do Trombudo,451
+4358,"Braço do Norte",463
+4359,"Braço do Trombudo",451
 4360,Brunópolis,448
 4361,Brusque,460
 4362,Caçador,452
 4363,Caibi,453
 4364,Calmon,452
 4365,Camboriú,464
-4366,Campo Alegre,467
-4367,Campo Belo do Sul,458
-4368,Campo Erê,453
-4369,Campos Novos,448
+4366,"Campo Alegre",467
+4367,"Campo Belo do Sul",458
+4368,"Campo Erê",453
+4369,"Campos Novos",448
 4370,Canelinha,457
 4371,Canoinhas,466
-4372,Capão Alto,458
+4372,"Capão Alto",458
 4373,Capinzal,452
-4374,Capivari de Baixo,463
+4374,"Capivari de Baixo",463
 4375,Catanduvas,452
-4376,Caxambu do Sul,453
-4377,Celso Ramos,458
-4378,Cerro Negro,458
-4379,Chapadão do Lageado,450
+4376,"Caxambu do Sul",453
+4377,"Celso Ramos",458
+4378,"Cerro Negro",458
+4379,"Chapadão do Lageado",450
 4380,Chapecó,453
-4381,Cocal do Sul,465
+4381,"Cocal do Sul",465
 4382,Concórdia,455
-4383,Cordilheira Alta,453
-4384,Coronel Freitas,453
-4385,Coronel Martins,449
-4386,Correia Pinto,458
+4383,"Cordilheira Alta",453
+4384,"Coronel Freitas",453
+4385,"Coronel Martins",449
+4386,"Correia Pinto",458
 4387,Corupá,461
 4388,Criciúma,465
-4389,Cunha Porã,453
+4389,"Cunha Porã",453
 4390,Cunhataí,453
 4391,Curitibanos,448
 4392,Descanso,456
-4393,Dionísio Cerqueira,456
-4394,Dona Emma,451
-4395,Doutor Pedrinho,460
-4396,Entre Rios,449
+4393,"Dionísio Cerqueira",456
+4394,"Dona Emma",451
+4395,"Doutor Pedrinho",460
+4396,"Entre Rios",449
 4397,Ermo,462
-4398,Erval Velho,452
-4399,Faxinal dos Guedes,449
-4400,Flor do Sertão,453
+4398,"Erval Velho",452
+4399,"Faxinal dos Guedes",449
+4400,"Flor do Sertão",453
 4401,Florianópolis,459
-4402,Formosa do Sul,453
+4402,"Formosa do Sul",453
 4403,Forquilhinha,465
 4404,Fraiburgo,452
-4405,Frei Rogério,448
+4405,"Frei Rogério",448
 4406,Galvão,449
 4407,Garopaba,463
 4408,Garuva,461
 4409,Gaspar,460
-4410,Governador Celso Ramos,459
-4411,Grão Pará,463
+4410,"Governador Celso Ramos",459
+4411,"Grão Pará",463
 4412,Gravatal,463
 4413,Guabiruba,460
 4414,Guaraciaba,456
 4415,Guaramirim,461
-4416,Guarujá do Sul,456
+4416,"Guarujá do Sul",456
 4417,Guatambú,453
-4418,Herval d'Oeste,452
+4418,"Herval d'Oeste",452
 4419,Ibiam,452
 4420,Ibicaré,452
 4421,Ibirama,451
@@ -4428,7 +4428,7 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 4427,Indaial,460
 4428,Iomerê,452
 4429,Ipira,455
-4430,Iporã do Oeste,456
+4430,"Iporã do Oeste",456
 4431,Ipuaçu,449
 4432,Ipumirim,455
 4433,Iraceminha,453
@@ -4443,270 +4443,270 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 4442,Itapoá,461
 4443,Ituporanga,450
 4444,Jaborá,452
-4445,Jacinto Machado,462
+4445,"Jacinto Machado",462
 4446,Jaguaruna,463
-4447,Jaraguá do Sul,461
+4447,"Jaraguá do Sul",461
 4448,Jardinópolis,453
 4449,Joaçaba,452
 4450,Joinville,461
-4451,José Boiteux,451
+4451,"José Boiteux",451
 4452,Jupiá,449
 4453,Lacerdópolis,452
 4454,Lages,458
 4455,Laguna,463
-4456,Lajeado Grande,449
+4456,"Lajeado Grande",449
 4457,Laurentino,451
-4458,Lauro Müller,465
-4459,Lebon Régis,452
-4460,Leoberto Leal,457
-4461,Lindóia do Sul,455
+4458,"Lauro Müller",465
+4459,"Lebon Régis",452
+4460,"Leoberto Leal",457
+4461,"Lindóia do Sul",455
 4462,Lontras,451
-4463,Luiz Alves,460
+4463,"Luiz Alves",460
 4464,Luzerna,452
 4465,Macieira,452
 4466,Mafra,466
-4467,Major Gercino,457
-4468,Major Vieira,466
+4467,"Major Gercino",457
+4468,"Major Vieira",466
 4469,Maracajá,462
 4470,Maravilha,453
 4471,Marema,449
 4472,Massaranduba,461
-4473,Matos Costa,452
+4473,"Matos Costa",452
 4474,Meleiro,462
-4475,Mirim Doce,451
+4475,"Mirim Doce",451
 4476,Modelo,453
 4477,Mondaí,456
-4478,Monte Carlo,448
-4479,Monte Castelo,466
-4480,Morro da Fumaça,465
-4481,Morro Grande,462
+4478,"Monte Carlo",448
+4479,"Monte Castelo",466
+4480,"Morro da Fumaça",465
+4481,"Morro Grande",462
 4482,Navegantes,464
-4483,Nova Erechim,453
-4484,Nova Itaberaba,453
-4485,Nova Trento,457
-4486,Nova Veneza,465
-4487,Novo Horizonte,453
+4483,"Nova Erechim",453
+4484,"Nova Itaberaba",453
+4485,"Nova Trento",457
+4486,"Nova Veneza",465
+4487,"Novo Horizonte",453
 4488,Orleans,463
-4489,Otacílio Costa,458
+4489,"Otacílio Costa",458
 4490,Ouro,452
-4491,Ouro Verde,449
+4491,"Ouro Verde",449
 4492,Paial,455
 4493,Painel,458
 4494,Palhoça,459
-4495,Palma Sola,456
+4495,"Palma Sola",456
 4496,Palmeira,458
 4497,Palmitos,453
 4498,Papanduva,466
 4499,Paraíso,456
-4500,Passo de Torres,462
-4501,Passos Maia,449
-4502,Paulo Lopes,459
-4503,Pedras Grandes,463
+4500,"Passo de Torres",462
+4501,"Passos Maia",449
+4502,"Paulo Lopes",459
+4503,"Pedras Grandes",463
 4504,Penha,464
 4505,Peritiba,455
-4506,Pescaria Brava,463
+4506,"Pescaria Brava",463
 4507,Petrolândia,450
 4508,Pinhalzinho,453
-4509,Pinheiro Preto,452
+4509,"Pinheiro Preto",452
 4510,Piratuba,455
-4511,Planalto Alegre,453
+4511,"Planalto Alegre",453
 4512,Pomerode,460
-4513,Ponte Alta,448
-4514,Ponte Alta do Norte,448
-4515,Ponte Serrada,449
-4516,Porto Belo,464
-4517,Porto União,466
-4518,Pouso Redondo,451
-4519,Praia Grande,462
-4520,Presidente Castello Branco,455
-4521,Presidente Getúlio,451
-4522,Presidente Nereu,451
+4513,"Ponte Alta",448
+4514,"Ponte Alta do Norte",448
+4515,"Ponte Serrada",449
+4516,"Porto Belo",464
+4517,"Porto União",466
+4518,"Pouso Redondo",451
+4519,"Praia Grande",462
+4520,"Presidente Castello Branco",455
+4521,"Presidente Getúlio",451
+4522,"Presidente Nereu",451
 4523,Princesa,456
 4524,Quilombo,453
-4525,Rancho Queimado,454
-4526,Rio das Antas,452
-4527,Rio do Campo,451
-4528,Rio do Oeste,451
-4529,Rio do Sul,451
-4530,Rio dos Cedros,460
-4531,Rio Fortuna,463
-4532,Rio Negrinho,467
-4533,Rio Rufino,458
+4525,"Rancho Queimado",454
+4526,"Rio das Antas",452
+4527,"Rio do Campo",451
+4528,"Rio do Oeste",451
+4529,"Rio do Sul",451
+4530,"Rio dos Cedros",460
+4531,"Rio Fortuna",463
+4532,"Rio Negrinho",467
+4533,"Rio Rufino",458
 4534,Riqueza,456
 4535,Rodeio,460
 4536,Romelândia,456
 4537,Salete,451
 4538,Saltinho,453
-4539,Salto Veloso,452
+4539,"Salto Veloso",452
 4540,Sangão,463
-4541,Santa Cecília,448
-4542,Santa Helena,456
-4543,Santa Rosa de Lima,463
-4544,Santa Rosa do Sul,462
-4545,Santa Terezinha,466
-4546,Santa Terezinha do Progresso,453
-4547,Santiago do Sul,453
-4548,Santo Amaro da Imperatriz,459
-4549,São Bento do Sul,467
-4550,São Bernardino,453
-4551,São Bonifácio,454
-4552,São Carlos,453
-4553,São Cristóvão do Sul,448
-4554,São Domingos,449
-4555,São Francisco do Sul,461
-4556,São João Batista,457
-4557,São João do Itaperiú,464
-4558,São João do Oeste,456
-4559,São João do Sul,462
-4560,São Joaquim,458
-4561,São José,459
-4562,São José do Cedro,456
-4563,São José do Cerrito,458
-4564,São Lourenço do Oeste,453
-4565,São Ludgero,463
-4566,São Martinho,463
-4567,São Miguel da Boa Vista,453
-4568,São Miguel do Oeste,456
-4569,São Pedro de Alcântara,459
+4541,"Santa Cecília",448
+4542,"Santa Helena",456
+4543,"Santa Rosa de Lima",463
+4544,"Santa Rosa do Sul",462
+4545,"Santa Terezinha",466
+4546,"Santa Terezinha do Progresso",453
+4547,"Santiago do Sul",453
+4548,"Santo Amaro da Imperatriz",459
+4549,"São Bento do Sul",467
+4550,"São Bernardino",453
+4551,"São Bonifácio",454
+4552,"São Carlos",453
+4553,"São Cristóvão do Sul",448
+4554,"São Domingos",449
+4555,"São Francisco do Sul",461
+4556,"São João Batista",457
+4557,"São João do Itaperiú",464
+4558,"São João do Oeste",456
+4559,"São João do Sul",462
+4560,"São Joaquim",458
+4561,"São José",459
+4562,"São José do Cedro",456
+4563,"São José do Cerrito",458
+4564,"São Lourenço do Oeste",453
+4565,"São Ludgero",463
+4566,"São Martinho",463
+4567,"São Miguel da Boa Vista",453
+4568,"São Miguel do Oeste",456
+4569,"São Pedro de Alcântara",459
 4570,Saudades,453
 4571,Schroeder,461
 4572,Seara,455
-4573,Serra Alta,453
+4573,"Serra Alta",453
 4574,Siderópolis,465
 4575,Sombrio,462
-4576,Sul Brasil,453
+4576,"Sul Brasil",453
 4577,Taió,451
 4578,Tangará,452
 4579,Tigrinhos,453
 4580,Tijucas,457
-4581,Timbé do Sul,462
+4581,"Timbé do Sul",462
 4582,Timbó,460
-4583,Timbó Grande,466
-4584,Três Barras,466
+4583,"Timbó Grande",466
+4584,"Três Barras",466
 4585,Treviso,465
-4586,Treze de Maio,463
-4587,Treze Tílias,452
-4588,Trombudo Central,451
+4586,"Treze de Maio",463
+4587,"Treze Tílias",452
+4588,"Trombudo Central",451
 4589,Tubarão,463
 4590,Tunápolis,456
 4591,Turvo,462
-4592,União do Oeste,453
+4592,"União do Oeste",453
 4593,Urubici,458
 4594,Urupema,458
 4595,Urussanga,465
 4596,Vargeão,449
 4597,Vargem,448
-4598,Vargem Bonita,452
-4599,Vidal Ramos,450
+4598,"Vargem Bonita",452
+4599,"Vidal Ramos",450
 4600,Videira,452
-4601,Vitor Meireles,451
+4601,"Vitor Meireles",451
 4602,Witmarsum,451
 4603,Xanxerê,449
 4604,Xavantina,455
 4605,Xaxim,449
 4606,Zortéa,448
 4607,Aceguá,468
-4608,Água Santa,469
+4608,"Água Santa",469
 4609,Agudo,470
 4610,Ajuricaba,471
 4611,Alecrim,472
 4612,Alegrete,473
 4613,Alegria,471
-4614,Almirante Tamandaré do Sul,474
+4614,"Almirante Tamandaré do Sul",474
 4615,Alpestre,475
-4616,Alto Alegre,476
-4617,Alto Feliz,477
+4616,"Alto Alegre",476
+4617,"Alto Feliz",477
 4618,Alvorada,478
-4619,Amaral Ferrador,479
-4620,Ametista do Sul,475
-4621,André da Rocha,480
-4622,Anta Gorda,480
-4623,Antônio Prado,481
+4619,"Amaral Ferrador",479
+4620,"Ametista do Sul",475
+4621,"André da Rocha",480
+4622,"Anta Gorda",480
+4623,"Antônio Prado",481
 4624,Arambaré,482
 4625,Araricá,478
 4626,Aratiba,483
-4627,Arroio do Meio,484
-4628,Arroio do Padre,485
-4629,Arroio do Sal,486
-4630,Arroio do Tigre,487
-4631,Arroio dos Ratos,488
-4632,Arroio Grande,489
+4627,"Arroio do Meio",484
+4628,"Arroio do Padre",485
+4629,"Arroio do Sal",486
+4630,"Arroio do Tigre",487
+4631,"Arroio dos Ratos",488
+4632,"Arroio Grande",489
 4633,Arvorezinha,480
-4634,Augusto Pestana,471
+4634,"Augusto Pestana",471
 4635,Áurea,483
 4636,Bagé,468
-4637,Balneário Pinhal,486
+4637,"Balneário Pinhal",486
 4638,Barão,477
-4639,Barão de Cotegipe,483
-4640,Barão do Triunfo,488
-4641,Barra do Guarita,490
-4642,Barra do Quaraí,473
-4643,Barra do Ribeiro,482
-4644,Barra do Rio Azul,483
-4645,Barra Funda,474
+4639,"Barão de Cotegipe",483
+4640,"Barão do Triunfo",488
+4641,"Barra do Guarita",490
+4642,"Barra do Quaraí",473
+4643,"Barra do Ribeiro",482
+4644,"Barra do Rio Azul",483
+4645,"Barra Funda",474
 4646,Barracão,491
-4647,Barros Cassal,492
-4648,Benjamin Constant do Sul,483
-4649,Bento Gonçalves,481
-4650,Boa Vista das Missões,474
-4651,Boa Vista do Buricá,490
-4652,Boa Vista do Cadeado,476
-4653,Boa Vista do Incra,476
-4654,Boa Vista do Sul,481
-4655,Bom Jesus,493
-4656,Bom Princípio,477
-4657,Bom Progresso,490
-4658,Bom Retiro do Sul,484
-4659,Boqueirão do Leão,484
+4647,"Barros Cassal",492
+4648,"Benjamin Constant do Sul",483
+4649,"Bento Gonçalves",481
+4650,"Boa Vista das Missões",474
+4651,"Boa Vista do Buricá",490
+4652,"Boa Vista do Cadeado",476
+4653,"Boa Vista do Incra",476
+4654,"Boa Vista do Sul",481
+4655,"Bom Jesus",493
+4656,"Bom Princípio",477
+4657,"Bom Progresso",490
+4658,"Bom Retiro do Sul",484
+4659,"Boqueirão do Leão",484
 4660,Bossoroca,494
 4661,Bozano,471
 4662,Braga,490
 4663,Brochier,477
 4664,Butiá,488
-4665,Caçapava do Sul,479
+4665,"Caçapava do Sul",479
 4666,Cacequi,495
-4667,Cachoeira do Sul,496
+4667,"Cachoeira do Sul",496
 4668,Cachoeirinha,478
-4669,Cacique Doble,491
+4669,"Cacique Doble",491
 4670,Caibaté,497
 4671,Caiçara,475
 4672,Camaquã,482
 4673,Camargo,469
-4674,Cambará do Sul,493
-4675,Campestre da Serra,493
-4676,Campina das Missões,497
-4677,Campinas do Sul,483
-4678,Campo Bom,478
-4679,Campo Novo,490
-4680,Campos Borges,476
+4674,"Cambará do Sul",493
+4675,"Campestre da Serra",493
+4676,"Campina das Missões",497
+4677,"Campinas do Sul",483
+4678,"Campo Bom",478
+4679,"Campo Novo",490
+4680,"Campos Borges",476
 4681,Candelária,487
-4682,Cândido Godói,472
+4682,"Cândido Godói",472
 4683,Candiota,479
 4684,Canela,498
 4685,Canguçu,485
 4686,Canoas,478
-4687,Canudos do Vale,484
-4688,Capão Bonito do Sul,493
-4689,Capão da Canoa,486
-4690,Capão do Cipó,499
-4691,Capão do Leão,485
-4692,Capela de Santana,477
+4687,"Canudos do Vale",484
+4688,"Capão Bonito do Sul",493
+4689,"Capão da Canoa",486
+4690,"Capão do Cipó",499
+4691,"Capão do Leão",485
+4692,"Capela de Santana",477
 4693,Capitão,484
-4694,Capivari do Sul,486
+4694,"Capivari do Sul",486
 4695,Caraá,486
 4696,Carazinho,474
-4697,Carlos Barbosa,481
-4698,Carlos Gomes,483
+4697,"Carlos Barbosa",481
+4698,"Carlos Gomes",483
 4699,Casca,469
 4700,Caseiros,469
 4701,Catuípe,494
-4702,Caxias do Sul,481
+4702,"Caxias do Sul",481
 4703,Centenário,483
 4704,Cerrito,485
-4705,Cerro Branco,496
-4706,Cerro Grande,474
-4707,Cerro Grande do Sul,482
-4708,Cerro Largo,497
+4705,"Cerro Branco",496
+4706,"Cerro Grande",474
+4707,"Cerro Grande do Sul",482
+4708,"Cerro Largo",497
 4709,Chapada,474
 4710,Charqueadas,488
 4711,Charrua,469
@@ -4719,86 +4719,86 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 4718,Colorado,501
 4719,Condor,471
 4720,Constantina,475
-4721,Coqueiro Baixo,484
-4722,Coqueiros do Sul,474
-4723,Coronel Barros,471
-4724,Coronel Bicaco,471
-4725,Coronel Pilar,481
+4721,"Coqueiro Baixo",484
+4722,"Coqueiros do Sul",474
+4723,"Coronel Barros",471
+4724,"Coronel Bicaco",471
+4725,"Coronel Pilar",481
 4726,Cotiporã,481
 4727,Coxilha,469
 4728,Crissiumal,490
 4729,Cristal,485
-4730,Cristal do Sul,475
-4731,Cruz Alta,476
+4730,"Cristal do Sul",475
+4731,"Cruz Alta",476
 4732,Cruzaltense,483
-4733,Cruzeiro do Sul,484
-4734,David Canabarro,469
+4733,"Cruzeiro do Sul",484
+4734,"David Canabarro",469
 4735,Derrubadas,490
-4736,Dezesseis de Novembro,494
-4737,Dilermando de Aguiar,495
-4738,Dois Irmãos,498
-4739,Dois Irmãos das Missões,475
-4740,Dois Lajeados,480
-4741,Dom Feliciano,482
-4742,Dom Pedrito,468
-4743,Dom Pedro de Alcântara,486
-4744,Dona Francisca,470
-4745,Doutor Maurício Cardoso,490
-4746,Doutor Ricardo,484
-4747,Eldorado do Sul,478
+4736,"Dezesseis de Novembro",494
+4737,"Dilermando de Aguiar",495
+4738,"Dois Irmãos",498
+4739,"Dois Irmãos das Missões",475
+4740,"Dois Lajeados",480
+4741,"Dom Feliciano",482
+4742,"Dom Pedrito",468
+4743,"Dom Pedro de Alcântara",486
+4744,"Dona Francisca",470
+4745,"Doutor Maurício Cardoso",490
+4746,"Doutor Ricardo",484
+4747,"Eldorado do Sul",478
 4748,Encantado,484
-4749,Encruzilhada do Sul,479
-4750,Engenho Velho,475
-4751,Entre Rios do Sul,483
+4749,"Encruzilhada do Sul",479
+4750,"Engenho Velho",475
+4751,"Entre Rios do Sul",483
 4752,Entre-Ijuís,494
 4753,Erebango,483
 4754,Erechim,483
 4755,Ernestina,469
-4756,Erval Grande,483
-4757,Erval Seco,475
+4756,"Erval Grande",483
+4757,"Erval Seco",475
 4758,Esmeralda,493
-4759,Esperança do Sul,490
+4759,"Esperança do Sul",490
 4760,Espumoso,476
 4761,Estação,483
-4762,Estância Velha,478
+4762,"Estância Velha",478
 4763,Esteio,478
 4764,Estrela,484
-4765,Estrela Velha,487
-4766,Eugênio de Castro,494
-4767,Fagundes Varela,481
+4765,"Estrela Velha",487
+4766,"Eugênio de Castro",494
+4767,"Fagundes Varela",481
 4768,Farroupilha,481
-4769,Faxinal do Soturno,470
+4769,"Faxinal do Soturno",470
 4770,Faxinalzinho,483
-4771,Fazenda Vilanova,484
+4771,"Fazenda Vilanova",484
 4772,Feliz,477
-4773,Flores da Cunha,481
-4774,Floriano Peixoto,483
-4775,Fontoura Xavier,492
+4773,"Flores da Cunha",481
+4774,"Floriano Peixoto",483
+4775,"Fontoura Xavier",492
 4776,Formigueiro,470
 4777,Forquetinha,484
-4778,Fortaleza dos Valos,476
-4779,Frederico Westphalen,475
+4778,"Fortaleza dos Valos",476
+4779,"Frederico Westphalen",475
 4780,Garibaldi,481
 4781,Garruchos,473
 4782,Gaurama,483
-4783,General Câmara,488
+4783,"General Câmara",488
 4784,Gentil,469
-4785,Getúlio Vargas,483
+4785,"Getúlio Vargas",483
 4786,Giruá,494
 4787,Glorinha,478
 4788,Gramado,498
-4789,Gramado dos Loureiros,475
-4790,Gramado Xavier,487
+4789,"Gramado dos Loureiros",475
+4790,"Gramado Xavier",487
 4791,Gravataí,478
 4792,Guabiju,480
 4793,Guaíba,478
 4794,Guaporé,480
-4795,Guarani das Missões,497
+4795,"Guarani das Missões",497
 4796,Harmonia,477
 4797,Herval,489
 4798,Herveiras,487
 4799,Horizontina,490
-4800,Hulha Negra,468
+4800,"Hulha Negra",468
 4801,Humaitá,490
 4802,Ibarama,487
 4803,Ibiaçá,491
@@ -4813,14 +4813,14 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 4812,Independência,472
 4813,Inhacorá,471
 4814,Ipê,493
-4815,Ipiranga do Sul,483
+4815,"Ipiranga do Sul",483
 4816,Iraí,475
 4817,Itaara,495
 4818,Itacurubi,499
 4819,Itapuca,480
 4820,Itaqui,473
 4821,Itati,486
-4822,Itatiba do Sul,483
+4822,"Itatiba do Sul",483
 4823,Ivorá,470
 4824,Ivoti,498
 4825,Jaboticaba,474
@@ -4831,214 +4831,214 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 4830,Jaquirana,493
 4831,Jari,499
 4832,Jóia,476
-4833,Júlio de Castilhos,499
-4834,Lagoa Bonita do Sul,487
-4835,Lagoa dos Três Cantos,501
-4836,Lagoa Vermelha,493
+4833,"Júlio de Castilhos",499
+4834,"Lagoa Bonita do Sul",487
+4835,"Lagoa dos Três Cantos",501
+4836,"Lagoa Vermelha",493
 4837,Lagoão,492
 4838,Lajeado,484
-4839,Lajeado do Bugre,474
-4840,Lavras do Sul,468
-4841,Liberato Salzano,475
-4842,Lindolfo Collor,498
-4843,Linha Nova,477
+4839,"Lajeado do Bugre",474
+4840,"Lavras do Sul",468
+4841,"Liberato Salzano",475
+4842,"Lindolfo Collor",498
+4843,"Linha Nova",477
 4844,Maçambará,473
 4845,Machadinho,491
 4846,Mampituba,486
-4847,Manoel Viana,473
+4847,"Manoel Viana",473
 4848,Maquiné,486
 4849,Maratá,477
 4850,Marau,469
-4851,Marcelino Ramos,483
-4852,Mariana Pimentel,478
-4853,Mariano Moro,483
-4854,Marques de Souza,484
+4851,"Marcelino Ramos",483
+4852,"Mariana Pimentel",478
+4853,"Mariano Moro",483
+4854,"Marques de Souza",484
 4855,Mata,495
-4856,Mato Castelhano,469
-4857,Mato Leitão,487
-4858,Mato Queimado,497
-4859,Maximiliano de Almeida,491
-4860,Minas do Leão,488
+4856,"Mato Castelhano",469
+4857,"Mato Leitão",487
+4858,"Mato Queimado",497
+4859,"Maximiliano de Almeida",491
+4860,"Minas do Leão",488
 4861,Miraguaí,490
 4862,Montauri,480
-4863,Monte Alegre dos Campos,493
-4864,Monte Belo do Sul,481
+4863,"Monte Alegre dos Campos",493
+4864,"Monte Belo do Sul",481
 4865,Montenegro,477
 4866,Mormaço,492
-4867,Morrinhos do Sul,486
-4868,Morro Redondo,485
-4869,Morro Reuter,498
+4867,"Morrinhos do Sul",486
+4868,"Morro Redondo",485
+4869,"Morro Reuter",498
 4870,Mostardas,486
 4871,Muçum,484
-4872,Muitos Capões,493
+4872,"Muitos Capões",493
 4873,Muliterno,469
 4874,Não-Me-Toque,501
-4875,Nicolau Vergueiro,469
+4875,"Nicolau Vergueiro",469
 4876,Nonoai,475
-4877,Nova Alvorada,480
-4878,Nova Araçá,480
-4879,Nova Bassano,480
-4880,Nova Boa Vista,474
-4881,Nova Bréscia,484
-4882,Nova Candelária,490
-4883,Nova Esperança do Sul,495
-4884,Nova Hartz,478
-4885,Nova Pádua,481
-4886,Nova Palma,470
-4887,Nova Petrópolis,498
-4888,Nova Prata,480
-4889,Nova Ramada,471
-4890,Nova Roma do Sul,481
-4891,Nova Santa Rita,478
-4892,Novo Barreiro,474
-4893,Novo Cabrais,496
-4894,Novo Hamburgo,478
-4895,Novo Machado,472
-4896,Novo Tiradentes,475
-4897,Novo Xingu,475
+4877,"Nova Alvorada",480
+4878,"Nova Araçá",480
+4879,"Nova Bassano",480
+4880,"Nova Boa Vista",474
+4881,"Nova Bréscia",484
+4882,"Nova Candelária",490
+4883,"Nova Esperança do Sul",495
+4884,"Nova Hartz",478
+4885,"Nova Pádua",481
+4886,"Nova Palma",470
+4887,"Nova Petrópolis",498
+4888,"Nova Prata",480
+4889,"Nova Ramada",471
+4890,"Nova Roma do Sul",481
+4891,"Nova Santa Rita",478
+4892,"Novo Barreiro",474
+4893,"Novo Cabrais",496
+4894,"Novo Hamburgo",478
+4895,"Novo Machado",472
+4896,"Novo Tiradentes",475
+4897,"Novo Xingu",475
 4898,Osório,486
-4899,Paim Filho,491
-4900,Palmares do Sul,486
-4901,Palmeira das Missões,474
+4899,"Paim Filho",491
+4900,"Palmares do Sul",486
+4901,"Palmeira das Missões",474
 4902,Palmitinho,475
 4903,Panambi,471
-4904,Pantano Grande,496
+4904,"Pantano Grande",496
 4905,Paraí,480
-4906,Paraíso do Sul,496
-4907,Pareci Novo,477
+4906,"Paraíso do Sul",496
+4907,"Pareci Novo",477
 4908,Parobé,478
-4909,Passa Sete,487
-4910,Passo do Sobrado,496
-4911,Passo Fundo,469
-4912,Paulo Bento,483
+4909,"Passa Sete",487
+4910,"Passo do Sobrado",496
+4911,"Passo Fundo",469
+4912,"Paulo Bento",483
 4913,Paverama,484
-4914,Pedras Altas,479
-4915,Pedro Osório,485
+4914,"Pedras Altas",479
+4915,"Pedro Osório",485
 4916,Pejuçara,471
 4917,Pelotas,485
-4918,Picada Café,498
+4918,"Picada Café",498
 4919,Pinhal,474
-4920,Pinhal da Serra,493
-4921,Pinhal Grande,499
-4922,Pinheirinho do Vale,475
-4923,Pinheiro Machado,479
-4924,Pinto Bandeira,481
+4920,"Pinhal da Serra",493
+4921,"Pinhal Grande",499
+4922,"Pinheirinho do Vale",475
+4923,"Pinheiro Machado",479
+4924,"Pinto Bandeira",481
 4925,Pirapó,494
 4926,Piratini,479
 4927,Planalto,475
-4928,Poço das Antas,477
+4928,"Poço das Antas",477
 4929,Pontão,469
-4930,Ponte Preta,483
+4930,"Ponte Preta",483
 4931,Portão,477
-4932,Porto Alegre,478
-4933,Porto Lucena,472
-4934,Porto Mauá,472
-4935,Porto Vera Cruz,472
-4936,Porto Xavier,497
-4937,Pouso Novo,484
-4938,Presidente Lucena,498
+4932,"Porto Alegre",478
+4933,"Porto Lucena",472
+4934,"Porto Mauá",472
+4935,"Porto Vera Cruz",472
+4936,"Porto Xavier",497
+4937,"Pouso Novo",484
+4938,"Presidente Lucena",498
 4939,Progresso,484
-4940,Protásio Alves,480
+4940,"Protásio Alves",480
 4941,Putinga,480
 4942,Quaraí,473
-4943,Quatro Irmãos,483
+4943,"Quatro Irmãos",483
 4944,Quevedos,499
-4945,Quinze de Novembro,476
+4945,"Quinze de Novembro",476
 4946,Redentora,490
 4947,Relvado,484
-4948,Restinga Sêca,470
-4949,Rio dos Índios,475
-4950,Rio Grande,500
-4951,Rio Pardo,496
+4948,"Restinga Sêca",470
+4949,"Rio dos Índios",475
+4950,"Rio Grande",500
+4951,"Rio Pardo",496
 4952,Riozinho,498
-4953,Roca Sales,484
-4954,Rodeio Bonito,475
+4953,"Roca Sales",484
+4954,"Rodeio Bonito",475
 4955,Rolador,494
 4956,Rolante,498
-4957,Ronda Alta,469
+4957,"Ronda Alta",469
 4958,Rondinha,475
-4959,Roque Gonzales,497
-4960,Rosário do Sul,502
-4961,Sagrada Família,474
-4962,Saldanha Marinho,476
-4963,Salto do Jacuí,476
-4964,Salvador das Missões,497
-4965,Salvador do Sul,477
+4959,"Roque Gonzales",497
+4960,"Rosário do Sul",502
+4961,"Sagrada Família",474
+4962,"Saldanha Marinho",476
+4963,"Salto do Jacuí",476
+4964,"Salvador das Missões",497
+4965,"Salvador do Sul",477
 4966,Sananduva,491
-4967,Santa Bárbara do Sul,476
-4968,Santa Cecília do Sul,469
-4969,Santa Clara do Sul,484
-4970,Santa Cruz do Sul,487
-4971,Santa Margarida do Sul,502
-4972,Santa Maria,495
-4973,Santa Maria do Herval,498
-4974,Santa Rosa,472
-4975,Santa Tereza,481
-4976,Santa Vitória do Palmar,500
-4977,Santana da Boa Vista,479
-4978,Sant'Ana do Livramento,502
+4967,"Santa Bárbara do Sul",476
+4968,"Santa Cecília do Sul",469
+4969,"Santa Clara do Sul",484
+4970,"Santa Cruz do Sul",487
+4971,"Santa Margarida do Sul",502
+4972,"Santa Maria",495
+4973,"Santa Maria do Herval",498
+4974,"Santa Rosa",472
+4975,"Santa Tereza",481
+4976,"Santa Vitória do Palmar",500
+4977,"Santana da Boa Vista",479
+4978,"Sant'Ana do Livramento",502
 4979,Santiago,499
-4980,Santo Ângelo,494
-4981,Santo Antônio da Patrulha,486
-4982,Santo Antônio das Missões,494
-4983,Santo Antônio do Palma,469
-4984,Santo Antônio do Planalto,474
-4985,Santo Augusto,471
-4986,Santo Cristo,472
-4987,Santo Expedito do Sul,491
-4988,São Borja,473
-4989,São Domingos do Sul,469
-4990,São Francisco de Assis,473
-4991,São Francisco de Paula,493
-4992,São Gabriel,502
-4993,São Jerônimo,488
-4994,São João da Urtiga,491
-4995,São João do Polêsine,470
-4996,São Jorge,480
-4997,São José das Missões,474
-4998,São José do Herval,492
-4999,São José do Hortêncio,477
-5000,São José do Inhacorá,472
-5001,São José do Norte,500
-5002,São José do Ouro,491
-5003,São José do Sul,477
-5004,São José dos Ausentes,493
-5005,São Leopoldo,478
-5006,São Lourenço do Sul,485
-5007,São Luiz Gonzaga,494
-5008,São Marcos,481
-5009,São Martinho,490
-5010,São Martinho da Serra,495
-5011,São Miguel das Missões,494
-5012,São Nicolau,494
-5013,São Paulo das Missões,497
-5014,São Pedro da Serra,477
-5015,São Pedro das Missões,474
-5016,São Pedro do Butiá,497
-5017,São Pedro do Sul,495
-5018,São Sebastião do Caí,477
-5019,São Sepé,495
-5020,São Valentim,483
-5021,São Valentim do Sul,480
-5022,São Valério do Sul,471
-5023,São Vendelino,477
-5024,São Vicente do Sul,495
+4980,"Santo Ângelo",494
+4981,"Santo Antônio da Patrulha",486
+4982,"Santo Antônio das Missões",494
+4983,"Santo Antônio do Palma",469
+4984,"Santo Antônio do Planalto",474
+4985,"Santo Augusto",471
+4986,"Santo Cristo",472
+4987,"Santo Expedito do Sul",491
+4988,"São Borja",473
+4989,"São Domingos do Sul",469
+4990,"São Francisco de Assis",473
+4991,"São Francisco de Paula",493
+4992,"São Gabriel",502
+4993,"São Jerônimo",488
+4994,"São João da Urtiga",491
+4995,"São João do Polêsine",470
+4996,"São Jorge",480
+4997,"São José das Missões",474
+4998,"São José do Herval",492
+4999,"São José do Hortêncio",477
+5000,"São José do Inhacorá",472
+5001,"São José do Norte",500
+5002,"São José do Ouro",491
+5003,"São José do Sul",477
+5004,"São José dos Ausentes",493
+5005,"São Leopoldo",478
+5006,"São Lourenço do Sul",485
+5007,"São Luiz Gonzaga",494
+5008,"São Marcos",481
+5009,"São Martinho",490
+5010,"São Martinho da Serra",495
+5011,"São Miguel das Missões",494
+5012,"São Nicolau",494
+5013,"São Paulo das Missões",497
+5014,"São Pedro da Serra",477
+5015,"São Pedro das Missões",474
+5016,"São Pedro do Butiá",497
+5017,"São Pedro do Sul",495
+5018,"São Sebastião do Caí",477
+5019,"São Sepé",495
+5020,"São Valentim",483
+5021,"São Valentim do Sul",480
+5022,"São Valério do Sul",471
+5023,"São Vendelino",477
+5024,"São Vicente do Sul",495
 5025,Sapiranga,478
-5026,Sapucaia do Sul,478
+5026,"Sapucaia do Sul",478
 5027,Sarandi,474
 5028,Seberi,475
-5029,Sede Nova,490
+5029,"Sede Nova",490
 5030,Segredo,487
 5031,Selbach,501
-5032,Senador Salgado Filho,494
-5033,Sentinela do Sul,482
-5034,Serafina Corrêa,480
+5032,"Senador Salgado Filho",494
+5033,"Sentinela do Sul",482
+5034,"Serafina Corrêa",480
 5035,Sério,484
 5036,Sertão,469
-5037,Sertão Santana,478
-5038,Sete de Setembro,497
-5039,Severiano de Almeida,483
-5040,Silveira Martins,470
+5037,"Sertão Santana",478
+5038,"Sete de Setembro",497
+5039,"Severiano de Almeida",483
+5040,"Silveira Martins",470
 5041,Sinimbu,487
 5042,Sobradinho,487
 5043,Soledade,492
@@ -5048,97 +5048,97 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 5047,Tapes,482
 5048,Taquara,498
 5049,Taquari,484
-5050,Taquaruçu do Sul,475
+5050,"Taquaruçu do Sul",475
 5051,Tavares,486
-5052,Tenente Portela,490
-5053,Terra de Areia,486
+5052,"Tenente Portela",490
+5053,"Terra de Areia",486
 5054,Teutônia,484
-5055,Tio Hugo,501
-5056,Tiradentes do Sul,490
+5055,"Tio Hugo",501
+5056,"Tiradentes do Sul",490
 5057,Toropi,495
 5058,Torres,486
 5059,Tramandaí,486
 5060,Travesseiro,484
-5061,Três Arroios,483
-5062,Três Cachoeiras,486
-5063,Três Coroas,498
-5064,Três de Maio,472
-5065,Três Forquilhas,486
-5066,Três Palmeiras,475
-5067,Três Passos,490
-5068,Trindade do Sul,475
+5061,"Três Arroios",483
+5062,"Três Cachoeiras",486
+5063,"Três Coroas",498
+5064,"Três de Maio",472
+5065,"Três Forquilhas",486
+5066,"Três Palmeiras",475
+5067,"Três Passos",490
+5068,"Trindade do Sul",475
 5069,Triunfo,488
 5070,Tucunduva,472
 5071,Tunas,492
-5072,Tupanci do Sul,491
+5072,"Tupanci do Sul",491
 5073,Tupanciretã,499
 5074,Tupandi,477
 5075,Tuparendi,472
 5076,Turuçu,485
 5077,Ubiretama,494
-5078,União da Serra,480
+5078,"União da Serra",480
 5079,Unistalda,499
 5080,Uruguaiana,473
 5081,Vacaria,493
-5082,Vale do Sol,487
-5083,Vale Real,477
-5084,Vale Verde,488
+5082,"Vale do Sol",487
+5083,"Vale Real",477
+5084,"Vale Verde",488
 5085,Vanini,469
-5086,Venâncio Aires,487
-5087,Vera Cruz,487
+5086,"Venâncio Aires",487
+5087,"Vera Cruz",487
 5088,Veranópolis,481
-5089,Vespasiano Corrêa,484
+5089,"Vespasiano Corrêa",484
 5090,Viadutos,483
 5091,Viamão,478
-5092,Vicente Dutra,475
-5093,Victor Graeff,501
-5094,Vila Flores,481
-5095,Vila Lângaro,469
-5096,Vila Maria,469
-5097,Vila Nova do Sul,495
-5098,Vista Alegre,475
-5099,Vista Alegre do Prata,480
-5100,Vista Gaúcha,490
-5101,Vitória das Missões,494
+5092,"Vicente Dutra",475
+5093,"Victor Graeff",501
+5094,"Vila Flores",481
+5095,"Vila Lângaro",469
+5096,"Vila Maria",469
+5097,"Vila Nova do Sul",495
+5098,"Vista Alegre",475
+5099,"Vista Alegre do Prata",480
+5100,"Vista Gaúcha",490
+5101,"Vitória das Missões",494
 5102,Westfália,484
 5103,Xangri-lá,486
-5104,Água Clara,503
+5104,"Água Clara",503
 5105,Alcinópolis,504
 5106,Amambai,505
 5107,Anastácio,506
 5108,Anaurilândia,507
 5109,Angélica,508
-5110,Antônio João,505
-5111,Aparecida do Taboado,509
+5110,"Antônio João",505
+5111,"Aparecida do Taboado",509
 5112,Aquidauana,506
-5113,Aral Moreira,505
+5113,"Aral Moreira",505
 5114,Bandeirantes,510
 5115,Bataguassu,507
 5116,Batayporã,507
-5117,Bela Vista,511
+5117,"Bela Vista",511
 5118,Bodoquena,511
 5119,Bonito,511
 5120,Brasilândia,503
 5121,Caarapó,505
 5122,Camapuã,504
-5123,Campo Grande,510
+5123,"Campo Grande",510
 5124,Caracol,511
 5125,Cassilândia,512
-5126,Chapadão do Sul,512
+5126,"Chapadão do Sul",512
 5127,Corguinho,510
-5128,Coronel Sapucaia,508
+5128,"Coronel Sapucaia",508
 5129,Corumbá,513
-5130,Costa Rica,512
+5130,"Costa Rica",512
 5131,Coxim,504
 5132,Deodápolis,508
-5133,Dois Irmãos do Buriti,506
+5133,"Dois Irmãos do Buriti",506
 5134,Douradina,505
 5135,Dourados,505
 5136,Eldorado,508
-5137,Fátima do Sul,505
+5137,"Fátima do Sul",505
 5138,Figueirão,504
-5139,Glória de Dourados,508
-5140,Guia Lopes da Laguna,511
+5139,"Glória de Dourados",508
+5140,"Guia Lopes da Laguna",511
 5141,Iguatemi,508
 5142,Inocência,509
 5143,Itaporã,505
@@ -5150,88 +5150,88 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 5149,Jateí,508
 5150,Juti,505
 5151,Ladário,513
-5152,Laguna Carapã,505
+5152,"Laguna Carapã",505
 5153,Maracaju,505
 5154,Miranda,506
-5155,Mundo Novo,508
+5155,"Mundo Novo",508
 5156,Naviraí,508
 5157,Nioaque,511
-5158,Nova Alvorada do Sul,505
-5159,Nova Andradina,507
-5160,Novo Horizonte do Sul,508
-5161,Paraíso das Águas,512
+5158,"Nova Alvorada do Sul",505
+5159,"Nova Andradina",507
+5160,"Novo Horizonte do Sul",508
+5161,"Paraíso das Águas",512
 5162,Paranaíba,509
 5163,Paranhos,508
-5164,Pedro Gomes,504
-5165,Ponta Porã,505
-5166,Porto Murtinho,513
-5167,Ribas do Rio Pardo,503
-5168,Rio Brilhante,505
-5169,Rio Negro,510
-5170,Rio Verde de Mato Grosso,504
+5164,"Pedro Gomes",504
+5165,"Ponta Porã",505
+5166,"Porto Murtinho",513
+5167,"Ribas do Rio Pardo",503
+5168,"Rio Brilhante",505
+5169,"Rio Negro",510
+5170,"Rio Verde de Mato Grosso",504
 5171,Rochedo,510
-5172,Santa Rita do Pardo,503
-5173,São Gabriel do Oeste,504
+5172,"Santa Rita do Pardo",503
+5173,"São Gabriel do Oeste",504
 5174,Selvíria,509
-5175,Sete Quedas,508
+5175,"Sete Quedas",508
 5176,Sidrolândia,510
 5177,Sonora,504
 5178,Tacuru,508
 5179,Taquarussu,507
 5180,Terenos,510
-5181,Três Lagoas,503
+5181,"Três Lagoas",503
 5182,Vicentina,505
 5183,Acorizal,514
-5184,Água Boa,515
-5185,Alta Floresta,516
-5186,Alto Araguaia,517
-5187,Alto Boa Vista,518
-5188,Alto Garças,517
-5189,Alto Paraguai,519
-5190,Alto Taquari,517
+5184,"Água Boa",515
+5185,"Alta Floresta",516
+5186,"Alto Araguaia",517
+5187,"Alto Boa Vista",518
+5188,"Alto Garças",517
+5189,"Alto Paraguai",519
+5190,"Alto Taquari",517
 5191,Apiacás,516
 5192,Araguaiana,520
 5193,Araguainha,521
 5194,Araputanga,522
 5195,Arenápolis,519
 5196,Aripuanã,523
-5197,Barão de Melgaço,524
-5198,Barra do Bugres,525
-5199,Barra do Garças,520
-5200,Bom Jesus do Araguaia,518
+5197,"Barão de Melgaço",524
+5198,"Barra do Bugres",525
+5199,"Barra do Garças",520
+5200,"Bom Jesus do Araguaia",518
 5201,Brasnorte,523
 5202,Cáceres,524
 5203,Campinápolis,515
-5204,Campo Novo do Parecis,526
-5205,Campo Verde,527
-5206,Campos de Júlio,526
-5207,Canabrava do Norte,518
+5204,"Campo Novo do Parecis",526
+5205,"Campo Verde",527
+5206,"Campos de Júlio",526
+5207,"Canabrava do Norte",518
 5208,Canarana,515
 5209,Carlinda,516
 5210,Castanheira,523
-5211,Chapada dos Guimarães,528
+5211,"Chapada dos Guimarães",528
 5212,Cláudia,529
 5213,Cocalinho,520
 5214,Colíder,530
 5215,Colniza,523
 5216,Comodoro,526
 5217,Confresa,518
-5218,Conquista D'Oeste,531
+5218,"Conquista D'Oeste",531
 5219,Cotriguaçu,523
 5220,Cuiabá,528
 5221,Curvelândia,524
 5222,Denise,525
 5223,Diamantino,526
-5224,Dom Aquino,532
-5225,Feliz Natal,529
-5226,Figueirópolis D'Oeste,522
-5227,Gaúcha do Norte,533
-5228,General Carneiro,521
-5229,Glória D'Oeste,522
-5230,Guarantã do Norte,530
+5224,"Dom Aquino",532
+5225,"Feliz Natal",529
+5226,"Figueirópolis D'Oeste",522
+5227,"Gaúcha do Norte",533
+5228,"General Carneiro",521
+5229,"Glória D'Oeste",522
+5230,"Guarantã do Norte",530
 5231,Guiratinga,521
 5232,Indiavaí,522
-5233,Ipiranga do Norte,534
+5233,"Ipiranga do Norte",534
 5234,Itanhangá,534
 5235,Itaúba,529
 5236,Itiquira,532
@@ -5242,106 +5242,106 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 5241,Juína,523
 5242,Juruena,523
 5243,Juscimeira,532
-5244,Lambari D'Oeste,522
-5245,Lucas do Rio Verde,534
+5244,"Lambari D'Oeste",522
+5245,"Lucas do Rio Verde",534
 5246,Luciara,518
 5247,Marcelândia,529
 5248,Matupá,530
-5249,Mirassol d'Oeste,522
+5249,"Mirassol d'Oeste",522
 5250,Nobres,534
 5251,Nortelândia,519
-5252,Nossa Senhora do Livramento,528
-5253,Nova Bandeirantes,516
-5254,Nova Brasilândia,533
-5255,Nova Canaã do Norte,530
-5256,Nova Guarita,530
-5257,Nova Lacerda,531
-5258,Nova Marilândia,519
-5259,Nova Maringá,535
-5260,Nova Monte Verde,516
-5261,Nova Mutum,534
-5262,Nova Nazaré,515
-5263,Nova Olímpia,525
-5264,Nova Santa Helena,529
-5265,Nova Ubiratã,534
-5266,Nova Xavantina,515
-5267,Novo Horizonte do Norte,535
-5268,Novo Mundo,530
-5269,Novo Santo Antônio,518
-5270,Novo São Joaquim,515
+5252,"Nossa Senhora do Livramento",528
+5253,"Nova Bandeirantes",516
+5254,"Nova Brasilândia",533
+5255,"Nova Canaã do Norte",530
+5256,"Nova Guarita",530
+5257,"Nova Lacerda",531
+5258,"Nova Marilândia",519
+5259,"Nova Maringá",535
+5260,"Nova Monte Verde",516
+5261,"Nova Mutum",534
+5262,"Nova Nazaré",515
+5263,"Nova Olímpia",525
+5264,"Nova Santa Helena",529
+5265,"Nova Ubiratã",534
+5266,"Nova Xavantina",515
+5267,"Novo Horizonte do Norte",535
+5268,"Novo Mundo",530
+5269,"Novo Santo Antônio",518
+5270,"Novo São Joaquim",515
 5271,Paranaíta,516
 5272,Paranatinga,533
-5273,Pedra Preta,532
-5274,Peixoto de Azevedo,530
-5275,Planalto da Serra,533
+5273,"Pedra Preta",532
+5274,"Peixoto de Azevedo",530
+5275,"Planalto da Serra",533
 5276,Poconé,524
-5277,Pontal do Araguaia,521
-5278,Ponte Branca,521
-5279,Pontes e Lacerda,531
-5280,Porto Alegre do Norte,518
-5281,Porto dos Gaúchos,535
-5282,Porto Esperidião,522
-5283,Porto Estrela,525
+5277,"Pontal do Araguaia",521
+5278,"Ponte Branca",521
+5279,"Pontes e Lacerda",531
+5280,"Porto Alegre do Norte",518
+5281,"Porto dos Gaúchos",535
+5282,"Porto Esperidião",522
+5283,"Porto Estrela",525
 5284,Poxoréu,521
-5285,Primavera do Leste,527
+5285,"Primavera do Leste",527
 5286,Querência,515
-5287,Reserva do Cabaçal,522
-5288,Ribeirão Cascalheira,518
+5287,"Reserva do Cabaçal",522
+5288,"Ribeirão Cascalheira",518
 5289,Ribeirãozinho,521
-5290,Rio Branco,522
+5290,"Rio Branco",522
 5291,Rondolândia,523
 5292,Rondonópolis,532
-5293,Rosário Oeste,514
-5294,Salto do Céu,522
-5295,Santa Carmem,529
-5296,Santa Cruz do Xingu,518
-5297,Santa Rita do Trivelato,534
-5298,Santa Terezinha,518
-5299,Santo Afonso,519
-5300,Santo Antônio do Leste,515
-5301,Santo Antônio do Leverger,528
-5302,São Félix do Araguaia,518
-5303,São José do Povo,532
-5304,São José do Rio Claro,535
-5305,São José do Xingu,518
-5306,São José dos Quatro Marcos,522
-5307,São Pedro da Cipa,532
+5293,"Rosário Oeste",514
+5294,"Salto do Céu",522
+5295,"Santa Carmem",529
+5296,"Santa Cruz do Xingu",518
+5297,"Santa Rita do Trivelato",534
+5298,"Santa Terezinha",518
+5299,"Santo Afonso",519
+5300,"Santo Antônio do Leste",515
+5301,"Santo Antônio do Leverger",528
+5302,"São Félix do Araguaia",518
+5303,"São José do Povo",532
+5304,"São José do Rio Claro",535
+5305,"São José do Xingu",518
+5306,"São José dos Quatro Marcos",522
+5307,"São Pedro da Cipa",532
 5308,Sapezal,526
-5309,Serra Nova Dourada,518
+5309,"Serra Nova Dourada",518
 5310,Sinop,529
 5311,Sorriso,534
 5312,Tabaporã,535
-5313,Tangará da Serra,525
+5313,"Tangará da Serra",525
 5314,Tapurah,534
-5315,Terra Nova do Norte,530
+5315,"Terra Nova do Norte",530
 5316,Tesouro,521
 5317,Torixoréu,521
-5318,União do Sul,529
-5319,Vale de São Domingos,531
-5320,Várzea Grande,528
+5318,"União do Sul",529
+5319,"Vale de São Domingos",531
+5320,"Várzea Grande",528
 5321,Vera,529
-5322,Vila Bela da Santíssima Trindade,531
-5323,Vila Rica,518
-5324,Abadia de Goiás,536
+5322,"Vila Bela da Santíssima Trindade",531
+5323,"Vila Rica",518
+5324,"Abadia de Goiás",536
 5325,Abadiânia,537
 5326,Acreúna,538
 5327,Adelândia,539
-5328,Água Fria de Goiás,537
-5329,Água Limpa,540
-5330,Águas Lindas de Goiás,537
+5328,"Água Fria de Goiás",537
+5329,"Água Limpa",540
+5330,"Águas Lindas de Goiás",537
 5331,Alexânia,537
 5332,Aloândia,540
-5333,Alto Horizonte,541
-5334,Alto Paraíso de Goiás,542
-5335,Alvorada do Norte,543
+5333,"Alto Horizonte",541
+5334,"Alto Paraíso de Goiás",542
+5335,"Alvorada do Norte",543
 5336,Amaralina,541
-5337,Americano do Brasil,539
+5337,"Americano do Brasil",539
 5338,Amorinópolis,544
 5339,Anápolis,545
 5340,Anhanguera,546
 5341,Anicuns,539
-5342,Aparecida de Goiânia,536
-5343,Aparecida do Rio Doce,547
+5342,"Aparecida de Goiânia",536
+5343,"Aparecida do Rio Doce",547
 5344,Aporé,547
 5345,Araçu,545
 5346,Aragarças,548
@@ -5352,45 +5352,45 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 5351,Aurilândia,539
 5352,Avelinópolis,539
 5353,Baliza,548
-5354,Barro Alto,550
-5355,Bela Vista de Goiás,536
-5356,Bom Jardim de Goiás,548
-5357,Bom Jesus de Goiás,540
+5354,"Barro Alto",550
+5355,"Bela Vista de Goiás",536
+5356,"Bom Jardim de Goiás",548
+5357,"Bom Jesus de Goiás",540
 5358,Bonfinópolis,536
 5359,Bonópolis,541
 5360,Brazabrantes,545
 5361,Britânia,549
-5362,Buriti Alegre,540
-5363,Buriti de Goiás,539
+5362,"Buriti Alegre",540
+5363,"Buriti de Goiás",539
 5364,Buritinópolis,543
 5365,Cabeceiras,537
-5366,Cachoeira Alta,551
-5367,Cachoeira de Goiás,544
-5368,Cachoeira Dourada,540
+5366,"Cachoeira Alta",551
+5367,"Cachoeira de Goiás",544
+5368,"Cachoeira Dourada",540
 5369,Caçu,551
 5370,Caiapônia,547
-5371,Caldas Novas,540
+5371,"Caldas Novas",540
 5372,Caldazinha,536
-5373,Campestre de Goiás,538
+5373,"Campestre de Goiás",538
 5374,Campinaçu,541
 5375,Campinorte,541
-5376,Campo Alegre de Goiás,546
-5377,Campo Limpo de Goiás,545
-5378,Campos Belos,542
-5379,Campos Verdes,541
-5380,Carmo do Rio Verde,550
+5376,"Campo Alegre de Goiás",546
+5377,"Campo Limpo de Goiás",545
+5378,"Campos Belos",542
+5379,"Campos Verdes",541
+5380,"Carmo do Rio Verde",550
 5381,Castelândia,547
 5382,Catalão,546
 5383,Caturaí,545
 5384,Cavalcante,542
 5385,Ceres,550
 5386,Cezarina,538
-5387,Chapadão do Céu,547
-5388,Cidade Ocidental,537
-5389,Cocalzinho de Goiás,537
-5390,Colinas do Sul,542
-5391,Córrego do Ouro,544
-5392,Corumbá de Goiás,537
+5387,"Chapadão do Céu",547
+5388,"Cidade Ocidental",537
+5389,"Cocalzinho de Goiás",537
+5390,"Colinas do Sul",542
+5391,"Córrego do Ouro",544
+5392,"Corumbá de Goiás",537
 5393,Corumbaíba,546
 5394,Cristalina,537
 5395,Cristianópolis,552
@@ -5401,18 +5401,18 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 5400,Damolândia,545
 5401,Davinópolis,546
 5402,Diorama,548
-5403,Divinópolis de Goiás,543
+5403,"Divinópolis de Goiás",543
 5404,Doverlândia,547
 5405,Edealina,538
 5406,Edéia,538
-5407,Estrela do Norte,541
+5407,"Estrela do Norte",541
 5408,Faina,549
-5409,Fazenda Nova,544
+5409,"Fazenda Nova",544
 5410,Firminópolis,539
-5411,Flores de Goiás,543
+5411,"Flores de Goiás",543
 5412,Formosa,537
 5413,Formoso,541
-5414,Gameleira de Goiás,552
+5414,"Gameleira de Goiás",552
 5415,Goianápolis,536
 5416,Goiandira,546
 5417,Goianésia,550
@@ -5423,7 +5423,7 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 5422,Gouvelândia,551
 5423,Guapó,536
 5424,Guaraíta,550
-5425,Guarani de Goiás,543
+5425,"Guarani de Goiás",543
 5426,Guarinos,550
 5427,Heitoraí,545
 5428,Hidrolândia,536
@@ -5433,7 +5433,7 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 5432,Indiara,538
 5433,Inhumas,545
 5434,Ipameri,546
-5435,Ipiranga de Goiás,550
+5435,"Ipiranga de Goiás",550
 5436,Iporá,544
 5437,Israelândia,544
 5438,Itaberaí,545
@@ -5454,106 +5454,106 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 5453,Jesúpolis,545
 5454,Joviânia,540
 5455,Jussara,549
-5456,Lagoa Santa,551
-5457,Leopoldo de Bulhões,536
+5456,"Lagoa Santa",551
+5457,"Leopoldo de Bulhões",536
 5458,Luziânia,537
 5459,Mairipotaba,540
 5460,Mambaí,543
-5461,Mara Rosa,541
+5461,"Mara Rosa",541
 5462,Marzagão,540
 5463,Matrinchã,549
 5464,Maurilândia,547
-5465,Mimoso de Goiás,537
+5465,"Mimoso de Goiás",537
 5466,Minaçu,541
 5467,Mineiros,547
 5468,Moiporá,544
-5469,Monte Alegre de Goiás,542
-5470,Montes Claros de Goiás,548
+5469,"Monte Alegre de Goiás",542
+5470,"Montes Claros de Goiás",548
 5471,Montividiu,547
-5472,Montividiu do Norte,541
+5472,"Montividiu do Norte",541
 5473,Morrinhos,540
-5474,Morro Agudo de Goiás,550
+5474,"Morro Agudo de Goiás",550
 5475,Mossâmedes,539
 5476,Mozarlândia,553
-5477,Mundo Novo,553
+5477,"Mundo Novo",553
 5478,Mutunópolis,541
 5479,Nazário,539
 5480,Nerópolis,536
 5481,Niquelândia,541
-5482,Nova América,550
-5483,Nova Aurora,546
-5484,Nova Crixás,553
-5485,Nova Glória,550
-5486,Nova Iguaçu de Goiás,541
-5487,Nova Roma,542
-5488,Nova Veneza,545
-5489,Novo Brasil,544
-5490,Novo Gama,537
-5491,Novo Planalto,553
+5482,"Nova América",550
+5483,"Nova Aurora",546
+5484,"Nova Crixás",553
+5485,"Nova Glória",550
+5486,"Nova Iguaçu de Goiás",541
+5487,"Nova Roma",542
+5488,"Nova Veneza",545
+5489,"Novo Brasil",544
+5490,"Novo Gama",537
+5491,"Novo Planalto",553
 5492,Orizona,552
-5493,Ouro Verde de Goiás,545
+5493,"Ouro Verde de Goiás",545
 5494,Ouvidor,546
-5495,Padre Bernardo,537
-5496,Palestina de Goiás,547
-5497,Palmeiras de Goiás,538
+5495,"Padre Bernardo",537
+5496,"Palestina de Goiás",547
+5497,"Palmeiras de Goiás",538
 5498,Palmelo,552
 5499,Palminópolis,538
 5500,Panamá,540
 5501,Paranaiguara,551
 5502,Paraúna,538
 5503,Perolândia,547
-5504,Petrolina de Goiás,545
-5505,Pilar de Goiás,550
+5504,"Petrolina de Goiás",545
+5505,"Pilar de Goiás",550
 5506,Piracanjuba,540
 5507,Piranhas,548
 5508,Pirenópolis,537
-5509,Pires do Rio,552
+5509,"Pires do Rio",552
 5510,Planaltina,537
 5511,Pontalina,540
 5512,Porangatu,541
 5513,Porteirão,540
 5514,Portelândia,547
 5515,Posse,543
-5516,Professor Jamil,540
+5516,"Professor Jamil",540
 5517,Quirinópolis,551
 5518,Rialma,550
 5519,Rianápolis,550
-5520,Rio Quente,540
-5521,Rio Verde,547
+5520,"Rio Quente",540
+5521,"Rio Verde",547
 5522,Rubiataba,550
 5523,Sanclerlândia,539
-5524,Santa Bárbara de Goiás,539
-5525,Santa Cruz de Goiás,552
-5526,Santa Fé de Goiás,549
-5527,Santa Helena de Goiás,547
-5528,Santa Isabel,550
-5529,Santa Rita do Araguaia,547
-5530,Santa Rita do Novo Destino,550
-5531,Santa Rosa de Goiás,545
-5532,Santa Tereza de Goiás,541
-5533,Santa Terezinha de Goiás,541
-5534,Santo Antônio da Barra,547
-5535,Santo Antônio de Goiás,536
-5536,Santo Antônio do Descoberto,537
-5537,São Domingos,543
-5538,São Francisco de Goiás,545
-5539,São João da Paraúna,538
-5540,São João d'Aliança,542
-5541,São Luís de Montes Belos,539
-5542,São Luiz do Norte,550
-5543,São Miguel do Araguaia,553
-5544,São Miguel do Passa Quatro,552
-5545,São Patrício,550
-5546,São Simão,551
-5547,Senador Canedo,536
+5524,"Santa Bárbara de Goiás",539
+5525,"Santa Cruz de Goiás",552
+5526,"Santa Fé de Goiás",549
+5527,"Santa Helena de Goiás",547
+5528,"Santa Isabel",550
+5529,"Santa Rita do Araguaia",547
+5530,"Santa Rita do Novo Destino",550
+5531,"Santa Rosa de Goiás",545
+5532,"Santa Tereza de Goiás",541
+5533,"Santa Terezinha de Goiás",541
+5534,"Santo Antônio da Barra",547
+5535,"Santo Antônio de Goiás",536
+5536,"Santo Antônio do Descoberto",537
+5537,"São Domingos",543
+5538,"São Francisco de Goiás",545
+5539,"São João da Paraúna",538
+5540,"São João d'Aliança",542
+5541,"São Luís de Montes Belos",539
+5542,"São Luiz do Norte",550
+5543,"São Miguel do Araguaia",553
+5544,"São Miguel do Passa Quatro",552
+5545,"São Patrício",550
+5546,"São Simão",551
+5547,"Senador Canedo",536
 5548,Serranópolis,547
 5549,Silvânia,552
 5550,Simolândia,543
-5551,Sítio d'Abadia,543
-5552,Taquaral de Goiás,545
-5553,Teresina de Goiás,542
-5554,Terezópolis de Goiás,536
-5555,Três Ranchos,546
+5551,"Sítio d'Abadia",543
+5552,"Taquaral de Goiás",545
+5553,"Teresina de Goiás",542
+5554,"Terezópolis de Goiás",536
+5555,"Três Ranchos",546
 5556,Trindade,536
 5557,Trombas,541
 5558,Turvânia,539
@@ -5562,10 +5562,10 @@ Municipio_ID,Municipios_Nome,Microrregiao_ID
 5561,Uruaçu,541
 5562,Uruana,550
 5563,Urutaí,552
-5564,Valparaíso de Goiás,537
+5564,"Valparaíso de Goiás",537
 5565,Varjão,538
 5566,Vianópolis,552
 5567,Vicentinópolis,540
-5568,Vila Boa,537
-5569,Vila Propício,537
+5568,"Vila Boa",537
+5569,"Vila Propício",537
 5570,Brasília,554
