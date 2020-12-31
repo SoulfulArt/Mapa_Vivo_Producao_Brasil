@@ -18,9 +18,10 @@ from pymysql import connect
 
 password = getpass("Type password:\n")
 host = input("Type domain:\n")
+userName = input("Type user:")
 
 #Connecting to mysql server
-myCon = connect(user = 'paulRoot', port = 3306, password = password,\
+myCon = connect(user = userName, port = 3306, password = password,\
 host = host, database = "BRAZILDS", local_infile = True)
 
 #sqlCMD will execute querries
@@ -125,7 +126,8 @@ for file in listdir():
 		#Print municipios that were not found
 		if len (failMun) > 0:
 			print(file+" some municipios not found check failedMun.txt")
-
+			
+			failMun = list(dict.fromkeys(failMun)) #remove duplicates
 			with open('failedMun.txt', 'w') as writer:
 				for i in failMun:				
 					writer.write(file+":"+i+"\n")
