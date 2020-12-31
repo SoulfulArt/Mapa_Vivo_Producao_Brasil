@@ -18,7 +18,7 @@ from pymysql import connect
 
 password = getpass("Type password:\n")
 host = input("Type domain:\n")
-userName = input("Type user:")
+userName = input("Type user:\n")
 
 #Connecting to mysql server
 myCon = connect(user = userName, port = 3306, password = password,\
