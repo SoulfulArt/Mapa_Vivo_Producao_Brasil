@@ -33,14 +33,13 @@ def testRendimento (df):
 	return True
 
 
-'''
 password = getpass("Type password:\n")
 host = input("Type domain:\n")
-userName = input("Type user:\n")'''	
+userName = input("Type user:\n")	
 
 #Connecting to mysql server
-myCon = connect(user = 'paulRoot', port = 3306, password = 'mGsWbcNArg8Ax8A',\
-host = 'dsprojects.cl3tw5hr3lz9.sa-east-1.rds.amazonaws.com', database = "BRAZILDS", local_infile = True)
+myCon = connect(user = userName, port = 3306, password = password,\
+host = host, database = "BRAZILDS", local_infile = True)
 
 #sqlCMD will execute querries
 sqlCMD = myCon.cursor()
@@ -161,7 +160,7 @@ for file in listdir():
 		
 			df_SQL.to_csv('Prod_Municipal.csv', index = False,\
 			header = False, mode = 'a')
-			#sqlCMD.execute(loadCSV)
+			sqlCMD.execute(loadCSV)
 			print(myCon.show_warnings())
 			myCon.commit()
 
