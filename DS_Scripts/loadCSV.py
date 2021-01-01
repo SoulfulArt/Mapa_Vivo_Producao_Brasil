@@ -16,13 +16,31 @@ from pandas import DataFrame
 from getpass import getpass
 from pymysql import connect
 
+#script functions
+
+#This functions verifies if Rendimento = Produçao*1000/Area which is a constraint
+#of this dataset
+def testRendimento (df):
+
+	delta = 1e-6
+
+	trueTable = abs(df["Producao"].astype(float)/df["Area"].astype(float)\
+		   - df["Rendimento"].astype(float) / 1000) < delta
+
+	for k in trueTable:
+		if k == False:	return False
+	
+	return True
+
+
+'''
 password = getpass("Type password:\n")
 host = input("Type domain:\n")
-userName = input("Type user:\n")
+userName = input("Type user:\n")'''	
 
 #Connecting to mysql server
-myCon = connect(user = userName, port = 3306, password = password,\
-host = host, database = "BRAZILDS", local_infile = True)
+myCon = connect(user = 'paulRoot', port = 3306, password = 'mGsWbcNArg8Ax8A',\
+host = 'dsprojects.cl3tw5hr3lz9.sa-east-1.rds.amazonaws.com', database = "BRAZILDS", local_infile = True)
 
 #sqlCMD will execute querries
 sqlCMD = myCon.cursor()
@@ -72,6 +90,9 @@ if path.exists("failedMun.txt"):
 if path.exists("Prod_Municipal.csv"):
 	remove("Prod_Municipal.csv") #remove failedMun if exists
 
+if path.exists("failRendimento.txt"):
+	remove("failRendimento.txt") #remove failRend if exists
+
 #Dataframe df_SQL will be used as input to mysql table Prod_Municipal
 df_SQL = DataFrame(columns = columnsTbl)
 
@@ -86,8 +107,8 @@ for file in listdir():
 		tmp_csv = read_csv(file)
 		tmp_csv = tmp_csv.dropna() #drop rows with null values
 		tmp_csv = tmp_csv.reset_index(drop = True)
-	
-	#check if file countains necessary columns
+			
+		#check if file countains necessary columns
 		for k in columnsMustCSV:
 
 			if k in tmp_csv.columns:
@@ -116,7 +137,8 @@ for file in listdir():
 		tmp_csv["Microrregião"].map(str.lower)  + \
 		tmp_csv["Mesorregião"].map(str.lower)
 		df_SQL["Municipio_ID"] = df_SQL["Municipio_ID"].str.replace('/',' e ')	
-
+		df_SQL = df_SQL[df_SQL["Area"]!=0] #drop rows with area = 0
+	
 		#mapping muncipios names to id
 		df_SQL["Municipio_ID"] = df_SQL["Municipio_ID"].apply(lambda k:\
 		municipios.Municipio_ID.loc[municipios.Municipio_Meso_Micro == k].values[0]\
@@ -128,18 +150,18 @@ for file in listdir():
 			print(file+" some municipios not found check failedMun.txt")
 			
 			failMun = list(dict.fromkeys(failMun)) #remove duplicates
-			with open('failedMun.txt', 'w') as writer:
+			with open('failedMun.txt', 'a') as writer:
 				for i in failMun:				
 					writer.write(file+":"+i+"\n")
 	
-		else:	
+		elif (testRendimento(df_SQL)):	
 			#Insert Pib_ID starting from the last ID in the table Prod_Municipal
 			df_SQL['Prod_ID'] = df_SQL.index + last_ID + 1
 			last_ID = df_SQL.iloc[-1,0]
 		
 			df_SQL.to_csv('Prod_Municipal.csv', index = False,\
 			header = False, mode = 'a')
-			sqlCMD.execute(loadCSV)
+			#sqlCMD.execute(loadCSV)
 			print(myCon.show_warnings())
 			myCon.commit()
 
@@ -147,6 +169,11 @@ for file in listdir():
 			df_SQL = DataFrame(columns = columnsTbl)
 
 			with open ('loadedFiles.txt', 'a') as writer:
+				writer.write(file+"\n")
+
+		else:
+			print("Rendimento failed check file failRendimento.txt")
+			with open ('failRendimento.txt', 'a') as writer:
 				writer.write(file+"\n")
 
 		failMun = []
