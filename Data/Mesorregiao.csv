@@ -1,138 +1,138 @@
-Mesorregiao_ID,Mesorregiao_Nome,Estado_ID
-1,Distrito Federal,27
-2,Norte de Goiás,8
-3,Noroeste de Goiás,8
-4,Leste de Goiás,8
-5,Centro de Goiás,8
-6,Sul Goiano,8
-7,Centro-Norte de Mato Grosso do Sul,11
-8,Leste de Mato Grosso do Sul,11
-9,Sudoeste de Mato Grosso do Sul,11
-10,Pantanais Sul-Mato-Grossenses,11
-11,Centro-Sul Mato-Grossense,10
-12,Nordeste Mato-Grossense,10
-13,Norte Mato-Grossense,10
-14,Sudeste Mato-Grossense,10
-15,Sudoeste Mato-Grossense,10
-16,Agreste Alagoano,2
-17,Leste Alagoano,2
-18,Sertão Alagoano,2
-19,Extremo Oeste Baiano,5
-20,Vale São-Franciscano da Bahia,5
-21,Centro-Sul Baiano,5
-22,Sul Baiano,5
-23,Centro-Norte Baiano,5
-24,Nordeste Baiano,5
-25,Metropolitana de Salvador,5
-26,Centro-Sul Cearense,6
-27,Jaguaribe,6
-28,Metropolitana de Fortaleza,6
-29,Noroeste Cearense,6
-30,Norte Cearense,6
-31,Sertões Cearenses,6
-32,Sul Cearense,6
-33,Centro Maranhense,9
-34,Leste Maranhense,9
-35,Norte Maranhense,9
-36,Oeste Maranhense,9
-37,Sul Maranhense,9
-38,Sertão Paraibano,14
-39,Borborema,14
-40,Agreste Paraibano,14
-41,Mata Paraibana,14
-42,São Francisco Pernambucano,16
-43,Sertão Pernambucano,16
-44,Agreste Pernambucano,16
-45,Mata Pernambucana,16
-46,Metropolitana do Recife,16
-47,Centro-Norte Piauiense,17
-48,Norte Piauiense,17
-49,Sudeste Piauiense,17
-50,Sudoeste Piauiense,17
-51,Oeste Potiguar,19
-52,Central Potiguar,19
-53,Agreste Potiguar,19
-54,Leste Potiguar,19
-55,Agreste Sergipano,25
-56,Leste Sergipano,25
-57,Sertão Sergipano,25
-58,Vale do Acre,1
-59,Vale do Juruá,1
-60,Centro Amazonense,4
-61,Norte Amazonense,4
-62,Sudoeste Amazonense,4
-63,Sul Amazonense,4
-64,Norte do Amapá,3
-65,Sul do Amapá,3
-66,Baixo Amazonas,13
-67,Marajó,13
-68,Metropolitana de Belém,13
-69,Nordeste Paraense,13
-70,Sudeste Paraense,13
-71,Sudoeste Paraense,13
-72,Leste Rondoniense,21
-73,Madeira-Guaporé,21
-74,Norte de Roraima,22
-75,Sul de Roraima,22
-76,Ocidental do Tocantins,26
-77,Oriental do Tocantins,26
-78,Central Espírito-Santense,7
-79,Litoral Norte Espírito-Santense,7
-80,Noroeste Espírito-Santense,7
-81,Sul Espírito-Santense,7
-82,Campo das Vertentes,12
-83,Central Mineira,12
-84,Jequitinhonha,12
-85,Metropolitana de Belo Horizonte,12
-86,Noroeste de Minas,12
-87,Norte de Minas,12
-88,Oeste de Minas,12
-89,Sul e Sudoeste de Minas,12
-90,Triângulo Mineiro e Alto Paranaíba,12
-91,Vale do Mucuri,12
-92,Vale do Rio Doce,12
-93,Zona da Mata,12
-94,Baixadas Litorâneas,18
-95,Centro Fluminense,18
-96,Metropolitana do Rio de Janeiro,18
-97,Noroeste Fluminense,18
-98,Norte Fluminense,18
-99,Sul Fluminense,18
-100,São José do Rio Preto,24
-101,Ribeirão Preto,24
-102,Araçatuba,24
-103,Bauru,24
-104,Araraquara,24
-105,Piracicaba,24
-106,Campinas,24
-107,Presidente Prudente,24
-108,Marília,24
-109,Assis,24
-110,Itapetininga,24
-111,Macro Metropolitana Paulista,24
-112,Vale do Paraíba Paulista,24
-113,Litoral Sul Paulista,24
-114,Metropolitana de São Paulo,24
-115,Centro Ocidental Paranaense,15
-116,Centro Oriental Paranaense,15
-117,Centro-Sul Paranaense,15
-118,Metropolitana de Curitiba,15
-119,Noroeste Paranaense,15
-120,Norte Central Paranaense,15
-121,Norte Pioneiro Paranaense,15
-122,Oeste Paranaense,15
-123,Sudeste Paranaense,15
-124,Sudoeste Paranaense,15
-125,Centro Ocidental Rio-Grandense,20
-126,Centro Oriental Rio-Grandense,20
-127,Metropolitana de Porto Alegre,20
-128,Nordeste Rio-Grandense,20
-129,Noroeste Rio-Grandense,20
-130,Sudeste Rio-Grandense,20
-131,Sudoeste Rio-Grandense,20
-132,Grande Florianópolis,23
-133,Norte Catarinense,23
-134,Oeste Catarinense,23
-135,Serrana,23
-136,Sul Catarinense,23
-137,Vale do Itajaí,23
+Mesorregião_ID,Nome_Mesorregião,"Estado ID"
+1,"Leste Rondoniense",21
+2,Madeira-Guaporé,21
+3,"Vale do Acre",1
+4,"Vale do Juruá",1
+5,"Centro Amazonense",4
+6,"Sudoeste Amazonense",4
+7,"Sul Amazonense",4
+8,"Norte Amazonense",4
+9,"Norte de Roraima",22
+10,"Sul de Roraima",22
+11,"Nordeste Paraense",13
+12,"Sudeste Paraense",13
+13,Marajó,13
+14,"Baixo Amazonas",13
+15,"Sudoeste Paraense",13
+16,"Metropolitana de Belém",13
+17,"Norte do Amapá",3
+18,"Sul do Amapá",3
+19,"Ocidental do Tocantins",26
+20,"Oriental do Tocantins",26
+21,"Oeste Maranhense",9
+22,"Leste Maranhense",9
+23,"Norte Maranhense",9
+24,"Sul Maranhense",9
+25,"Centro Maranhense",9
+26,"Sudeste Piauiense",17
+27,"Centro-Norte Piauiense",17
+28,"Sudoeste Piauiense",17
+29,"Norte Piauiense",17
+30,"Sul Cearense",6
+31,"Norte Cearense",6
+32,"Noroeste Cearense",6
+33,"Sertões Cearenses",6
+34,Jaguaribe,6
+35,"Centro-Sul Cearense",6
+36,"Metropolitana de Fortaleza",6
+37,"Central Potiguar",19
+38,"Oeste Potiguar",19
+39,"Leste Potiguar",19
+40,"Agreste Potiguar",19
+41,"Sertão Paraibano",14
+42,"Agreste Paraibano",14
+43,Borborema,14
+44,"Mata Paraibana",14
+45,"Metropolitana de Recife",16
+46,"Sertão Pernambucano",16
+47,"São Francisco Pernambucano",16
+48,"Agreste Pernambucano",16
+49,"Mata Pernambucana",16
+50,"Sertão Alagoano",2
+51,"Leste Alagoano",2
+52,"Agreste Alagoano",2
+53,"Leste Sergipano",25
+54,"Agreste Sergipano",25
+55,"Sertão Sergipano",25
+56,"Centro Sul Baiano",5
+57,"Vale São-Franciscano da Bahia",5
+58,"Nordeste Baiano",5
+59,"Centro Norte Baiano",5
+60,"Sul Baiano",5
+61,"Metropolitana de Salvador",5
+62,"Extremo Oeste Baiano",5
+63,"Triângulo Mineiro/Alto Paranaíba",12
+64,"Central Mineira",12
+65,"Zona da Mata",12
+66,"Vale do Rio Doce",12
+67,"Oeste de Minas",12
+68,"Vale do Mucuri",12
+69,"Norte de Minas",12
+70,"Sul/Sudoeste de Minas",12
+71,"Campo das Vertentes",12
+72,Jequitinhonha,12
+73,"Metropolitana de Belo Horizonte",12
+74,"Noroeste de Minas",12
+75,"Central Espírito-santense",7
+76,"Noroeste Espírito-santense",7
+77,"Sul Espírito-santense",7
+78,"Litoral Norte Espírito-santense",7
+79,"Sul Fluminense",18
+80,"Noroeste Fluminense",18
+81,Baixadas,18
+82,"Centro Fluminense",18
+83,"Metropolitana do Rio de Janeiro",18
+84,"Norte Fluminense",18
+85,"Presidente Prudente",24
+86,"São José do Rio Preto",24
+87,Campinas,24
+88,Bauru,24
+89,Piracicaba,24
+90,Itapetininga,24
+91,"Ribeirão Preto",24
+92,Araçatuba,24
+93,"Macro Metropolitana Paulista",24
+94,Marília,24
+95,Araraquara,24
+96,"Vale do Paraíba Paulista",24
+97,"Metropolitana de São Paulo",24
+98,Assis,24
+99,"Litoral Sul Paulista",24
+100,"Norte Pioneiro Paranaense",15
+101,"Metropolitana de Curitiba",15
+102,"Centro Ocidental Paranaense",15
+103,"Noroeste Paranaense",15
+104,"Norte Central Paranaense",15
+105,"Sudoeste Paranaense",15
+106,"Oeste Paranaense",15
+107,"Sudeste Paranaense",15
+108,"Centro Oriental Paranaense",15
+109,"Centro-Sul Paranaense",15
+110,Serrana,23
+111,"Oeste Catarinense",23
+112,"Vale do Itajaí",23
+113,"Grande Florianópolis",23
+114,"Norte Catarinense",23
+115,"Sul Catarinense",23
+116,"Sudoeste Rio-grandense",20
+117,"Noroeste Rio-grandense",20
+118,"Centro Ocidental Rio-grandense",20
+119,"Metropolitana de Porto Alegre",20
+120,"Sudeste Rio-grandense",20
+121,"Nordeste Rio-grandense",20
+122,"Centro Oriental Rio-grandense",20
+123,"Leste de Mato Grosso do Sul",11
+124,"Centro Norte de Mato Grosso do Sul",11
+125,"Sudoeste de Mato Grosso do Sul",11
+126,"Pantanais Sul Mato-grossense",11
+127,"Centro-Sul Mato-grossense",10
+128,"Nordeste Mato-grossense",10
+129,"Norte Mato-grossense",10
+130,"Sudeste Mato-grossense",10
+131,"Sudoeste Mato-grossense",10
+132,"Centro Goiano",8
+133,"Leste Goiano",8
+134,"Sul Goiano",8
+135,"Norte Goiano",8
+136,"Noroeste Goiano",8
+137,"Distrito Federal",27
