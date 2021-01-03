@@ -9,30 +9,13 @@ data will be taken from use these column names.
 '''
 
 from os import listdir
-from os import remove
-from os import path
 from pandas import read_csv
 from pandas import DataFrame
 from getpass import getpass
 from pymysql import connect
+import functionsLoadCSV as fl
 
-#script functions
-
-#This functions verifies if Rendimento = Produçao*1000/Area which is a constraint
-#of this dataset
-def testRendimento (df):
-
-	delta = 1e-6
-
-	trueTable = abs(df["Producao"].astype(float)/df["Area"].astype(float)\
-		   - df["Rendimento"].astype(float) / 1000) < delta
-
-	for k in trueTable:
-		if k == False:	return False
-	
-	return True
-
-
+#get mysql parameters
 password = getpass("Type password:\n")
 host = input("Type domain:\n")
 userName = input("Type user:\n")	
@@ -58,42 +41,30 @@ ENCLOSED BY '"' LINES TERMINATED BY '\n';'''
 columnsTbl = ["Prod_ID", "Cultura", "Ano", "Area", "Producao", "Rendimento",\
 "Valor", "Municipio_ID"]
 
-#Get Municipios ID
-
-municipios = read_csv("MunMicroMeso.csv")
-
-#it will be necessary when compare datasets to use lower cases
-municipios["Municipio_Meso_Micro"] = municipios["Municipio_Meso_Micro"].apply(lambda k: k.lower())
-
-#Municipios that doesn't exist in municipios
-failMun = []
-
 #Columns that csv file must contain
 
 columnsMustCSV = ["Nome Lavoura", "Ano", "Área Colhida(em Milhares de Hectares)",\
 "Qtd.Produzida(em Mil Toneladas)", "Rendimento Médio", "Valor Produção (em Milhares de R$)",\
 "Município"]
 
+#Municipios that doesn't exist in municipios
+failMun = []
+
 #Bool to check if file has necessary columns
 fileNotOk = False
 filesNotOk = []
-if path.exists("failFiles.txt"):
-	remove("failFiles.txt") #remove failFiles if exists
 
-if path.exists("loadedFiles.txt"):
-	remove("loadedFiles.txt") #remove loadedFiles if exists
-
-if path.exists("failedMun.txt"):
-	remove("failedMun.txt") #remove failedMun if exists
-
-if path.exists("Prod_Municipal.csv"):
-	remove("Prod_Municipal.csv") #remove failedMun if exists
-
-if path.exists("failRendimento.txt"):
-	remove("failRendimento.txt") #remove failRend if exists
+fl.removeLogFiles() #remove log files
 
 #Dataframe df_SQL will be used as input to mysql table Prod_Municipal
 df_SQL = DataFrame(columns = columnsTbl)
+
+#Get Municipios ID
+
+municipios = read_csv("MunMicroMeso.csv")
+
+#it will be necessary when compare datasets to use lower cases
+municipios["Municipio_Meso_Micro"] = fl.simplifyText(municipios["Municipio_Meso_Micro"])
 
 #Get all csv files in the current path
 for file in listdir():
@@ -130,15 +101,18 @@ for file in listdir():
 		df_SQL["Ano"] = tmp_csv["Ano"]
 		df_SQL["Area"] = tmp_csv["Área Colhida(em Milhares de Hectares)"]
 		df_SQL["Producao"] = tmp_csv["Qtd.Produzida(em Mil Toneladas)"]
-		df_SQL["Rendimento"] = tmp_csv["Rendimento Médio"]
 		df_SQL["Valor"] = tmp_csv["Valor Produção (em Milhares de R$)"]
-		df_SQL["Municipio_ID"] = tmp_csv["Município"].map(str.lower) + \
-		tmp_csv["Microrregião"].map(str.lower)  + \
-		tmp_csv["Mesorregião"].map(str.lower)
-		df_SQL["Municipio_ID"] = df_SQL["Municipio_ID"].str.replace('/',' e ')	
-		df_SQL = df_SQL[df_SQL["Area"]!=0] #drop rows with area = 0
+		df_SQL["Municipio_ID"] = tmp_csv["Município"].astype(str) + tmp_csv["Microrregião"].astype(str)\
+		+ tmp_csv["Mesorregião"].astype(str)
+		df_SQL["Municipio_ID"] = fl.simplifyText(df_SQL["Municipio_ID"])	
+		df_SQL = fl.simplifyNumber(df_SQL)		
+		
+		df_SQL = df_SQL[df_SQL["Area"].astype(float)!=0] #drop rows with area = 0
+		#Rendimento is a function of area
+		df_SQL["Rendimento"] = (df_SQL["Producao"]*1000/df_SQL["Area"])
 	
 		#mapping muncipios names to id
+		df_SQL["Municipio_ID"] = df_SQL["Municipio_ID"].astype(str)
 		df_SQL["Municipio_ID"] = df_SQL["Municipio_ID"].apply(lambda k:\
 		municipios.Municipio_ID.loc[municipios.Municipio_Meso_Micro == k].values[0]\
 		if len(municipios.Municipio_ID.loc[municipios.Municipio_Meso_Micro == k]) != 0\
@@ -153,7 +127,7 @@ for file in listdir():
 				for i in failMun:				
 					writer.write(file+":"+i+"\n")
 	
-		elif (testRendimento(df_SQL)):	
+		else:	
 			#Insert Pib_ID starting from the last ID in the table Prod_Municipal
 			df_SQL['Prod_ID'] = df_SQL.index + last_ID + 1
 			last_ID = df_SQL.iloc[-1,0]
@@ -161,18 +135,18 @@ for file in listdir():
 			df_SQL.to_csv('Prod_Municipal.csv', index = False,\
 			header = False, mode = 'a')
 			sqlCMD.execute(loadCSV)
-			print(myCon.show_warnings())
+
 			myCon.commit()
+
+			if len(myCon.show_warnings()) == 0:
+				print(file+" succesfully loaded with no warnings!")
+
+			else: print(myCon.show_warnings())
 
 			#create new empty dataframe
 			df_SQL = DataFrame(columns = columnsTbl)
 
 			with open ('loadedFiles.txt', 'a') as writer:
-				writer.write(file+"\n")
-
-		else:
-			print("Rendimento failed check file failRendimento.txt")
-			with open ('failRendimento.txt', 'a') as writer:
 				writer.write(file+"\n")
 
 		failMun = []
