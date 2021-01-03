@@ -3,7 +3,7 @@
 from os import remove
 from os import path
 
-#function that organize numerical data because some files use , as thousand
+#function that organizes numerical data because some files use , as thousand
 #separator or , as decimal separator
 
 def simplifyNumber (df):
@@ -26,7 +26,7 @@ data manipulation through the project.'''
 
 def simplifyText (pdSeries):
 	
-	#it's better to work with homgenous casing
+	#it's better to work with homogenous casing
 	pdSeries = pdSeries.str.lower()
 
 	#problems with accent in Portuguese
