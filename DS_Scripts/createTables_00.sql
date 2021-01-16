@@ -5,6 +5,16 @@ CREATE DATABASE BRAZILDS;
 
 USE BRAZILDS;
 
+#Support tables
+CREATE TABLE Culturas (
+
+	Cultura_ID INT Primary Key NOT NULL,
+	Cultura_Nome VARCHAR (32)
+
+);
+
+
+#Cidades e Regiões tables
 CREATE TABLE Regiao (
 
 	Regiao_ID INT Primary Key NOT NULL,
@@ -50,6 +60,8 @@ CREATE TABLE Municipios (
 
 );
 
+
+#Geografia Econômica tables
 CREATE TABLE Pib_Municipal (
 
 	PIB_ID INT PRIMARY KEY NOT NULL,
@@ -65,13 +77,15 @@ CREATE TABLE Pib_Municipal (
 CREATE TABLE Prod_Municipal (
 
 	Prod_ID INT PRIMARY KEY NOT NULL,
-	Cultura VARCHAR (32),
+	Cultura_ID INT,
 	ANO INT,
-	Area FLOAT,
+	AreaPlant FLOAT,
+	AreaHarv FLOAT,
 	Producao FLOAT,
 	Rendimento FLOAT,
 	Valor FLOAT,
 	Municipio_ID INT,
+	FOREIGN KEY (Cultura_ID) REFERENCES Culturas (Cultura_ID),
 	FOREIGN KEY (Municipio_ID) REFERENCES Municipios (Municipio_ID)
 
 );
