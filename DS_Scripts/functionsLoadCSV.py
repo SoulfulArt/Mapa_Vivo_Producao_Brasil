@@ -2,19 +2,24 @@
 
 from os import remove
 from os import path
+from numpy import nan
 
 #function that organizes numerical data because some files use , as thousand
 #separator or , as decimal separator
 
 def simplifyNumber (df):
 	
-	df["Producao"] = df["Producao"].astype(str).str.replace(',','')
-	df["AreaH"] = df["AreaH"].astype(str).str.replace(',','')
-	df["Valor"] = df["Valor"].astype(str).str.replace(',','')
+	df["Producao"] = df["Producao"].astype(str).str.replace(',','.')
+	df["AreaH"] = df["AreaH"].astype(str).str.replace(',','.')
+	df["Valor"] = df["Valor"].astype(str).str.replace(',','.')
 
 	df["Producao"] = df["Producao"].astype(float)
 	df["AreaH"] = df["AreaH"].astype(float)
 	df["Valor"] = df["Valor"].astype(float)
+	
+	#Rendimento is a function of producao and area
+	df["Rendimento"] = (df["Producao"]*1000/df["AreaH"])
+	df["Rendimento"] = round(df["Rendimento"],2)
 
 	return df
 
@@ -64,6 +69,8 @@ def simplifyText (pdSeries):
 	pdSeries = pdSeries.str.replace(' moz',' mos') # moz x mos (porto)
 	pdSeries = pdSeries.str.replace(' luz',' lus') # santa luz x lus
 	pdSeries = pdSeries.str.replace('cruz','crus') #vera cruz x crus
+	pdSeries = pdSeries.str.replace('das artes','') #embu das artes x embu
+	pdSeries = pdSeries.str.replace('terezinha','teresinha') #terezinha x teresinha
 	
 	#articles
 	pdSeries = pdSeries.str.replace(' de ','dx')
@@ -96,6 +103,7 @@ def simplifyText (pdSeries):
 	pdSeries = pdSeries.str.replace('(pe)','', regex = False)
 	pdSeries = pdSeries.str.replace('(pi)','', regex = False)
 	pdSeries = pdSeries.str.replace('(rj)','', regex = False)
+	pdSeries = pdSeries.str.replace('(rg)','', regex = False)
 	pdSeries = pdSeries.str.replace('(rn)','', regex = False)
 	pdSeries = pdSeries.str.replace('(rs)','', regex = False)
 	pdSeries = pdSeries.str.replace('(ro)','', regex = False)
@@ -106,20 +114,20 @@ def simplifyText (pdSeries):
 	pdSeries = pdSeries.str.replace('(to)','', regex = False)
 			
 	return pdSeries
-
-def removeLogFiles ():
-
-	if path.exists("Log_Files/failFiles.txt"):
-		remove("Log_Files/failFiles.txt") #remove failFiles if exists
-
-	if path.exists("Log_Files/loadedFiles.txt"):
-		remove("Log_Files/loadedFiles.txt") #remove loadedFiles if exists
-
-	if path.exists("Log_Files/failedMun.txt"):
-		remove("Log_Files/failedMun.txt") #remove failedMun if exists
 		
-	if path.exists("Log_Files/failedCult.txt"):
-		remove("Log_Files/failedCult.txt") #remove failedMun if exists
+#Function cleanDataCSV clens data from a DataFrame
 
-	if path.exists("Prod_Municipal.csv"):
-		remove("Prod_Municipal.csv") #remove failedMun if exists
+def cleanDataCSV (df):
+		
+		#Valor Produção (Moeda em Real) must have number values
+		df = df[df['Valor Produção (Moeda em Real)']!='...']
+		df = df[df['Valor Produção (Moeda em Real)']!='..']
+		df = df[df['Valor Produção (Moeda em Real)']!='-']
+		df = df[df['Nome Lavoura']!='Total']
+		
+		#Qtd.Produzida can't be NaN, but Valor can
+		df = df[df["Qtd.Produzida"].notna()]
+				
+		df = df.reset_index(drop = True)
+		
+		return df

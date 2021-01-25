@@ -1,0 +1,8 @@
+Batata Inglesa safra 2.csv:batatainglesa2ªsafra
+IMPRIMIR_Brasil_html (2).csv:feigao(emgrao)1ªsafra
+Batata Inglesa safra 1.csv:batatainglesa1ªsafra
+Batata inglesa safra 3.csv:batatainglesa3ªsafra
+IMPRIMIR_Brasil_html (3).csv:feigao(emgrao)2ªsafra
+Amendoim (Em casca) 2 safra.csv:amendoim(emcasca)2ªsafra
+IMPRIMIR_Brasil_html (4).csv:feigao(emgrao)3ªsafra
+Amendoim (Em casca) 1 safra.csv:amendoim(emcasca)1ªsafra

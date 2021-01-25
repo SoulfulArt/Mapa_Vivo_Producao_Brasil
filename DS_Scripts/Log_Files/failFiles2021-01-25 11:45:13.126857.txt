@@ -1,0 +1,4 @@
+Algodão arbóreo_CO.csv:no valuable data
+Algodão arbóreo_Norte.csv:no valuable data
+Algodão arbóreo_Sul.csv:no valuable data
+Algodão arbóreo_Sudeste.csv:no valuable data

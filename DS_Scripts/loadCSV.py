@@ -1,6 +1,5 @@
 '''
-This script load all csv files in the current path to the table Prod_Municipal.
-The CSV files must be in the same folder where the script is being executed.
+This script load all csv files in the folder Dados to the table Prod_Municipal.
 The CSV file must also has at least these columns "Nome Lavoura",
 "Município", "Ano", "Área Colhida(em Milhares de Hectares)","Qtd.Produzida(em 
 Mil Toneladas)", "Rendimento Médio", "Valor Produção (em Milhares de R$)" and 
@@ -10,12 +9,15 @@ data will be taken from use these column names.
 
 from os import listdir
 from os import environ
+from os import removedirs
 from pandas import read_csv
 from pandas import DataFrame
 from getpass import getpass
 from pymysql import connect
 import functionsLoadCSV as fl
-"""
+from datetime import datetime
+from shutil import rmtree
+
 #get mysql parameters
 password = getpass("Type password:\n")
 host = input("Type domain:\n")
@@ -37,12 +39,13 @@ if last_ID == None: last_ID = 0
 loadCSV = '''LOAD DATA LOCAL INFILE  'Prod_Municipal.csv' 
 INTO TABLE Prod_Municipal FIELDS TERMINATED BY ','
 ENCLOSED BY '"' LINES TERMINATED BY '\n' IGNORE 1 ROWS;'''
-"""
+
 #Columns in the table Prod_Municipal
 columnsTbl = ["Prod_ID", "Cultura", "Ano", "AreaP","AreaH", "Producao",\
 "Rendimento", "Valor", "Municipio_ID"]
 
-last_ID = 0
+#Get current date
+dateNow = str(datetime.now())
 
 #Columns that csv file must contain
 
@@ -60,34 +63,39 @@ failCult = []
 fileNotOk = False
 filesNotOk = []
 
-fl.removeLogFiles() #remove log files
-
 #Dataframe df_SQL will be used as input to mysql table Prod_Municipal
 df_SQL = DataFrame(columns = columnsTbl)
 
+dadosDir = environ["PWD"].replace("DS_Scripts","Data")
+
 #Get Municipios ID
-municipios = read_csv("Support_Files/MunMicroMeso.csv")
+municipios = read_csv(dadosDir+"/MunMicroMeso.csv")
 
 #Simplify text for better mapping
-municipios["mun_mic_mes"] = fl.simplifyText(municipios["mun_mic_mes"])
+municipios["Municipio_Meso_Micro"] = fl.simplifyText(municipios["Municipio_Meso_Micro"])
 
 #Get Culturas_ID
-culturas = read_csv(environ["OLDPWD"]+"/Data/Culturas.csv")
+culturas = read_csv(dadosDir+"/Culturas.csv")
 
 #Simplify text for better mapping
 culturas["Nome"] = fl.simplifyText(culturas["Nome"])
 
 #Get all csv files in the current path
-for file in listdir():
+for file in listdir('Dados/'):
 	
 	#check if file is csv
-	if (file.split('.')[-1] == "csv" and\
-	file.split('.')[0]!="Prod_Municipal"):
+	if (file.split('.')[-1] == "csv"):
+	
+		#reset variables and dfs
+		failMun = []
+		failCult = []
+		fileNotOk = False
+		df_SQL = DataFrame(columns = columnsTbl)
 		
-		tmp_csv = read_csv(file)
-		tmp_csv = tmp_csv.dropna() #drop rows with null values
-		tmp_csv = tmp_csv.reset_index(drop = True)
-			
+		tmp_csv = fl.cleanDataCSV(read_csv('Dados/'+file))
+		
+		print("Loading file: "+file+" ...")
+				
 		#check if file countains necessary columns
 		for k in columnsMustCSV:
 
@@ -101,9 +109,14 @@ for file in listdir():
 
 		if fileNotOk:
 			print("File "+file.split('.')[0]+" doesn't have necessary columns")
-			with open ('Log_Files/failFiles.txt', 'a') as writer:
-				writer.write(file+"\n")
-
+			with open ('Log_Files/failFiles'+dateNow+'.txt', 'a') as writer:
+				writer.write(file+": no columns\n")
+			continue
+		
+		if tmp_csv.empty:
+			print("File "+file.split('.')[0]+" has no valuable data")	
+			with open ('Log_Files/failFiles'+dateNow+'.txt', 'a') as writer:
+				writer.write(file+":no valuable data\n")
 			continue
 
 		#mapping columns from csv file to the df_SQL
@@ -117,47 +130,45 @@ for file in listdir():
 		tmp_csv["Nome Microrregião"].astype(str)\
 		+ tmp_csv["Nome Mesorregião"].astype(str)
 		df_SQL["Municipio_ID"] = fl.simplifyText(df_SQL["Municipio_ID"])	
-		df_SQL = fl.simplifyNumber(df_SQL)		
-		
-		df_SQL = df_SQL[df_SQL["AreaH"].astype(float)!=0] #drop rows with area = 0
-		#Rendimento is a function of producao and area
-		df_SQL["Rendimento"] = (df_SQL["Producao"]*1000/df_SQL["AreaH"])
-		df_SQL["Rendimento"] = round(df_SQL["Rendimento"],2)
+		df_SQL = fl.simplifyNumber(df_SQL)
 		
 		#mapping culturas to culturas_id
 		df_SQL["Cultura"] = df_SQL["Cultura"].apply(lambda k:\
 		culturas.ID.loc[culturas.Nome == k].values[0]\
 		if len(culturas.ID.loc[culturas.Nome == k]) != 0\
 		else failCult.append(k))
-		
+
 		#mapping muncipios names to id
 		df_SQL["Municipio_ID"] = df_SQL["Municipio_ID"].astype(str)
 		df_SQL["Municipio_ID"] = df_SQL["Municipio_ID"].apply(lambda k:\
-		municipios.Municipio_ID.loc[municipios.mun_mic_mes == k].values[0]\
-		if len(municipios.Municipio_ID.loc[municipios.mun_mic_mes == k]) != 0\
+		municipios.Municipio_ID.loc[municipios.Municipio_Meso_Micro == k].values[0]\
+		if len(municipios.Municipio_ID.loc[municipios.Municipio_Meso_Micro == k]) != 0\
 		else failMun.append(k))					
 
 		#Print culturas that were not found
 		failCult = list(dict.fromkeys(failCult)) #remove duplicates
-		with open('Log_Files/failedCult.txt', 'a') as writer:
+		with open('Log_Files/failedCult'+dateNow+'.txt', 'a') as writer:
 			for i in failCult:				
-					writer.write(file+":"+i+"\n")
+				writer.write(file+":"+str(i)+"\n")
 
 		#Print municipios that were not found	
 		failMun = list(dict.fromkeys(failMun)) #remove duplicates
-		with open('Log_Files/failedMun.txt', 'a') as writer:
+		with open('Log_Files/failedMun'+dateNow+'.txt', 'a') as writer:
 			for i in failMun:				
 				writer.write(file+":"+i+"\n")
 				
 		if (len (failCult) > 0 and len (failMun) == 0):
 			print(file+" some culturas not found check failedCult.txt")
+			continue
 
 		elif (len (failCult) == 0 and len (failMun) > 0):
 			print(file+" some municipios not found check failedMun.txt")
+			continue
 			
 		elif (len (failCult) > 0 and len (failMun) > 0):
 			print(file+" some municipios not found check failedMun.txt")
 			print(file+" some culturas not found check failedCult.txt")
+			continue
 			
 		else:	
 			#Insert Pib_ID starting from the last ID in the table Prod_Municipal
@@ -168,24 +179,22 @@ for file in listdir():
 			df_SQL["Cultura"] = df_SQL["Cultura"].astype(int)
 		
 			df_SQL.to_csv('Prod_Municipal.csv', index = False)
-			#sqlCMD.execute(loadCSV)
+			sqlCMD.execute(loadCSV)
 
-			#myCon.commit()
+			myCon.commit()
 
-			#if len(myCon.show_warnings()) == 0:
-			#	print(file+" succesfully loaded with no warnings!")
+			if len(myCon.show_warnings()) == 0:
+				print(file+" succesfully loaded with no warnings!")
 
-			#else: print(myCon.show_warnings())
+			else: print(myCon.show_warnings())
 
 			#create new empty dataframe
 			df_SQL = DataFrame(columns = columnsTbl)
 
-			with open ('Log_Files/loadedFiles.txt', 'a') as writer:
+			with open ('Log_Files/loadedFiles'+dateNow+'.txt', 'a') as writer:
 				writer.write(file+"\n")
 
-		failMun = []
-		failCult = []
-		fileNotOk = False
+rmtree("__pycache__")
 
 #close mysql connection
-#myCon.close()
+myCon.close()
