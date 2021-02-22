@@ -56,7 +56,6 @@ for file in listdir():
 outCSV["Município"] = tmp_csv["Município"]
 outCSV["Ano"] = tmp_csv["Ano"]
 outCSV["Cultura"] = tmp_csv["Lavoura"]
-outCSV["Área Plantada"] = 0
 
 #clean data
 outCSV = sf.clean_csv(outCSV)
