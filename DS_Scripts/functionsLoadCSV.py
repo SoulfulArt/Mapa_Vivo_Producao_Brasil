@@ -2,7 +2,6 @@
 
 from os import remove
 from os import path
-from numpy import nan
 
 #function that organizes numerical data because some files use , as thousand
 #separator or , as decimal separator
@@ -18,7 +17,7 @@ def simplifyNumber (df):
 	df["Valor"] = df["Valor"].astype(float)
 	
 	#Rendimento is a function of producao and area
-	df["Rendimento"] = (df["Producao"]*1000/df["AreaH"])
+	df["Rendimento"] = (df["Producao"]/df["AreaH"])
 	df["Rendimento"] = round(df["Rendimento"],2)
 
 	return df

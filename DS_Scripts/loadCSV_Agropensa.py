@@ -50,7 +50,7 @@ dateNow = str(datetime.now())
 #Columns that csv file must contain
 
 columnsMustCSV = ["Nome Lavoura", "Ano", "Área Colhida",\
-"Qtd.Produzida", "Valor Produção (Moeda em Real)",\
+"Qtd.Produzida", "Valor Produção (Moeda em Real)"\
 "Nome Município IBGE"]
 
 #Municipios that doesn't exist in municipios
@@ -122,7 +122,7 @@ for file in listdir('Dados/'):
 		#mapping columns from csv file to the df_SQL
 		df_SQL["Cultura"] = fl.simplifyText(tmp_csv["Nome Lavoura"])
 		df_SQL["Ano"] = tmp_csv["Ano"]
-		df_SQL["AreaP"] = 0
+		df_SQL["AreaP"] = tmp_csv["Área plantada"]
 		df_SQL["AreaH"] = tmp_csv["Área Colhida"]
 		df_SQL["Producao"] = tmp_csv["Qtd.Produzida"]
 		df_SQL["Valor"] = tmp_csv["Valor Produção (Moeda em Real)"]

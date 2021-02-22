@@ -1,80 +1,84 @@
 ID,Nome
 1,Abacate
 2,Abacaxi
-3,Algodão Arbóreo (em caroço)
-4,Algodão Herbáceo (em caroço)
-5,Alho
-6,Amendoim (em casca)
-7,Amendoim (em casca) – 1ª Safra
-8,Amendoim (em casca) – 2ª Safra
-9,Arroz (em casca)
-10,Aveia (em grão)
-11,Azeitona
-12,Banana (cacho)
-13,Batata-doce
-14,Batata-inglesa
-15,Batata-inglesa – 1ª Safra
-16,Batata-inglesa – 2ª Safra
-17,Batata-inglesa – 3ª Safra
-18,Borracha (látex coagulado)
-19,Cacau (em amêndoa)
-20,Café (em grão) Arábica
-21,Café (em grão) Canephora
-22,Café (em grão) Total
-23,Cana-de-açucar
-24,Caqui
-25,Castanha de caju
-26,Cebola
-27,Centeio (em grão)
-28,Chá-da-india (folha verde)
-29,Coco-da-baía
-30,Dendê (cacho de coco)
-31,Erva-mate (folha verde)
-32,Ervilha (em grão)
-33,Fava (em grão)
-34,Feijão (em grão)
-35,Feijão (em grão) – 1ª Safra
-36,Feijão (em grão) – 2ª Safra
-37,Feijão (em grão) – 3ª Safra
-38,Figo
-39,Fumo (em folha)
-40,Girassol (em grão)
-41,Goiaba
-42,Guaraná (semente)
-43,Juta (fibra)
-44,Laranja
-45,Limão
-46,Linho (semente)
-47,Maçã
-48,Malva (fibra)
-49,Mamão
-50,Mamona (baga)
-51,Mandioca
-52,Manga
-53,Maracujá
-54,Marmelo
-55,Melancia
-56,Melão
-57,Milho (em grão)
-58,Milho (em grão) – 1ª Safra
-59,Milho (em grão) – 2ª Safra
-60,Noz (fruto seco)
-61,Palmito
-62,Pera
-63,Pêssego
-64,Pimenta-do-reino
-65,Rami (fibra)
-66,Sisal ou agave (fibra)
-67,Soja (em grão)
-68,Sorgo (em grão)
-69,Tangerina
-70,Tomate
-71,Trigo (em grão)
-72,Triticale (em grão)
-73,Total
-74,Urucum (semente)
-75,Açaí
-76,Cana-de-açúcar
-77,Uva
-78,Cevada (em grão)
-79,Tungue (fruto seco)
+3,Açaí
+4,Alfafa Fenada
+5,Algodão Arbóreo (em caroço)
+6,Algodão Herbáceo (em caroço)
+7,Alho
+8,Amendoim (em casca)
+9,Amendoim (em casca) – 1ª Safra
+10,Amendoim (em casca) – 2ª Safra
+11,Arroz (em casca)
+12,Aveia (em grão)
+13,Azeitona
+14,Banana (cacho)
+15,Batata-doce
+16,Batata-inglesa
+17,Batata-inglesa – 1ª Safra
+18,Batata-inglesa – 2ª Safra
+19,Batata-inglesa – 3ª Safra
+20,Borracha (látex coagulado)
+21,Borracha (látex líquido)
+22,Cacau (em amêndoa)
+23,Café (em grão) Arábica
+24,Café (em grão) Canephora
+25,Café (em grão) Total
+26,Caju
+27,Cana para forragem
+28,Cana-de-açucar
+29,Cana-de-açúcar
+30,Caqui
+31,Castanha de caju
+32,Cebola
+33,Centeio (em grão)
+34,Cevada (em grão)
+35,Chá-da-índia (folha verde)
+36,Coco-da-baía
+37,Dendê (cacho de coco)
+38,Erva-mate (folha verde)
+39,Ervilha (em grão)
+40,Fava (em grão)
+41,Feijão (em grão)
+42,Feijão (em grão) – 1ª Safra
+43,Feijão (em grão) – 2ª Safra
+44,Feijão (em grão) – 3ª Safra
+45,Figo
+46,Fumo (em folha)
+47,Girassol (em grão)
+48,Goiaba
+49,Guaraná (semente)
+50,Juta (fibra)
+51,Laranja
+52,Limão
+53,Linho (semente)
+54,Maçã
+55,Malva (fibra)
+56,Mamão
+57,Mamona (baga)
+58,Mandioca
+59,Manga
+60,Maracujá
+61,Marmelo
+62,Melancia
+63,Melão
+64,Milho (em grão)
+65,Milho (em grão) – 1ª Safra
+66,Milho (em grão) – 2ª Safra
+67,Noz (fruto seco)
+68,Palmito
+69,Pera
+70,Pêssego
+71,Pimenta-do-reino
+72,Rami (fibra)
+73,Sisal ou agave (fibra)
+74,Soja (em grão)
+75,Sorgo (em grão)
+76,Tangerina
+77,Tomate
+78,Total
+79,Trigo (em grão)
+80,Triticale (em grão)
+81,Tungue (fruto seco)
+82,Urucum (semente)
+83,Uva
